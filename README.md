@@ -37,9 +37,8 @@
 
 ## other applications I havent used much (use with caution)
 
--[HellzergOptimizer](https://github.com/hellzerg/optimizer)
-
--[ThisIsNot11](https://github.com/builtbybel/ThisIsNot11)
+- [HellzergOptimizer](https://github.com/hellzerg/optimizer)
+- [ThisIsNot11](https://github.com/builtbybel/ThisIsNot11)
 
 
 # 🖌️ Customization
