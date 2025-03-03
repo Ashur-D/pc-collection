@@ -26,7 +26,9 @@
 
 ### Applications Needed
 
-- [Run WinUtil](https://github.com/ChrisTitusTech/winutil)  or just run this:  `irm https://christitus.com/win | iex `
+- [Run WinUtil](https://github.com/ChrisTitusTech/winutil) or run the command:  `irm https://christitus.com/win | iex `
+- [Run Winhance](https://github.com/memstechtips/Winhance) or run the command: `irm "https://github.com/memstechtips/Winhance/raw/main/Winhance.ps1" | iex`
+- 
 
 ## 🖌️Windows Custimization
 
