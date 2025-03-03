@@ -11,7 +11,7 @@
    - [ Applications needed](#-Applications-Needed)
 
 
-## 📸 Screenshots
+### 📸 Screenshots
 
 ![Screenshot 2025-03-02 144930](https://github.com/user-attachments/assets/955cf1f2-a59f-4e91-99a3-64bb2d696e90)
 
@@ -21,17 +21,17 @@
 
 ![Screenshot 2025-03-02 144112](https://github.com/user-attachments/assets/a7d6ca6b-e995-44ed-b44f-df19db4e8c28)
 
-## 🛠️ Optimizations
+# 🛠️ Optimizations
 
-# Applications Needed
+## Applications Needed
 
 - [Download WinUtil](https://github.com/ChrisTitusTech/winutil) or run the command:  `irm https://christitus.com/win | iex `
 - [Download Winhance](https://github.com/memstechtips/Winhance) or run the command: `irm "https://github.com/memstechtips/Winhance/raw/main/Winhance.ps1" | iex`
 - 
 
-## 🖌️Windows Custimization
+# 🖌️Windows Custimization
 
-# Applications Needed
+## Applications Needed
 
 
 [optimizations](#optimizations)
