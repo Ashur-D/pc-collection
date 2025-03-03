@@ -14,6 +14,8 @@
 
 ![Screenshot 2025-03-02 144930](https://github.com/user-attachments/assets/955cf1f2-a59f-4e91-99a3-64bb2d696e90)
 
+![image](https://github.com/user-attachments/assets/03fbd0ea-96db-47dc-8a59-687fb35f9286)
+
 ![Screenshot 2025-03-02 144413](https://github.com/user-attachments/assets/02de84cf-6678-4b4f-8312-8e4652d715f2)
 
 ![Screenshot 2025-03-02 144030](https://github.com/user-attachments/assets/8589b27a-b3a7-418e-a384-7696783bb3a9)
@@ -32,6 +34,10 @@
 - [Download NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
 - [Download MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
 - [Download Process Lasso](https://bitsum.com/)
+
+## other applications I havent used much
+-[hellzerg/optimizer](https://github.com/hellzerg/optimizer)
+-[ThisIsNot11](https://github.com/builtbybel/ThisIsNot11)
 
 # 🖌️ Customization
 
