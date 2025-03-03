@@ -35,7 +35,7 @@
 - [Download MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
 - [Download Process Lasso](https://bitsum.com/)
 
-## other applications I havent used much > [!use with caution]
+## other applications I havent used much (use with caution)
 
 -[HellzergOptimizer](https://github.com/hellzerg/optimizer)
 
