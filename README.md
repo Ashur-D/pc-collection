@@ -1,7 +1,7 @@
 # Personal Windows 11 Optimization and Customization Guide
 
 > [!IMPORTANT]
-> This guide will be updated anytime I change any major settings. I am not responsible for any damage that may happen on your system, these are all the steps that worked for me and caused no damage but this may differ for each system
+> This guide will be updated anytime I change any major settings. I am not responsible for any damage that may happen on your system, these are all the steps that worked for me and caused no damage but this may differ for each system.
 
 ## 🌐 Quick Navigation
 - [📸 Screenshots](#screenshots)
