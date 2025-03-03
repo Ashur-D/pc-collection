@@ -6,6 +6,7 @@
 ## 🌐 Quick Navigation
   - [📸 Screenshots](#-screenshots)
   - [🖌️Windows Custimization](#-Windows-Custimization)
+     - [ Applications needed](#-Applications-Needed)
 
 
 ## 📸 Screenshots
@@ -21,6 +22,6 @@
 
 ## 🖌️Windows Custimization
 
-
+  ## Applications-Needed
 
 
