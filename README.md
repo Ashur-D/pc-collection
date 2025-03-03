@@ -5,7 +5,7 @@
 
 ## 🌐 Quick Navigation
   - [📸 Screenshots](#-screenshots)
-  - [🖌️ Windows-Custimization](#-Windows-Custimization)
+  - [🖌️ Windows-Custimization](#-WindowsCustimization)
 
 
 ## 📸 Screenshots
