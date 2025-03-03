@@ -1,7 +1,7 @@
 # Personal Windows 11 Optimization and Customization Guide
 
 > [!IMPORTANT]
-> This guide will be updated anytime I change any major settings. I am not responsible for any damage that may happen on your system, these are all the steps that worked for me and caused no damage but this may differ for each system.
+> This guide will be updated anytime I change any major settings or feel the need to expand on certain topics. I am not responsible for any damage that may happen on your system, these are all the steps that worked for me and caused no damage but this may differ for each system.
 
 ## 🌐 Quick Navigation
 - [📸 Screenshots](#-screenshots)
@@ -44,3 +44,10 @@
 # 🖌️ Customization
 
 ## Applications Needed
+
+- [StartAllBack](https://www.startallback.com/) (This program has a free 90 trial)
+- [Nilesoft](https://nilesoft.org/) (this is for changing the windwos context menu)
+> the next 3 websites are used together to create custom windows themes
+- [UxTheme](https://mhoefs.eu/software_uxtheme.php?ref=syssel&lang=en)
+- [deviantartNiivu](https://www.deviantart.com/niivu) (Uou can use other artists themes but I prefer Niivu)
+- [VinStarTheme](https://www.vinstartheme.com/) (Im pretty sure this site steals other peoples work as I asked Niivu, his content was stolen and put on there, use with caution as it may have older versions)
