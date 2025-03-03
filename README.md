@@ -24,7 +24,7 @@
 
 # 🛠️ Optimizations
 
-## Programs
+## Programs Needed
 
 - [Download WinUtil](https://github.com/ChrisTitusTech/winutil) or run the command: `irm https://christitus.com/win | iex`
   
@@ -51,7 +51,7 @@
 
 # 🖌️ Customization
 
-## Programs Needed
+## Programs
 
 - [StartAllBack](https://www.startallback.com/) (This program is for changing the windows startmenu, file explorer, tray icons, etc. It has a free 90 trial)
   
