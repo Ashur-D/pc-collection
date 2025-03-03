@@ -11,7 +11,7 @@
    - [ Applications needed](#-Applications-Needed)
 
 
-### 📸 Screenshots
+# 📸 Screenshots
 
 ![Screenshot 2025-03-02 144930](https://github.com/user-attachments/assets/955cf1f2-a59f-4e91-99a3-64bb2d696e90)
 
