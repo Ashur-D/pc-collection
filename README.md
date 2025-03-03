@@ -4,12 +4,12 @@
 > This guide will be updated anytime I change any major settings.
 
 ## 🌐 Quick Navigation
-- [📸 Screenshots](#screenshots)
+- [📸 Screenshots](#-screenshots)
 - [🛠️ Optimizations](#-optimizations)
    - [ Applications needed](#-Applications-Needed)
 - [🖌️Windows Custimization](#-Windows-Custimization)
    - [ Applications needed](#-Applications-Needed)
-
+#usage
 
 # 📸 Screenshots
 
@@ -35,3 +35,4 @@
 
 
 
+- [Usage](#usage)
