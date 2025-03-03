@@ -6,8 +6,9 @@
 ## 🌐 Quick Navigation
 - [📸 Screenshots](#-screenshots)
 - [🖌️Windows Custimization](#-Windows-Custimization)
-- [ Applications needed](#-Applications-Needed)
+   - [ Applications needed](#-Applications-Needed)
 - [🛠️Windows Optimizations](#-🛠️Windows-Optimizations)
+   - [ Applications needed](#-Applications-Needed)
 
 
 
@@ -24,6 +25,8 @@
 ## 🛠️Windows Optimizations
 
 ### Applications Needed
+
+- [Run WinUtil](https://github.com/ChrisTitusTech/winutil)  or just run this:  `irm https://christitus.com/win | iex `
 
 ## 🖌️Windows Custimization
 
