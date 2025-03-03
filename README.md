@@ -23,7 +23,7 @@
 
 ## 🛠️ Optimizations
 
-### Applications Needed
+# Applications Needed
 
 - [Download WinUtil](https://github.com/ChrisTitusTech/winutil) or run the command:  `irm https://christitus.com/win | iex `
 - [Download Winhance](https://github.com/memstechtips/Winhance) or run the command: `irm "https://github.com/memstechtips/Winhance/raw/main/Winhance.ps1" | iex`
@@ -31,6 +31,9 @@
 
 ## 🖌️Windows Custimization
 
-### Applications Needed
+# Applications Needed
 
 
+[optimizations](#optimizations)
+ 
+<a name="optimizations"></a>
