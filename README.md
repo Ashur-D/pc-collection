@@ -7,7 +7,8 @@
 - [📸 Screenshots](#-screenshots)
 - [🖌️Windows Custimization](#-Windows-Custimization)
 - [ Applications needed](#-Applications-Needed)
--[🛠️Windows Optimizations](#-🛠️Windows-Optimizations)
+- [🛠️Windows Optimizations](#-🛠️Windows-Optimizations)
+
 
 
 ## 📸 Screenshots
