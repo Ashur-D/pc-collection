@@ -36,8 +36,9 @@
 - [Download Process Lasso](https://bitsum.com/)
 
 ## other applications I havent used much
--[hellzerg/optimizer](https://github.com/hellzerg/optimizer)
+-[HellzergOptimizer](https://github.com/hellzerg/optimizer)
 -[ThisIsNot11](https://github.com/builtbybel/ThisIsNot11)
+
 
 # 🖌️ Customization
 
