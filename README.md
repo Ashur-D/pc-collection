@@ -4,9 +4,10 @@
 > This guide will be updated anytime I change any major settings.
 
 ## 🌐 Quick Navigation
-  - [📸 Screenshots](#-screenshots)
-  - [🖌️Windows Custimization](#-Windows-Custimization)
-     - [ Applications needed](#-Applications-Needed)
+- [📸 Screenshots](#-screenshots)
+- [🖌️Windows Custimization](#-Windows-Custimization)
+- [ Applications needed](#-Applications-Needed)
+-[🛠️Windows Optimizations](#-🛠️Windows-Optimizations)
 
 
 ## 📸 Screenshots
@@ -19,9 +20,12 @@
 
 ![Screenshot 2025-03-02 144112](https://github.com/user-attachments/assets/a7d6ca6b-e995-44ed-b44f-df19db4e8c28)
 
+## 🛠️Windows Optimizations
+
+### Applications Needed
 
 ## 🖌️Windows Custimization
 
-  ## Applications-Needed
+### Applications Needed
 
 
