@@ -6,9 +6,9 @@
 ## 🌐 Quick Navigation
 - [📸 Screenshots](#-screenshots)
 - [🛠️ optimizations](#optimizations)
-> [ Applications needed](#-Applications-Needed)
+  - [ Applications needed](#-Applications-Needed)
 - [🖌️Windows Custimization](#-Windows-Custimization)
-> [ Applications needed](#-Applications-Needed)
+  - [ Applications needed](#-Applications-Needed)
   
 # usage
 
