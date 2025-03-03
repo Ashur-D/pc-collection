@@ -4,7 +4,7 @@
 > This guide will be updated anytime I change any major settings.
 
 ## 🌐 Quick Navigation
-- [🛠️ Screenshots](#screenshots)
+- [📸 Screenshots](#screenshots)
 - [🛠️ Optimizations](#optimizations)
   - [Applications Needed](#applications-needed)
 - [🖌️ Customization](#customization)
