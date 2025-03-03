@@ -8,7 +8,7 @@
 - [🛠️ Optimizations](#optimizations)
   - [Programs Needed](#Programs-Needed)
 - [🖌️ Customization](#customization)
-  - [Programs Needed](#Programs-needed)
+  - [Programs](#Programs)
 
 # 📸 Screenshots
 
@@ -24,7 +24,7 @@
 
 # 🛠️ Optimizations
 
-## Programs needed
+## Programs
 
 - [Download WinUtil](https://github.com/ChrisTitusTech/winutil) or run the command: `irm https://christitus.com/win | iex`
   
