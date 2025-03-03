@@ -7,7 +7,7 @@
 - [📸 Screenshots](#screenshots)
 - [🛠️ optimizations](#optimizations)
   - [Applications needed](#applications-needed)
-- [🖌️ Windows Customization](#windows-customization)
+- [🖌️ Customization](#customization)
   - [Applications needed](#applications-needed)
   
 
@@ -21,7 +21,7 @@
 
 ![Screenshot 2025-03-02 144112](https://github.com/user-attachments/assets/a7d6ca6b-e995-44ed-b44f-df19db4e8c28)
 
-# optimizations
+# Optimizations
 
 ## Applications Needed
 
@@ -29,19 +29,10 @@
 - [Download Winhance](https://github.com/memstechtips/Winhance) or run the command: `irm "https://github.com/memstechtips/Winhance/raw/main/Winhance.ps1" | iex`
 - 
 
-# 🖌️Windows Custimization
+# 🖌️Customization
 
 ## Applications Needed
 
 
-# Personal Windows 11 optimization and customization guide.
 
-> [!IMPORTANT]
-> This guide will be updated anytime I change any major settings.
-  
-
-
-## Applications Needed
-
-- [Usage](#usage)
 
