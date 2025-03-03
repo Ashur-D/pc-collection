@@ -26,6 +26,12 @@
 
 - [Download WinUtil](https://github.com/ChrisTitusTech/winutil) or run the command: `irm https://christitus.com/win | iex`
 - [Download Winhance](https://github.com/memstechtips/Winhance) or run the command: `irm "https://github.com/memstechtips/Winhance/raw/main/Winhance.ps1" | iex`
+- [Download Wintoys from the microsoft store](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US)
+- [Download BleachBit](https://www.bleachbit.org/)
+- [Download DDU](https://www.wagnardsoft.com/display-driver-uninstaller-DDU-)
+- [Download NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
+- [Download MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
+- [Download Process Lasso](https://bitsum.com/)
 
 # 🖌️ Customization
 
