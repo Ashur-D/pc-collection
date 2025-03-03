@@ -1,15 +1,14 @@
-# Personal Windows 11 optimization and customization guide.
+# Personal Windows 11 Optimization and Customization Guide
 
 > [!IMPORTANT]
 > This guide will be updated anytime I change any major settings.
 
 ## 🌐 Quick Navigation
-- [📸 Screenshots](#screenshots)
-- [🛠️ optimizations](#optimizations)
-  - [Applications needed](#applications-needed)
+- [🛠️ Screenshots](#screenshots)
+- [🛠️ Optimizations](#optimizations)
+  - [Applications Needed](#applications-needed)
 - [🖌️ Customization](#customization)
-  - [Applications needed](#applications-needed)
-  
+  - [Applications Needed](#applications-needed)
 
 # 📸 Screenshots
 
@@ -25,14 +24,9 @@
 
 ## Applications Needed
 
-- [Download WinUtil](https://github.com/ChrisTitusTech/winutil) or run the command:  `irm https://christitus.com/win | iex `
+- [Download WinUtil](https://github.com/ChrisTitusTech/winutil) or run the command: `irm https://christitus.com/win | iex`
 - [Download Winhance](https://github.com/memstechtips/Winhance) or run the command: `irm "https://github.com/memstechtips/Winhance/raw/main/Winhance.ps1" | iex`
-- 
 
-# 🖌️Customization
+# 🖌️ Customization
 
 ## Applications Needed
-
-
-
-
