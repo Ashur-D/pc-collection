@@ -5,10 +5,10 @@
 
 ## 🌐 Quick Navigation
 - [📸 Screenshots](#-screenshots)
-- [🛠️ Usage](#optimizations)
-   - [ Applications needed](#-Applications-Needed)
+- [🛠️ optimizations](#optimizations)
+> [ Applications needed](#-Applications-Needed)
 - [🖌️Windows Custimization](#-Windows-Custimization)
-   - [ Applications needed](#-Applications-Needed)
+> [ Applications needed](#-Applications-Needed)
   
 # usage
 
