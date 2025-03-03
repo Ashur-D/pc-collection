@@ -4,7 +4,7 @@
 > This guide will be updated anytime I change any major settings. I am not responsible for any damage that may happen on your system, these are all the steps that worked for me and caused no damage but this may differ for each system.
 
 ## 🌐 Quick Navigation
-- [📸 Screenshots](#https://github.com/Ashur-D/Personal-Windows-11-optimization-and-customization/blob/main/README.md#-screenshots)
+- [📸 Screenshots](#-screenshots)
 - [🛠️ Optimizations](#optimizations)
   - [Applications Needed](#applications-needed)
 - [🖌️ Customization](#customization)
