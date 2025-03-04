@@ -5,7 +5,7 @@
 
 ## 🌐 Quick Navigation
 - [📸 Screenshots](#-screenshots)
-- [🛠️ Optimizations](#optimizations)
+- [🛠️ Optimizations](#optimizations-)
   - [Applications Needed](#Applications-Needed)
 - [🖌️ Customization](#customization)
   - [Programs Needed](#Programs-Needed)
