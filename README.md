@@ -5,7 +5,7 @@
 
 ## 🌐 Quick Navigation
 - [📸 Screenshots](#-screenshots)
-- [🛠️ Optimizations](#-optimizations)
+- [🛠️ Optimizations](#Optimizations)
   - [Programs Needed](#-Programs-Needed-1)
 - [🖌️ Customization](#-customization)
   - [Programs Needed](#Programs-Needed-2)
@@ -36,13 +36,10 @@
   
 - [Download BleachBit](https://www.bleachbit.org/)
   
-- [Download DDU](https://www.wagnardsoft.com/display-driver-uninstaller-DDU-)
+- [Download DDU](https://www.wagnardsoft.com/display-driver-uninstaller-DDU-) and [Download NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
   
-- [Download NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
+- [Download MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) and [Download Process Lasso](https://bitsum.com/)
   
-- [Download MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
-  
-- [Download Process Lasso](https://bitsum.com/)
 
 ## other applications I havent used much (use with caution)
 
@@ -59,10 +56,16 @@
   
 - [Nilesoft](https://nilesoft.org/) (this is for changing the windows context menu)
   
-- [deviantartNiivu](https://www.deviantart.com/niivu/art/Installing-Windows-Themes-UPDATED-708835586) (Read through this guide for the installation process, there are also some extra programs you check out that I have not shown here, as well as older themes he has on his github that are no longer supported)
+- [deviantartNiivu](https://www.deviantart.com/niivu/art/Installing-Windows-Themes-UPDATED-708835586) (Niivu will give a guide for the installation process, there are also some extra programs you check out that I have not shown here, and custom cursors, as well as some older themes he has on his github that are no longer supported)
   
 - [VinStarTheme](https://www.vinstartheme.com/) (Im pretty sure this site steals other peoples themes as I asked Niivu, his content was stolen and put on there, use with caution as it may have older versions)
   
 - [7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) (This is needed for changing the Windows icons)
 
 - [ExplorerTool](https://github.com/Maplespe/explorerTool) and [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) (These 2 programs from he same person are used to custimize your file explorer)
+
+- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) and [FastFetch](https://github.com/fastfetch-cli/fastfetch) (Both these programs are used to custimize your windows terminal
+
+- [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher) and [Wox](https://github.com/Wox-launcher/Wox) (Use either one, they are just fast indexing launchers for apps, files, programs etc.)
+
+- 
