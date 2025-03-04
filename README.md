@@ -6,11 +6,6 @@
 ## 🌐 Quick Navigation
 - [📸 Screenshots](#-screenshots)
 - [🛠️ Optimizations](#optimizations)
-  - [Programs Needed](#-Programs-Needed-1)
-- [🖌️ Customization](#-customization)
-  - [Programs Needed](#Programs-Needed-2)
-
-- [🛠️ Optimizations](#optimizations)
   - [Programs Needed](#programs-needed-1)
 - [🖌️ Customization](#customization)
   - [Programs Needed](#programs-needed-2)
