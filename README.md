@@ -6,7 +6,7 @@
 ## 🌐 Quick Navigation
 - [📸 Screenshots](#-screenshots)
 - [🛠️ Optimizations](#-optimizations)
-  - [Programs Needed](##-prerequisites-1)
+  - [Programs Needed](#-Programs-Needed-1)
 - [🖌️ Customization](#-customization)
   - [Programs Needed](#Programs-Needed-2)
 
