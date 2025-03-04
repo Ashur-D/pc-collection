@@ -10,6 +10,12 @@
 - [🖌️ Customization](#-customization)
   - [Programs Needed](#Programs-Needed-2)
 
+- [🛠️ Optimizations](#optimizations)
+  - [Programs Needed](#programs-needed-1)
+- [🖌️ Customization](#customization)
+  - [Programs Needed](#programs-needed-2)
+
+
 # 📸 Screenshots
 
 ![Screenshot 2025-03-02 144930](https://github.com/user-attachments/assets/955cf1f2-a59f-4e91-99a3-64bb2d696e90)
