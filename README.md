@@ -6,9 +6,9 @@
 ## 🌐 Quick Navigation
 - [📸 Screenshots](#-screenshots)
 - [🛠️ Optimizations](#optimizations)
-  - [Programs Needed](#Programs-Needed)
+  - [Applications Needed](#Applications-Needed)
 - [🖌️ Customization](#customization)
-  - [Programs](#Programs)
+  - [Programs](#Programs-Needed)
 
 # 📸 Screenshots
 
@@ -26,7 +26,7 @@
 
 # 🛠️ Optimizations
 
-## Programs Needed
+## Applications Needed
 
 - [Download WinUtil](https://github.com/ChrisTitusTech/winutil) or run the command: `irm https://christitus.com/win | iex`
   
@@ -53,7 +53,7 @@
 
 # 🖌️ Customization
 
-## Programs
+## Programs Needed
 
 - [StartAllBack](https://www.startallback.com/) (This program is for changing the windows startmenu, file explorer, tray icons, etc. It has a free 90 trial)
   
