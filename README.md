@@ -8,7 +8,7 @@
 - [🛠️ Optimizations](#optimizations)
   - [Applications Needed](#Applications-Needed)
 - [🖌️ Customization](#customization)
-  - [Programs](#Programs-Needed)
+  - [Programs Needed](#Programs-Needed)
 
 # 📸 Screenshots
 
