@@ -6,9 +6,9 @@
 ## 🌐 Quick Navigation
 - [📸 Screenshots](#-screenshots)
 - [🛠️ Optimizations](#-optimizations)
-  - [Applications Needed](#Applications-Needed)
+  - [Programs Needed](#Programs-Needed-2)
 - [🖌️ Customization](#-customization)
-  - [Programs Needed](#Programs-Needed)
+  - [Programs Needed](#Programs-Needed-2)
 
 # 📸 Screenshots
 
@@ -26,7 +26,7 @@
 
 # 🛠️ Optimizations
 
-## Applications Needed
+## Programs Needed
 
 - [Download WinUtil](https://github.com/ChrisTitusTech/winutil) or run the command: `irm https://christitus.com/win | iex`
   
