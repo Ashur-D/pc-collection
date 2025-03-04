@@ -55,7 +55,7 @@
 
 ## Programs Needed
 
-- [StartAllBack](https://www.startallback.com/) (This program is for changing the windows startmenu, file explorer, tray icons, etc. It has a free 90 trial)
+- [StartAllBack](https://www.startallback.com/) (This program is for changing the windows startmenu, file explorer, tray icons, etc. It has a free 90 day trial)
   
 - [Nilesoft](https://nilesoft.org/) (this is for changing the windows context menu)
   
