@@ -78,3 +78,21 @@
 
 
  ## Wallpapers
+
+ #### Here is a link to my wallpaper engine list as well as some links below to other wallpaper websites.
+
+  - [My Wallpaper Engine](https://steamcommunity.com/profiles/76561198824218763/myworkshopfiles/?appid=431960&sort=score&browsefilter=myfavorites&view=imagewall)
+    
+  - [Wallpaper Engine website](https://www.wallpaperengine.space/)
+    
+  - [Gruvbox Wallpapers](https://gruvbox-wallpapers.pages.dev/)
+    
+  - [Wallhaven](https://wallhaven.cc/)
+    
+  - [Wallpaper Cave](https://wallpapercave.com/)
+
+  - [UHDpaper](https://www.uhdpaper.com/)
+
+  - [Unsplash](https://unsplash.com/t/wallpapers)
+
+  - [FreePik](https://www.freepik.com/)
