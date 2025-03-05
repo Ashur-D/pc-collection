@@ -38,7 +38,7 @@
   
 - [Download BleachBit](https://www.bleachbit.org/) (This program just cleans your files, be careful when using it, it is powerful and will delete everything)
   
-- [Download DDU](https://www.wagnardsoft.com/display-driver-uninstaller-DDU-) and [Download NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) (These 2 programs are for removoing and installing GPU drivers
+- [Download DDU](https://www.wagnardsoft.com/display-driver-uninstaller-DDU-) and [Download NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) (These 2 programs are for removoing and installing GPU drivers)
   
 - [Download MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) and [Download Process Lasso](https://bitsum.com/) (These are for managing your GPU,CPU and RAM)
   
@@ -56,7 +56,7 @@
 
 - [StartAllBack](https://www.startallback.com/) (This program is for changing the windows startmenu, file explorer, tray icons, etc. It has a free 90 day trial)
   
-- [Nilesoft](https://nilesoft.org/) (this is for changing the windows context menu)
+- [Nilesoft](https://nilesoft.org/) (This is for changing the windows context menu)
   
 - [deviantartNiivu](https://www.deviantart.com/niivu/art/Installing-Windows-Themes-UPDATED-708835586) (Niivu will give a guide for the installation process, there are also some extra programs you check out that I have not shown here, and custom cursors, as well as some older themes he has on his github that are no longer supported)
   
