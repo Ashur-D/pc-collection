@@ -63,12 +63,14 @@
   
 - [7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) (This is needed for changing the Windows icons)
 
-- [ExplorerTool](https://github.com/Maplespe/explorerTool) and [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) (These 2 programs from he same person are used to custimize your file explorer)
+- [ExplorerTool](https://github.com/Maplespe/explorerTool) / [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) (These 2 programs from he same person are used to custimize your file explorer)
 
-- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) and [FastFetch](https://github.com/fastfetch-cli/fastfetch) (Both these programs are used to custimize your windows terminal
+- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) / [FastFetch](https://github.com/fastfetch-cli/fastfetch) (Both these programs are used to custimize your windows terminal
 
-- [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher) and [Wox](https://github.com/Wox-launcher/Wox) (Use either one, they are just fast indexing launchers for apps, files, programs etc.)
+- [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher) / [Wox](https://github.com/Wox-launcher/Wox) (Use either one, they are just fast indexing launchers for apps, files, programs etc.)
 
-- [GlazeWM](https://github.com/glzr-io/glazewm?tab=readme-ov-file) and [komorebi](https://github.com/LGUG2Z/komorebi) (you can use either program as a they are both tiling managers)
+- [GlazeWM](https://github.com/glzr-io/glazewm?tab=readme-ov-file) / [komorebi](https://github.com/LGUG2Z/komorebi) (Use either program as a they are both tiling managers)
 
 - [Zebar](https://github.com/glzr-io/zebar) / [yasb](https://github.com/amnweb/yasb) / [SeleenUI](https://github.com/eythaann/Seelen-UI) (are all for creating widigts and windows status bar)
+
+- [TackyBorders](https://github.com/lukeyou05/tacky-borders) / [CuteBorders](https://github.com/keifufu/cute-borders) (Use either for adding a border around certain windows)
