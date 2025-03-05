@@ -9,6 +9,7 @@
   - [Programs Needed](#programs-needed)
 - [🖌️ Customization](#%EF%B8%8Fcustomization)
   - [Programs Needed](#programs-needed-1)
+  - [Wallpapers](#Wallpapers)
 
 
 # 📸 Screenshots
@@ -74,3 +75,6 @@
 - [Zebar](https://github.com/glzr-io/zebar) / [yasb](https://github.com/amnweb/yasb) / [SeleenUI](https://github.com/eythaann/Seelen-UI) (are all for creating widigts and windows status bar)
 
 - [TackyBorders](https://github.com/lukeyou05/tacky-borders) / [CuteBorders](https://github.com/keifufu/cute-borders) (Use either for adding a border around certain windows)
+
+
+ ## Wallpapers
