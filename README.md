@@ -96,5 +96,5 @@
   - [Unsplash](https://unsplash.com/t/wallpapers)
 
   - [FreePik](https://www.freepik.com/)
-
-    <div align="right"><a href="#">(Back to top)</a></div>
+<br>
+<div align="right"><a href="#">(Back to top)</a></div>
