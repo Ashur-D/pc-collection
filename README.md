@@ -79,7 +79,7 @@
 
  ## Wallpapers
 
- #### Here is a link to my wallpaper engine list as well as some links below to other wallpaper websites.
+ #### Here are some links to websites with wallpapers, including mine on wallpaper engine.
 
   - [My Wallpaper Engine](https://steamcommunity.com/profiles/76561198824218763/myworkshopfiles/?appid=431960&sort=score&browsefilter=myfavorites&view=imagewall)
     
