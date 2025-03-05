@@ -7,7 +7,7 @@
 - [📸 Screenshots](#-screenshots)
 - [🛠️ Optimizations](#%EF%B8%8Foptimizations)
   - [Programs Needed](#programs-needed)
-- [🖌️ Customization]([#%EF%B8%8F-customization)
+- [🖌️ Customization](#%EF%B8%8Fcustomization)
   - [Programs Needed](#programs-needed-1)
 
 
