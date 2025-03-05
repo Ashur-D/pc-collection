@@ -69,4 +69,6 @@
 
 - [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher) and [Wox](https://github.com/Wox-launcher/Wox) (Use either one, they are just fast indexing launchers for apps, files, programs etc.)
 
-- 
+- [GlazeWM](https://github.com/glzr-io/glazewm?tab=readme-ov-file) and [komorebi](https://github.com/LGUG2Z/komorebi) (you can use either program as a they are both tiling managers)
+
+- [Zebar](https://github.com/glzr-io/zebar) and [yasb](https://github.com/amnweb/yasb) and [SeleenUI](https://github.com/eythaann/Seelen-UI) (are all fopr creating widigts and windows status bar)
