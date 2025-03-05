@@ -68,7 +68,7 @@
 
 - [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) / [FastFetch](https://github.com/fastfetch-cli/fastfetch) (Both these programs are used to custimize your windows terminal
 
-- [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher) / [Wox](https://github.com/Wox-launcher/Wox) (Use either one, they are just fast indexing launchers for apps, files, programs etc.)
+- [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher) / [Wox](https://github.com/Wox-launcher/Wox) (Use either one, they are fast indexing launchers for apps, files, programs etc.)
 
 - [GlazeWM](https://github.com/glzr-io/glazewm?tab=readme-ov-file) / [komorebi](https://github.com/LGUG2Z/komorebi) (Use either program as a they are both tiling managers)
 
