@@ -95,8 +95,13 @@
 
   - [Unsplash](https://unsplash.com/t/wallpapers)
 
-  - [Back to top](#Index)
-
   - [FreePik](https://www.freepik.com/)
-<br>
-<div align="right"><a href="#">(Back to top)</a></div>
+
+  - [ImageGoNord](https://github.com/Schroedinger-Hat/ImageGoNord-Web) (This website just changes your wallpapers to a Nord theme palette)
+    
+#### Some Wallpapers from repo's I found
+
+ - [Link 1](https://github.com/dharmx/walls)
+ - [Link 2](https://github.com/D3Ext/aesthetic-wallpapers)
+ - [Link 3](https://github.com/linuxdotexe/nordic-wallpapers)
+ - [Link 4](https://github.com/FrenzyExists/wallpapers)
