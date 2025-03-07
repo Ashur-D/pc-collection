@@ -97,7 +97,7 @@
 
   - [FreePik](https://www.freepik.com/)
 
-  - [ImageGoNord](https://github.com/Schroedinger-Hat/ImageGoNord-Web) (This website just changes your wallpapers to a Nord theme palette)
+  - [ImageGoNord](https://github.com/Schroedinger-Hat/ImageGoNord-Web) (This website just changes your wallpapers to a Nord theme style)
     
 #### Some Wallpapers from repo's I found
 
