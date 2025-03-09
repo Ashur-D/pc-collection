@@ -98,6 +98,8 @@
   - [FreePik](https://www.freepik.com/)
 
   - [ImageGoNord](https://github.com/Schroedinger-Hat/ImageGoNord-Web) (This website just changes your wallpapers to a Nord theme style)
+
+  - [Gurjaka's Nord-Wallpapers](https://github.com/Gurjaka/Nord-Wallpapers)
     
 #### Some Wallpapers from repo's I found
 
