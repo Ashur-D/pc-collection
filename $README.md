@@ -161,3 +161,9 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
  - [Link 4](https://github.com/FrenzyExists/wallpapers)
 
 # 💿 miscellaneous apps/tweaks
+
+## My personal browsers
+
+ [Floorp](https://floorp.app/en) |  [LibreWolf](https://librewolf.net/) |  [Zen](https://zen-browser.app/) |  [Brave](https://brave.com/)
+
+
