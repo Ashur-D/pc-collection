@@ -37,11 +37,11 @@
   
 - [Download Wintoys from the microsoft store](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US)
   
-- [Download BleachBit](https://www.bleachbit.org/) (This program just cleans your files, be careful when using it, it is powerful and will delete everything)
+- [Download BleachBit](https://www.bleachbit.org/) ( This program just cleans your files, be careful when using it, it is powerful and will delete everything)
   
 - [Download DDU](https://www.wagnardsoft.com/display-driver-uninstaller-DDU-) and [Download NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) (These 2 programs are for removoing and installing GPU drivers)
   
-- [Download MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) and [Download Process Lasso](https://bitsum.com/) (These are for managing your GPU,CPU and RAM)
+- [Download MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) and [Download Process Lasso](https://bitsum.com/) ( These are for managing your GPU,CPU and RAM)
   
 
 ### other applications I havent used much (use with caution)
