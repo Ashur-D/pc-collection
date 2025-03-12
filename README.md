@@ -67,8 +67,10 @@ ipconfig /flushdns
 - [Download network-reset.bat](https://github.com/Ashur-D/Personal-Windows11-Guide/blob/main/network-reset.bat)
 
 ### next 
-Run this command to see your current network congestion and take not incase you may want revert back: Get-NetTCPSetting | Select SettingName, CongestionProvider
-
+Run this command to see your current network congestion and take not incase you may want revert back: 
+```
+Get-NetTCPSetting | Select SettingName, CongestionProvider
+```
 - Then use 1 of the following and test out which gives the best output
 
 ```
