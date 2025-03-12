@@ -62,6 +62,11 @@
 - netsh winhttp reset proxy
 - ipconfig /flushdns
 
+# or 
+
+Download and run the bat file to reset your network:
+
+- [network-reset.bat](https://github.com/Ashur-D/Personal-Windows11-Guide/blob/main/network-reset.bat)
 
 # 🖌️Customization
 
