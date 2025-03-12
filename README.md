@@ -7,6 +7,7 @@
 - [📸 Screenshots](#-screenshots)
 - [🛠️ Optimizations](#%EF%B8%8Foptimizations)
   - [Programs Needed](#programs-needed)
+  - [Network Tweaks](#
 - [🖌️ Customization](#%EF%B8%8Fcustomization)
   - [Programs Needed](#programs-needed-1)
   - [Wallpapers](#Wallpapers)
@@ -48,6 +49,8 @@
 - [HellzergOptimizer](https://github.com/hellzerg/optimizer)
   
 - [ThisIsNot11](https://github.com/builtbybel/ThisIsNot11)
+
+## Network tweaks
 
 
 # 🖌️Customization
