@@ -11,7 +11,7 @@
 - [🖌️ Customization](#%EF%B8%8Fcustomization)
   - [Programs Needed](#programs-needed-1)
   - [Wallpapers](#Wallpapers)
-- [💿 miscellaneous apps/tweaks](#-miscellaneous)
+- [💿 miscellaneous apps/tweaks](#-miscellaneous-apps/tweaks)
 
 # 📸 Screenshots
 
@@ -160,4 +160,4 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
  - [Link 3](https://github.com/linuxdotexe/nordic-wallpapers)
  - [Link 4](https://github.com/FrenzyExists/wallpapers)
 
-# 💿 miscellaneous
+# 💿 miscellaneous apps/tweaks
