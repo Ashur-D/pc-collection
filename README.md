@@ -57,10 +57,10 @@
 
 ### The first thing to do is reset your network with the following commands or download and run the bat file:
 
-- netsh winsock reset
-- netsh int ip reset all
-- netsh winhttp reset proxy
-- ipconfig /flushdns
+- `netsh winsock reset`
+- `netsh int ip reset all`
+- `netsh winhttp reset proxy`
+- `ipconfig /flushdns`
 ### or
 - [network-reset.bat](https://github.com/Ashur-D/Personal-Windows11-Guide/blob/main/network-reset.bat)
 
