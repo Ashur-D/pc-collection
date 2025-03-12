@@ -1,7 +1,7 @@
 # Personal Windows 11 Guide
 
 > [!IMPORTANT]
-> This guide will be updated anytime I change any major settings or feel the need to expand on certain topics. I am not responsible for any damage that may happen on your system, these are all the steps that worked for me and caused no damage but this may differ for each system.
+> This guide will be updated whenever I make significant changes to settings. I am not liable for any damage that may occur to your system; these steps worked for me without issue, but results may vary depending on your system. As
 
 ## 🌐 Quick Navigation
 - [📸 Screenshots](#-screenshots)
