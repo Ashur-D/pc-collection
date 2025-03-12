@@ -57,10 +57,10 @@
 
 The first thing to do is reset your network with the following commands:
 
-> netsh winsock reset
-> netsh int ip reset all
-> netsh winhttp reset proxy
-> ipconfig /flushdns
+netsh winsock reset
+netsh int ip reset all
+netsh winhttp reset proxy
+ipconfig /flushdns
 
 
 # 🖌️Customization
