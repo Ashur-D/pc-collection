@@ -127,7 +127,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 
 - [GlazeWM](https://github.com/glzr-io/glazewm?tab=readme-ov-file) / [komorebi](https://github.com/LGUG2Z/komorebi) (Use either program as a they are both tiling managers)
 
-- [Zebar](https://github.com/glzr-io/zebar) / [yasb](https://github.com/amnweb/yasb) / [SeleenUI](https://github.com/eythaann/Seelen-UI) (are all for creating widigts and windows status bar)
+- [Zebar](https://github.com/glzr-io/zebar) / [yasb](https://github.com/amnweb/yasb) / [SeleenUI](https://github.com/eythaann/Seelen-UI) (are all for creating widgets and windows status bar)
 
 - [TackyBorders](https://github.com/lukeyou05/tacky-borders) / [CuteBorders](https://github.com/keifufu/cute-borders) (Use either for adding a border around certain windows)
 
