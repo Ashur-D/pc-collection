@@ -119,7 +119,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 
 - [ExplorerTool](https://github.com/Maplespe/explorerTool) / [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) (These 2 programs from he same person are used to custimize your file explorer)
 
-- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) / [FastFetch](https://github.com/fastfetch-cli/fastfetch) (Both these programs are used to custimize your windows terminal
+- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) / [FastFetch](https://github.com/fastfetch-cli/fastfetch) (Both these programs are used to custimize your windows terminal)
 
 - [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher) / [Wox](https://github.com/Wox-launcher/Wox) (Use either one, they are fast indexing launchers for apps, files, programs etc.)
 
