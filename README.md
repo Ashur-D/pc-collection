@@ -55,6 +55,13 @@
 > [!NOTE]
 > These may not work on all systems as they vary depending on many factors like the system,router,etc.
 
+The first thing to do is reset your network with the following commands:
+
+> netsh winsock reset
+> netsh int ip reset all
+> netsh winhttp reset proxy
+> ipconfig /flushdns
+
 
 # 🖌️Customization
 
