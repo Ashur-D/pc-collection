@@ -53,7 +53,7 @@
 ## Network tweaks
 
 > [!NOTE]
->
+> These may not work on all systems as they vary depending on many factors like the system,router,etc.
 
 
 # 🖌️Customization
