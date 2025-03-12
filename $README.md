@@ -194,6 +194,8 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 
  - [DNS Benchmark](https://www.grc.com/dns/benchmark.htm)
 
+ - [Powershell 7](https://github.com/PowerShell/PowerShell)
+
 
 
 
