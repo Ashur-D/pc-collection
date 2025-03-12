@@ -180,15 +180,13 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 
  - [Geek Uninstaller](https://geekuninstaller.com/)
 
- - [WizTree](https://diskanalyzer.com/)
+ - [WizTree](https://diskanalyzer.com/) | [Everything](https://www.voidtools.com/)
 
  - [HWmoniter](https://www.cpuid.com/softwares/hwmonitor.html)
 
- - [GPU-Z](https://www.techpowerup.com/gpuz/)  [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
+ - [GPU-Z](https://www.techpowerup.com/gpuz/) | [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
 
  - [Sysinternals Utilities](https://learn.microsoft.com/en-us/sysinternals/downloads/)
-
- - [Everything](https://www.voidtools.com/)
 
  - [ControlMyMoniter](https://controlmymonitor.en.softonic.com/)
 
