@@ -11,7 +11,7 @@
 - [🖌️ Customization](#%EF%B8%8Fcustomization)
   - [Programs Needed](#programs-needed-1)
   - [Wallpapers](#Wallpapers)
-- [💿 miscellaneous apps/tweaks](#-miscellaneous-apps/tweaks)
+- [💿 miscellaneous apps/tweaks](#-miscellaneous-appstweaks)
 
 # 📸 Screenshots
 
