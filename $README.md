@@ -1,7 +1,7 @@
 # Personal Windows 11 Guide
 
 > [!IMPORTANT]
-> This guide will be updated whenever I make significant changes to settings. I am not liable for any damage that may occur to your system; these steps worked for me without issue, but results may vary depending on your system. As
+> This guide will be updated whenever I make significant changes to settings. I am not liable for any damage that may occur to your system; these steps worked for me without issue, but results may vary depending on your system. Additionally, any configuration files for a program will be located in the file tree.
 
 ## 🌐 Quick Navigation
 - [📸 Screenshots](#-screenshots)
