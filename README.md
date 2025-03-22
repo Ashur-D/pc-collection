@@ -135,6 +135,8 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 
 - [Bottom](https://github.com/ClementTsang/bottom?tab=readme-ov-file#configuration) ( Graphical process/system monitor)
 
+- [pywal](https://github.com/dylanaraps/pywal) / [pywal16](https://github.com/eylles/pywal16)
+
 
  ## Wallpapers
 
