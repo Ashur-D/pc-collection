@@ -206,5 +206,10 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
  - [Powershell 7](https://github.com/PowerShell/PowerShell)
 
 
+## Currently testing
 
+[yazi](https://github.com/sxyazi/yazi)
+[whim](https://github.com/dalyIsaac/Whim)
+[jwno](https://github.com/agent-kilo/jwno)
+[mondrian](https://github.com/policastro/mondrian)
 
