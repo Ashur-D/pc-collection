@@ -137,6 +137,8 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 
 - [pywal](https://github.com/dylanaraps/pywal) / [pywal16](https://github.com/eylles/pywal16)
 
+- [Color Hunt](https://colorhunt.co/)
+
 
  ## Wallpapers
 
@@ -162,7 +164,6 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 
   - [GoWall](https://github.com/Achno/gowall) (Converts an image like a wallpaper to a certain color-scheme / pallete)
 
-  - [Color Hunt](https://colorhunt.co/)
     
 #### Some Wallpapers from repo's I found
 
