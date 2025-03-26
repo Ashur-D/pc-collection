@@ -161,6 +161,8 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
   - [ImageGoNord](https://github.com/Schroedinger-Hat/ImageGoNord-Web) (This website just changes your wallpapers to a Nord theme style)
 
   - [GoWall](https://github.com/Achno/gowall) (Converts an image like a wallpaper to a certain color-scheme / pallete)
+
+  - [Color Hunt](https://colorhunt.co/)
     
 #### Some Wallpapers from repo's I found
 
