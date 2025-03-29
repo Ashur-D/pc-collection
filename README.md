@@ -133,7 +133,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 
 - [TackyBorders](https://github.com/lukeyou05/tacky-borders) / [CuteBorders](https://github.com/keifufu/cute-borders) (Use either for adding a border around certain windows)
 
-- [Bottom](https://github.com/ClementTsang/bottom?tab=readme-ov-file#configuration) ( Graphical process/system monitor)
+- [Bottom](https://github.com/ClementTsang/bottom) / [Glances](https://github.com/nicolargo/glances)( Graphical process/system monitor)
 
 - [pywal](https://github.com/dylanaraps/pywal) / [pywal16](https://github.com/eylles/pywal16)
 
