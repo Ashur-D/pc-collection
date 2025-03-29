@@ -6,10 +6,10 @@
 ## 🌐 Quick Navigation
 - [📸 Screenshots](#-screenshots)
 - [🛠️ Optimizations](#%EF%B8%8Foptimizations)
-  - [Programs Needed](#programs-needed)
+  - [Programs](#programs)
   - [Network Tweaks](#network-tweaks)
 - [🖌️ Customization](#%EF%B8%8Fcustomization)
-  - [Programs Needed](#programs-needed-1)
+  - [Programs](#programs-1)
   - [Wallpapers](#Wallpapers)
 - [💿 miscellaneous apps/tweaks](#-miscellaneous-appstweaks)
   - [My Personal Browsers](#my-personal-browsers)
@@ -31,7 +31,7 @@
 
 # 🛠️Optimizations
 
-## Programs Needed
+## Programs
 
 - [Download WinUtil](https://github.com/ChrisTitusTech/winutil) or run the command: `irm https://christitus.com/win | iex`
   
@@ -109,7 +109,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 
 # 🖌️Customization
 
-## Programs Needed
+## Programs
 
 - [StartAllBack](https://www.startallback.com/) (This program is for changing the windows startmenu, file explorer, tray icons, etc. It has a free 90 day trial)
   
