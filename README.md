@@ -116,7 +116,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
   
 - [Nilesoft](https://github.com/moudey/Shell) (This is for changing the windows context menu)
   
-- [deviantartNiivu](https://www.deviantart.com/niivu/art/Installing-Windows-Themes-UPDATED-708835586) (Niivu will give a guide for the installation process, there are also some extra programs you check out that I have not shown here, and custom cursors, as well as some older themes he has on his github that are no longer supported and all themese will have a 7tsp file to use with the program below)
+- [deviantartNiivu](https://www.deviantart.com/niivu/art/Installing-Windows-Themes-UPDATED-708835586) / [Niivu's Github](https://github.com/niivu) (Niivu will give a guide for the installation process, there are also some extra programs you check out that I have not shown here, and custom cursors, as well as some older themes he has on his github that are no longer supported and all themese will have a 7tsp file to use with the program below)
 
 - [7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) (This is needed for changing the Windows icons)
   
