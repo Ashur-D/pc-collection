@@ -139,6 +139,19 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 
 - [Color Hunt](https://colorhunt.co/)
 
+## Popular Themes
+
+ - [Catppuccin](https://github.com/catppuccin)
+
+ - [Rosé Pine](https://github.com/rose-pine)
+
+ - [Nord](https://github.com/nordtheme)
+
+ - [Dracula](https://github.com/dracula)
+
+ - [Material Ocean](https://github.com/material-ocean)
+
+ - [Omni Theme](https://github.com/getomni)
 
  ## Wallpapers
 
