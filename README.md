@@ -154,6 +154,10 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 
  - [Omni Theme](https://github.com/getomni)
 
+ - [Tokyo Night](https://github.com/tokyo-night)
+
+ - [Rose Box](https://github.com/KraXen72/rosebox)
+
  ## Wallpapers
 
  #### Here are some links to websites with wallpapers, including mine on wallpaper engine.
