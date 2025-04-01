@@ -11,6 +11,7 @@
 - [🖌️ Customization](#%EF%B8%8Fcustomization)
   - [Programs](#programs-1)
   - [Wallpapers](#Wallpapers)
+  - [Popular Themes](#popular-themes)
 - [💿 miscellaneous apps/tweaks](#-miscellaneous-appstweaks)
   - [My Personal Browsers](#my-personal-browsers)
   - [Tools I use](#Tools-I-use)
