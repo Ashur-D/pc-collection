@@ -13,8 +13,8 @@
   - [Wallpapers](#Wallpapers)
   - [Popular Themes](#popular-themes)
 - [💿 miscellaneous apps/tweaks](#-miscellaneous-appstweaks)
-  - [My Personal Browsers](#my-personal-browsers)
   - [Tools I use](#Tools-I-use)
+  - [My Personal Browsers](#my-personal-browsers)
 
 # 📸 Screenshots
 
