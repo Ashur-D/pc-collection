@@ -194,10 +194,6 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 
 # 💿 miscellaneous apps/tweaks
 
-## My personal browsers
-
- [Floorp](https://floorp.app/en) |  [LibreWolf](https://librewolf.net/) |  [Zen](https://zen-browser.app/) |  [Brave](https://brave.com/)
-
 ## Tools I use
 
  - [UniGetUI/WingetUI](https://github.com/marticliment/UniGetUI)
@@ -225,6 +221,10 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
  - [DNS Benchmark](https://www.grc.com/dns/benchmark.htm)
 
  - [Powershell 7](https://github.com/PowerShell/PowerShell)
+
+## My personal browsers
+
+ [Floorp](https://floorp.app/en) |  [LibreWolf](https://librewolf.net/) |  [Zen](https://zen-browser.app/) |  [Brave](https://brave.com/)
 
 
 ## Currently testing
