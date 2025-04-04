@@ -186,12 +186,12 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 #### Some Wallpapers from repo's I found
 
  - [Gurjaka's Nord-Wallpapers](https://github.com/Gurjaka/Nord-Wallpapers)
- - [Collection 2](https://github.com/dharmx/walls)
  - [aesthetic wallpapers](https://github.com/D3Ext/aesthetic-wallpapers)
  - [nordic wallpapers](https://github.com/linuxdotexe/nordic-wallpapers)
- - [Collection 5](https://github.com/FrenzyExists/wallpapers)
- - [Collection 6](https://github.com/maotseantonio/wallpapers)
- - [Collection 7](https://github.com/AngelJumbo/gruvbox-wallpapers/tree/main)
+ - [gruvbox wallpapers](https://github.com/AngelJumbo/gruvbox-wallpapers)
+ - [Collection 1](https://github.com/FrenzyExists/wallpapers)
+ - [Collection 2](https://github.com/maotseantonio/wallpapers)
+ - [Collection 3](https://github.com/dharmx/walls)
 
 # 💿 miscellaneous apps/tweaks
 
