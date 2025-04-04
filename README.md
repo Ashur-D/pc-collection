@@ -143,19 +143,12 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 ## Popular Themes
 
  - [Catppuccin](https://github.com/catppuccin)
-
  - [Rosé Pine](https://github.com/rose-pine)
-
  - [Nord](https://github.com/nordtheme)
-
  - [Dracula](https://github.com/dracula)
-
  - [Material Ocean](https://github.com/material-ocean)
-
  - [Omni Theme](https://github.com/getomni)
-
  - [Tokyo Night](https://github.com/tokyo-night)
-
  - [Rose Box](https://github.com/KraXen72/rosebox)
 
  ## Wallpapers
@@ -163,23 +156,14 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
  #### Here are some links to websites with wallpapers, including mine on wallpaper engine.
 
   - [My Wallpaper Engine](https://steamcommunity.com/profiles/76561198824218763/myworkshopfiles/?appid=431960&sort=score&browsefilter=myfavorites&view=imagewall)
-    
-  - [Wallpaper Engine website](https://www.wallpaperengine.space/)
-    
+  - [Wallpaper Engine website](https://www.wallpaperengine.space/) 
   - [Gruvbox Wallpapers](https://gruvbox-wallpapers.pages.dev/)
-    
   - [Wallhaven](https://wallhaven.cc/)
-    
   - [Wallpaper Cave](https://wallpapercave.com/)
-
   - [UHDpaper](https://www.uhdpaper.com/)
-
   - [Unsplash](https://unsplash.com/t/wallpapers)
-
   - [FreePik](https://www.freepik.com/)
-
   - [ImageGoNord](https://github.com/Schroedinger-Hat/ImageGoNord-Web) (This website just changes your wallpapers to a Nord theme style)
-
   - [GoWall](https://github.com/Achno/gowall) (Converts an image like a wallpaper to a certain color-scheme / pallete)
 
     
@@ -198,29 +182,17 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 ## Tools I use
 
  - [UniGetUI/WingetUI](https://github.com/marticliment/UniGetUI)
-
  - [FanControl](https://github.com/Rem0o/FanControl.Releases)
-
  - [Loseless Cut](https://github.com/mifi/lossless-cut)
-
  - [Powertoys](https://github.com/microsoft/PowerToys)
-
  - [Geek Uninstaller](https://geekuninstaller.com/)
-
  - [WizTree](https://diskanalyzer.com/) | [Everything](https://www.voidtools.com/)
-
  - [HWmoniter](https://www.cpuid.com/softwares/hwmonitor.html)
-
  - [GPU-Z](https://www.techpowerup.com/gpuz/) | [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
-
  - [Sysinternals Utilities](https://learn.microsoft.com/en-us/sysinternals/downloads/)
-
  - [ControlMyMoniter](https://controlmymonitor.en.softonic.com/)
-
  - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/)
-
  - [DNS Benchmark](https://www.grc.com/dns/benchmark.htm)
-
  - [Powershell 7](https://github.com/PowerShell/PowerShell)
 
 ## My personal browsers
