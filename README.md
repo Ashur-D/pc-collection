@@ -183,7 +183,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
   - [GoWall](https://github.com/Achno/gowall) (Converts an image like a wallpaper to a certain color-scheme / pallete)
 
     
-#### Some Wallpapers from repo's I found
+#### Wallpapers from repo's I found
 
  - [Gurjaka's Nord-Wallpapers](https://github.com/Gurjaka/Nord-Wallpapers)
  - [aesthetic wallpapers](https://github.com/D3Ext/aesthetic-wallpapers)
