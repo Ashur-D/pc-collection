@@ -120,6 +120,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 - [pywal](https://github.com/dylanaraps/pywal) / [pywal16](https://github.com/eylles/pywal16)
 - [Color Hunt](https://colorhunt.co/)
 - [millennium](https://github.com/shdwmtr/millennium) (customize your steam app)
+- [folder-icons](https://github.com/sameerasw/folder-icons)
 
 ## Popular Themes
 
@@ -164,7 +165,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 
  - [UniGetUI/WingetUI](https://github.com/marticliment/UniGetUI)
  - [FanControl](https://github.com/Rem0o/FanControl.Releases)
- - [Loseless Cut](https://github.com/mifi/lossless-cut)
+ - [Loseless Cut](https://github.com/mifi/lossless-cut) / [Rise-Media-Player](https://github.com/Rise-Software/Rise-Media-Player)
  - [Powertoys](https://github.com/microsoft/PowerToys)
  - [Geek Uninstaller](https://geekuninstaller.com/)
  - [WizTree](https://diskanalyzer.com/) | [Everything](https://www.voidtools.com/)
@@ -176,6 +177,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
  - [DNS Benchmark](https://www.grc.com/dns/benchmark.htm)
  - [Powershell 7](https://github.com/PowerShell/PowerShell)
  - [Twinkle-Tray](https://github.com/xanderfrangos/twinkle-tray/releases/tag/v1.16.6)
+   
 
 ## My personal browsers
 
@@ -188,4 +190,5 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
  - [whim](https://github.com/dalyIsaac/Whim)
  - [jwno](https://github.com/agent-kilo/jwno)
  - [mondrian](https://github.com/policastro/mondrian)
+ - [NETworkManager](https://github.com/BornToBeRoot/NETworkManager)
 
