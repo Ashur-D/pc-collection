@@ -174,6 +174,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
  - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/)
  - [DNS Benchmark](https://www.grc.com/dns/benchmark.htm)
  - [Powershell 7](https://github.com/PowerShell/PowerShell)
+ - [Twinkle-Tray](https://github.com/xanderfrangos/twinkle-tray/releases/tag/v1.16.6)
 
 ## My personal browsers
 
