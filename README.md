@@ -133,6 +133,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
  - [Omni Theme](https://github.com/getomni)
  - [Tokyo Night](https://github.com/tokyo-night)
  - [Rose Box](https://github.com/KraXen72/rosebox)
+ - [Gruvbox](https://github.com/morhetz/gruvbox)
 
  ## Wallpapers
 
@@ -178,6 +179,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
  - [DNS Benchmark](https://www.grc.com/dns/benchmark.htm)
  - [Powershell 7](https://github.com/PowerShell/PowerShell)
  - [Twinkle-Tray](https://github.com/xanderfrangos/twinkle-tray/releases/tag/v1.16.6)
+ - [Glance](https://github.com/glanceapp/glance) (self-hosted dashboard for feeds)
    
 
 ## My personal browsers
