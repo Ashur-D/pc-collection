@@ -121,6 +121,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 - [Color Hunt](https://colorhunt.co/)
 - [millennium](https://github.com/shdwmtr/millennium) (customize your steam app)
 - [folder-icons](https://github.com/sameerasw/folder-icons)
+- [Weather](https://github.com/rocksdanister/weather)
 
 ## Popular Themes
 
