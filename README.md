@@ -197,7 +197,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
  - [jwno](https://github.com/agent-kilo/jwno)
  - [mondrian](https://github.com/policastro/mondrian)
  - [NETworkManager](https://github.com/BornToBeRoot/NETworkManager)
- - [TwitchAdSolutions script for Ublock](TwitchAdSolutions)
+ - [TwitchAdSolutions script for Ublock](https://github.com/pixeltris/TwitchAdSolutions)
  - [Nebula-A-Minimal-Theme-for-Zen-Browser](https://github.com/JustAdumbPrsn/Nebula-A-Minimal-Theme-for-Zen-Browser)
 
 
