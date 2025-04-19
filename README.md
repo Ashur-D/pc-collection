@@ -146,6 +146,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
   - [Wallpaper Engine website](https://www.wallpaperengine.space/) 
   - [Gruvbox Wallpapers](https://gruvbox-wallpapers.pages.dev/)
   - [Wallhaven](https://wallhaven.cc/)
+  - [WallpaperFlare] (https://www.wallpaperflare.com/)
   - [Wallpaper Cave](https://wallpapercave.com/)
   - [UHDpaper](https://www.uhdpaper.com/)
   - [Unsplash](https://unsplash.com/t/wallpapers)
