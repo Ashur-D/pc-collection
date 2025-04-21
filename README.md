@@ -65,7 +65,7 @@ netsh winhttp reset proxy
 ipconfig /flushdns
 ```
 ### or
-- [Download network-reset.bat](https://github.com/Ashur-D/Personal-Windows11-Guide/blob/main/network-reset.bat)
+- [Download network-reset.bat](Configs/network-reset.bat)
 
 ### next 
 Run this command to see your current network congestion and take not incase you may want revert back: 
@@ -143,7 +143,8 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
  #### Here are some links to websites with wallpapers, including mine on wallpaper engine.
 
   - ❤️ [My Wallpaper Engine](https://steamcommunity.com/profiles/76561198824218763/myworkshopfiles/?appid=431960&sort=score&browsefilter=myfavorites&view=imagewall)
-  - ❤️ [Wallpaper Engine website](https://www.wallpaperengine.space/) 
+  - ❤️ [Wallpaper Engine website](https://www.wallpaperengine.space/)
+  - ❤️ [Quick wallpapers](wallpapers)
   - [Gruvbox Wallpapers](https://gruvbox-wallpapers.pages.dev/)
   - [Wallhaven](https://wallhaven.cc/)
   - [WallpaperFlare](https://www.wallpaperflare.com/)
