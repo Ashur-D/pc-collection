@@ -116,7 +116,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 - ❤️ [ExplorerTool](https://github.com/Maplespe/explorerTool) / [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) (These 2 programs from he same person are used to custimize your file explorer)
 - ❤️ [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) / [FastFetch](https://github.com/fastfetch-cli/fastfetch) / [ZSH](https://zsh.sourceforge.io/) (These programs are used to custimize your windows terminal)
 - [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher) / [Wox](https://github.com/Wox-launcher/Wox) (fast indexing launchers for apps, files, programs etc.)
-- [GlazeWM](https://github.com/glzr-io/glazewm?tab=readme-ov-file) / [komorebi](https://github.com/LGUG2Z/komorebi) (Windows tiling managers)
+- [GlazeWM](https://github.com/glzr-io/glazewm?tab=readme-ov-file) / [komorebi](https://github.com/LGUG2Z/komorebi) / [whim](https://github.com/dalyIsaac/Whim) / [jwno](https://github.com/agent-kilo/jwno) / [mondrian](https://github.com/policastro/mondrian) (Windows tiling managers)
 - [Zebar](https://github.com/glzr-io/zebar) / [yasb](https://github.com/amnweb/yasb) / [SeleenUI](https://github.com/eythaann/Seelen-UI) (Creating widgets and windows status bar)
 - [TackyBorders](https://github.com/lukeyou05/tacky-borders) / [CuteBorders](https://github.com/keifufu/cute-borders) (Custom borders around certain windows)
 - [Bottom](https://github.com/ClementTsang/bottom) / [Glances](https://github.com/nicolargo/glances)( Graphical process/system monitor)
@@ -125,6 +125,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 - [millennium](https://github.com/shdwmtr/millennium) (customize your steam app)
 - [folder-icons](https://github.com/sameerasw/folder-icons)
 - [Weather](https://github.com/rocksdanister/weather)
+- [yazi](https://github.com/sxyazi/yazi) (file manager)
 
 ## Popular Themes
 
@@ -196,10 +197,6 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 
 ## Currently testing
 
- - [yazi](https://github.com/sxyazi/yazi)
- - [whim](https://github.com/dalyIsaac/Whim)
- - [jwno](https://github.com/agent-kilo/jwno)
- - [mondrian](https://github.com/policastro/mondrian)
  - [NETworkManager](https://github.com/BornToBeRoot/NETworkManager)
  - [TwitchAdSolutions script for Ublock](https://github.com/pixeltris/TwitchAdSolutions)
  - [Nebula-A-Minimal-Theme-for-Zen-Browser](https://github.com/JustAdumbPrsn/Nebula-A-Minimal-Theme-for-Zen-Browser)
