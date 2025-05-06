@@ -152,6 +152,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
   - [Wallpaper Cave](https://wallpapercave.com/)
   - [UHDpaper](https://www.uhdpaper.com/)
   - [Unsplash](https://unsplash.com/t/wallpapers)
+  - [WallpapersClan](https://wallpapers-clan.com/)
   - [FreePik](https://www.freepik.com/)
   - [PixGround](https://www.pixground.com/)
   - [ImageGoNord](https://github.com/Schroedinger-Hat/ImageGoNord-Web) (This website just changes your wallpapers to a Nord theme style)
