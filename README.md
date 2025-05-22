@@ -190,6 +190,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
  - ❤️ [Twinkle-Tray](https://github.com/xanderfrangos/twinkle-tray/releases/tag/v1.16.6)
  - [Glance](https://github.com/glanceapp/glance) (self-hosted dashboard for feeds)
  - ❤️ [WinSetView](https://github.com/LesFerch/WinSetView) (Change explorer view settings)
+ - [intel driver support](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html)(Great driver tool if you have an intel mobo)
    
 
 ## My personal browsers
