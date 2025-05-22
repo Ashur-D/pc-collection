@@ -180,17 +180,17 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
  - [Powertoys](https://github.com/microsoft/PowerToys)
  - ❤️ [Geek Uninstaller](https://geekuninstaller.com/)
  - ❤️ [WizTree](https://diskanalyzer.com/) | [Everything](https://www.voidtools.com/)
- - [HWmoniter](https://www.cpuid.com/softwares/hwmonitor.html)
- - [GPU-Z](https://www.techpowerup.com/gpuz/) | [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
+ - [HWmoniter](https://www.cpuid.com/softwares/hwmonitor.html) (moniters all your temps/voltages and others from your cpu to your ssd)
+ - [GPU-Z](https://www.techpowerup.com/gpuz/) | [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) (all your cpu and gpu info)
  - [Sysinternals Utilities](https://learn.microsoft.com/en-us/sysinternals/downloads/)
  - [ControlMyMoniter](https://controlmymonitor.en.softonic.com/)
- - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/)
+ - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) (Check your status and info on your SSD/HDD or any storage type)
  - [DNS Benchmark](https://www.grc.com/dns/benchmark.htm)
  - [Powershell 7](https://github.com/PowerShell/PowerShell)
- - ❤️ [Twinkle-Tray](https://github.com/xanderfrangos/twinkle-tray/releases/tag/v1.16.6)
+ - ❤️ [Twinkle-Tray](https://github.com/xanderfrangos/twinkle-tray/releases/tag/v1.16.6) (Change moniter brightness quickly as well as other features)
  - [Glance](https://github.com/glanceapp/glance) (self-hosted dashboard for feeds)
  - ❤️ [WinSetView](https://github.com/LesFerch/WinSetView) (Change explorer view settings)
- - [intel driver support](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html)(Great driver tool if you have an intel mobo)
+ - [intel driver support](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html) (Great driver tool if you have an intel mobo)
    
 
 ## My personal browsers
