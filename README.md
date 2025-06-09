@@ -75,6 +75,13 @@ Get-NetTCPSetting | Select SettingName, CongestionProvider
 - Then use 1 of the following and test out which gives the best output
 
 ```
+netsh int tcp set supplemental Template=Internet CongestionProvider=BBR
+netsh int tcp set supplemental Template=Datacenter CongestionProvider=BBR
+netsh int tcp set supplemental Template=Compat CongestionProvider=BBR
+netsh int tcp set supplemental Template=DatacenterCustom CongestionProvider=BBR
+netsh int tcp set supplemental Template=InternetCustom CongestionProvider=BBR
+```
+```
 netsh int tcp set supplemental Template=Internet CongestionProvider=bbr2
 netsh int tcp set supplemental Template=Datacenter CongestionProvider=bbr2
 netsh int tcp set supplemental Template=Compat CongestionProvider=bbr2
