@@ -201,7 +201,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 
 ## My personal browsers
 
- ❤️ [Floorp](https://floorp.app/en) |  [LibreWolf](https://librewolf.net/) |  [Zen](https://zen-browser.app/) |  [Brave](https://brave.com/)
+ ❤️ [Floorp](https://floorp.app/en-US) |  [LibreWolf](https://librewolf.net/) |  [Zen](https://zen-browser.app/) |  [Brave](https://brave.com/)
 
 
 ## Currently testing
