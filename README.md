@@ -49,7 +49,6 @@ anything I use will have an indication
 ### other applications I havent used much
 
 - [HellzergOptimizer](https://github.com/hellzerg/optimizer)
-- [Flyby11](https://github.com/builtbybel/Flyby11)
 - [CrapFixer](https://github.com/builtbybel/CrapFixer)
 
 ## Network tweaks
