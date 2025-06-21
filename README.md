@@ -50,6 +50,7 @@ anything I use will have an indication
 
 - [HellzergOptimizer](https://github.com/hellzerg/optimizer)
 - [CrapFixer](https://github.com/builtbybel/CrapFixer)
+- [ruru-opt](https://github.com/ruru-o/ruru-opt)
 
 ## Network tweaks
 
