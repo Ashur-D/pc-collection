@@ -198,6 +198,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
  - [intel driver support](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html) (Great driver tool if you have an intel mobo)
  - [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher) / [Wox](https://github.com/Wox-launcher/Wox) (fast indexing launchers for apps, files, programs etc.)
  - [Bottom](https://github.com/ClementTsang/bottom) / [Glances](https://github.com/nicolargo/glances)( Graphical process/system monitor)
+ - ❤️ [TwitchAdSolutions script for Ublock](https://github.com/pixeltris/TwitchAdSolutions)
    
 
 ## My personal browsers
@@ -208,7 +209,6 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 ## Currently testing
 
  - [NETworkManager](https://github.com/BornToBeRoot/NETworkManager)
- - [TwitchAdSolutions script for Ublock](https://github.com/pixeltris/TwitchAdSolutions)
  - [Nebula-A-Minimal-Theme-for-Zen-Browser](https://github.com/JustAdumbPrsn/Nebula-A-Minimal-Theme-for-Zen-Browser)
 
 
