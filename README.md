@@ -123,11 +123,9 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 - [VinStarTheme](https://www.vinstartheme.com/) (Im pretty sure this site steals other peoples themes as I asked Niivu, his content was stolen and put on there, use with caution as it may have older versions)
 - ❤️ [ExplorerTool](https://github.com/Maplespe/explorerTool) / [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) (These 2 programs from he same person are used to custimize your file explorer)
 - [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) / [FastFetch](https://github.com/fastfetch-cli/fastfetch) / [ZSH](https://zsh.sourceforge.io/) (These programs are used to custimize your windows terminal)
-- [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher) / [Wox](https://github.com/Wox-launcher/Wox) (fast indexing launchers for apps, files, programs etc.)
 - [GlazeWM](https://github.com/glzr-io/glazewm?tab=readme-ov-file) / [komorebi](https://github.com/LGUG2Z/komorebi) / [whim](https://github.com/dalyIsaac/Whim) / [jwno](https://github.com/agent-kilo/jwno) / [mondrian](https://github.com/policastro/mondrian) (Windows tiling managers)
 - [Zebar](https://github.com/glzr-io/zebar) / [yasb](https://github.com/amnweb/yasb) / [SeleenUI](https://github.com/eythaann/Seelen-UI) (Creating widgets and windows status bar)
 - [TackyBorders](https://github.com/lukeyou05/tacky-borders) / [CuteBorders](https://github.com/keifufu/cute-borders) (Custom borders around certain windows)
-- [Bottom](https://github.com/ClementTsang/bottom) / [Glances](https://github.com/nicolargo/glances)( Graphical process/system monitor)
 - [pywal](https://github.com/dylanaraps/pywal) / [pywal16](https://github.com/eylles/pywal16)
 - [Color Hunt](https://colorhunt.co/)
 - [millennium](https://github.com/shdwmtr/millennium) (customize your steam app)
@@ -198,6 +196,8 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
  - [Glance](https://github.com/glanceapp/glance) (self-hosted dashboard for feeds)
  - ❤️ [WinSetView](https://github.com/LesFerch/WinSetView) (Change explorer view settings)
  - [intel driver support](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html) (Great driver tool if you have an intel mobo)
+ - [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher) / [Wox](https://github.com/Wox-launcher/Wox) (fast indexing launchers for apps, files, programs etc.)
+ - [Bottom](https://github.com/ClementTsang/bottom) / [Glances](https://github.com/nicolargo/glances)( Graphical process/system monitor)
    
 
 ## My personal browsers
