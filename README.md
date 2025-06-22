@@ -37,7 +37,7 @@ anything I use will have an indication
 
 ## Programs
 
-- ❤️ [Download WinUtil](https://github.com/ChrisTitusTech/winutil) or run the command: `irm https://christitus.com/win | iex`
+- ❤️ [WinUtil](https://github.com/ChrisTitusTech/winutil) run the command: `irm https://christitus.com/win | iex`
 - ❤️ [Download Winhance](https://github.com/memstechtips/Winhance) or run the command: `irm "https://github.com/memstechtips/Winhance/raw/main/Winhance.ps1" | iex`
 - ❤️ [Download Wintoys from the microsoft store](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US)
 - ❤️ [Download BleachBit](https://www.bleachbit.org/) ( This program just cleans your files, be careful when using it, it is powerful and will delete everything)
