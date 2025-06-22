@@ -117,7 +117,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 
 - ❤️ [StartAllBack](https://www.startallback.com/) (This program is for changing the windows startmenu, file explorer, tray icons, etc. It has a free 90 day trial)
 - ❤️ [Nilesoft](https://github.com/moudey/Shell) / [Breeze-Shell](https://github.com/std-microblock/breeze-shell) (This is for changing the windows context menu)
-- ❤️ [deviantartNiivu](https://www.deviantart.com/niivu/art/Installing-Windows-Themes-UPDATED-708835586)(Niivu will give a guide for the installation process, there are also some extra programs you check out that I have not shown here, and custom cursors, as well as some older themes he has on his github that are no longer supported and all themes will have a 7tsp file to use with the program below)
+- ❤️ [deviantartNiivu](https://www.deviantart.com/niivu/art/Installing-Windows-Themes-UPDATED-708835586)(Niivu will give a guide for the installation process, there are also some extra programs you check out that I have not shown here, and custom cursors, as well as some older themes he has on his github that are no longer supported and most themes will have a 7tsp file for icons)
 - ❤️ [7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) (This is needed for changing the Windows icons)
 - [VinStarTheme](https://www.vinstartheme.com/) (Im pretty sure this site steals other peoples themes as I asked Niivu, his content was stolen and put on there, use with caution as it may have older versions)
 - ❤️ [ExplorerTool](https://github.com/Maplespe/explorerTool) / [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) (These 2 programs from he same person are used to custimize your file explorer)
@@ -129,8 +129,6 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 - [Color Hunt](https://colorhunt.co/)
 - [millennium](https://github.com/shdwmtr/millennium) (customize your steam app)
 - [folder-icons](https://github.com/sameerasw/folder-icons)
-- [Weather](https://github.com/rocksdanister/weather)
-- [yazi](https://github.com/sxyazi/yazi) (file manager)
 
 ## Popular Themes
 
@@ -199,6 +197,8 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
  - [Bottom](https://github.com/ClementTsang/bottom) / [Glances](https://github.com/nicolargo/glances)( Graphical process/system monitor)
  - ❤️ [TwitchAdSolutions script for Ublock](https://github.com/pixeltris/TwitchAdSolutions)
  - [schneegansde/WindowsUnattendGenerator](https://schneegans.de/windows/unattend-generator/) ( This is used to make a custom ISO file or to download the XML file)
+ - [yazi](https://github.com/sxyazi/yazi) (file manager)
+ - [Weather](https://github.com/rocksdanister/weather)
    
 
 ## My personal browsers
@@ -207,7 +207,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 
 
 ## Currently testing
-
+ - [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)
  - [NETworkManager](https://github.com/BornToBeRoot/NETworkManager)
  - [Nebula-A-Minimal-Theme-for-Zen-Browser](https://github.com/JustAdumbPrsn/Nebula-A-Minimal-Theme-for-Zen-Browser)
 
