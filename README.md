@@ -38,12 +38,11 @@ anything I use will have an indication
 ## Programs
 
 - ❤️ [WinUtil](https://github.com/ChrisTitusTech/winutil) run the command: `irm https://christitus.com/win | iex`
-- ❤️ [Download Winhance](https://github.com/memstechtips/Winhance) or run the command: `irm "https://github.com/memstechtips/Winhance/raw/main/Winhance.ps1" | iex`
+- ❤️ [Download Winhance](https://github.com/memstechtips/Winhance)
 - ❤️ [Download Wintoys from the microsoft store](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US)
 - ❤️ [Download BleachBit](https://www.bleachbit.org/) ( This program just cleans your files, be careful when using it, it is powerful and will delete everything)
 - ❤️ [Download DDU](https://www.wagnardsoft.com/display-driver-uninstaller-DDU-) and [Download NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) (These 2 programs are for removoing and installing GPU drivers)
 - ❤️ [Download MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) and [Download Process Lasso](https://bitsum.com/) ( These are for managing your GPU,CPU and RAM)
-- [schneegansde/WindowsUnattendGenerator](https://schneegans.de/windows/unattend-generator/) ( This is used to make a custom ISO file or to download the XML file)
   
 
 ### other applications I havent used much
@@ -199,6 +198,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
  - [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher) / [Wox](https://github.com/Wox-launcher/Wox) (fast indexing launchers for apps, files, programs etc.)
  - [Bottom](https://github.com/ClementTsang/bottom) / [Glances](https://github.com/nicolargo/glances)( Graphical process/system monitor)
  - ❤️ [TwitchAdSolutions script for Ublock](https://github.com/pixeltris/TwitchAdSolutions)
+ - [schneegansde/WindowsUnattendGenerator](https://schneegans.de/windows/unattend-generator/) ( This is used to make a custom ISO file or to download the XML file)
    
 
 ## My personal browsers
