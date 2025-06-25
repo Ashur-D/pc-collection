@@ -140,6 +140,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
  - [Tokyo Night](https://github.com/tokyo-night)
  - [Rose Box](https://github.com/KraXen72/rosebox)
  - [Gruvbox](https://github.com/morhetz/gruvbox)
+ - [Everforest](https://github.com/sainnhe/everforest)
 
  ## Wallpapers
 
