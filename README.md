@@ -173,6 +173,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
  - [Collection 2](https://github.com/maotseantonio/wallpapers)
  - [Collection 3](https://github.com/dharmx/walls)
  - [collection 4](https://github.com/h1Gio/Wallpapers)
+ - [Collection 5](https://github.com/lordofhunger/wallpapers)
 
 # 💿 miscellaneous apps/tweaks
 
