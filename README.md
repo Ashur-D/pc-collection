@@ -213,6 +213,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
  - [NETworkManager](https://github.com/BornToBeRoot/NETworkManager)
  - [Nebula-A-Minimal-Theme-for-Zen-Browser](https://github.com/JustAdumbPrsn/Nebula-A-Minimal-Theme-for-Zen-Browser)
  - [ImageGlass](https://github.com/d2phap/ImageGlass)
+ - [BeatPrints](https://github.com/TrueMyst/BeatPrints)
 
 ## Other sources
 - [PC-Tuning](https://github.com/valleyofdoom/PC-Tuning)
