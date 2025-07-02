@@ -215,6 +215,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
  - [ImageGlass](https://github.com/d2phap/ImageGlass)
  - [BeatPrints](https://github.com/TrueMyst/BeatPrints)
  - [wezterm](https://github.com/wezterm/wezterm)
+ - [SDIO](https://www.snappy-driver-installer.org/)
 
 ## Other sources
 - [PC-Tuning](https://github.com/valleyofdoom/PC-Tuning)
