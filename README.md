@@ -114,14 +114,17 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 
 ## Programs
 
-- ❤️ [StartAllBack](https://www.startallback.com/) 
-      (Used for changing the windows startmenu, file explorer, tray icons, etc. It has a free 90 day trial)
+- ❤️ [StartAllBack](https://www.startallback.com/)<br>
+      Used for changing the windows startmenu, file explorer, tray icons, etc. It has a free 90 day trial
   
-- ❤️ [Nilesoft](https://github.com/moudey/Shell) / [Breeze-Shell](https://github.com/std-microblock/breeze-shell)
-      (Used for changing the windows context menu)
+- ❤️ [Nilesoft](https://github.com/moudey/Shell) / [Breeze-Shell](https://github.com/std-microblock/breeze-shell)<br>
+      Used for changing the windows context menu
   
-- ❤️ [deviantartNiivu](https://www.deviantart.com/niivu/art/Installing-Windows-Themes-UPDATED-708835586)(Niivu will give a guide for the installation process, there are also some extra programs you check out that I have not shown here, and custom cursors, as well as some older themes he has on his github that are no longer supported and most themes will have a 7tsp file for icons)
-- ❤️ [7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) (Needed for changing the Windows icons)
+- ❤️ [deviantartNiivu](https://www.deviantart.com/niivu/art/Installing-Windows-Themes-UPDATED-708835586)<br>
+      Niivu provides installation guides, additional programs, custom cursors, and older, unsupported themes. Most themes include a 7TSP file for icons for hte program below
+  
+- ❤️ [7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422)<br> 
+      Needed for changing the Windows icons
 - [VinStarTheme](https://www.vinstartheme.com/) (Im pretty sure this site steals other peoples themes as I asked Niivu, his content was stolen and put on there, use with caution as it may have older versions)
 - ❤️ [ExplorerTool](https://github.com/Maplespe/explorerTool) / [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) (Used for custimizing your file explorer)
 - [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) / [FastFetch](https://github.com/fastfetch-cli/fastfetch) / [ZSH](https://zsh.sourceforge.io/) (Used for custimizing your windows terminal)
