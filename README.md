@@ -114,35 +114,35 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 
 ## Programs
 
-- ❤️ [StartAllBack](https://www.startallback.com/)<br>
-      Used for changing the windows startmenu, file explorer, tray icons, etc. It has a free 90 day trial
+- ❤️ ![StartAllBack](https://www.startallback.com/)<br>
+		Used for changing the windows startmenu, file explorer, tray icons, etc. It has a free 90 day trial
   
 - ❤️ [Nilesoft](https://github.com/moudey/Shell) / [Breeze-Shell](https://github.com/std-microblock/breeze-shell)<br>
-      Used for changing the windows context menu
+		Used for changing the windows context menu
   
 - ❤️ [deviantartNiivu](https://www.deviantart.com/niivu/art/Installing-Windows-Themes-UPDATED-708835586)<br>
-      Niivu provides installation guides, additional programs, custom cursors, and older, unsupported themes. Most themes include a 7TSP file for icons for hte program below
+		Niivu provides installation guides, additional programs, custom cursors, and older, unsupported themes. Most themes include a 7TSP file for icons for hte program below
   
 - ❤️ [7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422)<br> 
-      Needed for changing the Windows icons
+		Needed for changing the Windows icons
   
 - [VinStarTheme](https://www.vinstartheme.com/)<br> 
-      Im pretty sure this site steals other peoples themes as I asked Niivu, his content was stolen and put on there, use with caution as it may have older versions
+		Im pretty sure this site steals other peoples themes as I asked Niivu, his content was stolen and put on there, use with caution as it may have older versions
   
 - ❤️ [ExplorerTool](https://github.com/Maplespe/explorerTool) / [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica)<br>
-			Used for custimizing your file explorer
+		Used for custimizing your file explorer
 
 - [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) / [FastFetch](https://github.com/fastfetch-cli/fastfetch) / [ZSH](https://zsh.sourceforge.io/)
-  		Used for custimizing your windows terminal
+Used for custimizing your windows terminal
 
 - [GlazeWM](https://github.com/glzr-io/glazewm?tab=readme-ov-file) / [komorebi](https://github.com/LGUG2Z/komorebi) / [whim](https://github.com/dalyIsaac/Whim) / [jwno](https://github.com/agent-kilo/jwno) / [mondrian](https://github.com/policastro/mondrian)<br> 
-			Windows tiling managers
+Windows tiling managers
 
 - [Zebar](https://github.com/glzr-io/zebar) / [yasb](https://github.com/amnweb/yasb) / [SeleenUI](https://github.com/eythaann/Seelen-UI)<br> 
-			Creating widgets and windows status bar
+Creating widgets and windows status bar
 
 - [TackyBorders](https://github.com/lukeyou05/tacky-borders) / [CuteBorders](https://github.com/keifufu/cute-borders)<br>
-			Custom borders around certain windows
+Custom borders around certain windows
 
 - [pywal](https://github.com/dylanaraps/pywal) / [pywal16](https://github.com/eylles/pywal16) / [HellWal](https://github.com/danihek/hellwal)<br>
 
@@ -151,7 +151,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 
 
 - [millennium](https://github.com/shdwmtr/millennium)<br>
-			Customize your steam app
+Customize your steam app
 
 - [folder-icons](https://github.com/sameerasw/folder-icons)<br>
 
