@@ -39,9 +39,9 @@ anything I use will have an indication - ❤️
 - ❤️ [WinUtil](https://github.com/ChrisTitusTech/winutil) run the command: `irm https://christitus.com/win | iex`
 - ❤️ [Download Winhance](https://github.com/memstechtips/Winhance)
 - ❤️ [Download Wintoys from the microsoft store](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US)
-- ❤️ [Download BleachBit](https://www.bleachbit.org/) ( This program just cleans your files, be careful when using it, it is powerful and will delete everything)
-- ❤️ [Download DDU](https://www.wagnardsoft.com/display-driver-uninstaller-DDU-) and [Download NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) (These 2 programs are for removoing and installing GPU drivers)
-- ❤️ [Download MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) and [Download Process Lasso](https://bitsum.com/) ( These are for managing your GPU,CPU and RAM)
+- ❤️ [Download BleachBit](https://www.bleachbit.org/) ( Used for removing files)
+- ❤️ [Download DDU](https://www.wagnardsoft.com/display-driver-uninstaller-DDU-) and [Download NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) (used for removing and installing GPU drivers)
+- ❤️ [Download MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) and [Download Process Lasso](https://bitsum.com/) ( Used for managing your GPU,CPU and RAM)
   
 
 ### other applications I havent used much
@@ -114,13 +114,13 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 
 ## Programs
 
-- ❤️ [StartAllBack](https://www.startallback.com/) (This program is for changing the windows startmenu, file explorer, tray icons, etc. It has a free 90 day trial)
-- ❤️ [Nilesoft](https://github.com/moudey/Shell) / [Breeze-Shell](https://github.com/std-microblock/breeze-shell) (This is for changing the windows context menu)
+- ❤️ [StartAllBack](https://www.startallback.com/) (Used for changing the windows startmenu, file explorer, tray icons, etc. It has a free 90 day trial)
+- ❤️ [Nilesoft](https://github.com/moudey/Shell) / [Breeze-Shell](https://github.com/std-microblock/breeze-shell) (Used for changing the windows context menu)
 - ❤️ [deviantartNiivu](https://www.deviantart.com/niivu/art/Installing-Windows-Themes-UPDATED-708835586)(Niivu will give a guide for the installation process, there are also some extra programs you check out that I have not shown here, and custom cursors, as well as some older themes he has on his github that are no longer supported and most themes will have a 7tsp file for icons)
-- ❤️ [7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) (This is needed for changing the Windows icons)
+- ❤️ [7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) (Needed for changing the Windows icons)
 - [VinStarTheme](https://www.vinstartheme.com/) (Im pretty sure this site steals other peoples themes as I asked Niivu, his content was stolen and put on there, use with caution as it may have older versions)
-- ❤️ [ExplorerTool](https://github.com/Maplespe/explorerTool) / [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) (These 2 programs from he same person are used to custimize your file explorer)
-- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) / [FastFetch](https://github.com/fastfetch-cli/fastfetch) / [ZSH](https://zsh.sourceforge.io/) (These programs are used to custimize your windows terminal)
+- ❤️ [ExplorerTool](https://github.com/Maplespe/explorerTool) / [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) (Used for custimizing your file explorer)
+- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) / [FastFetch](https://github.com/fastfetch-cli/fastfetch) / [ZSH](https://zsh.sourceforge.io/) (Used for custimizing your windows terminal)
 - [GlazeWM](https://github.com/glzr-io/glazewm?tab=readme-ov-file) / [komorebi](https://github.com/LGUG2Z/komorebi) / [whim](https://github.com/dalyIsaac/Whim) / [jwno](https://github.com/agent-kilo/jwno) / [mondrian](https://github.com/policastro/mondrian) (Windows tiling managers)
 - [Zebar](https://github.com/glzr-io/zebar) / [yasb](https://github.com/amnweb/yasb) / [SeleenUI](https://github.com/eythaann/Seelen-UI) (Creating widgets and windows status bar)
 - [TackyBorders](https://github.com/lukeyou05/tacky-borders) / [CuteBorders](https://github.com/keifufu/cute-borders) (Custom borders around certain windows)
