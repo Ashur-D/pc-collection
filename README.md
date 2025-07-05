@@ -242,6 +242,7 @@ Customize your steam app
  - [BeatPrints](https://github.com/TrueMyst/BeatPrints)
  - [wezterm](https://github.com/wezterm/wezterm)
  - [SDIO](https://www.snappy-driver-installer.org/)
+ - [MSI center](https://www.msi.com/Landing/MSI-Center) ( only used this to turn off zero frozr with the cooling master so that my gpu fans can always run )
 
 ## Other sources
 - [PC-Tuning](https://github.com/valleyofdoom/PC-Tuning)
