@@ -176,6 +176,7 @@ Customize your steam app
   - ❤️ [Wallpaper Engine website](https://www.wallpaperengine.space/)
   - ❤️ [Quick wallpapers](wallpapers)
   - [Wallsync](https://github.com/leroiduflow/WallSync)
+  - [Wallpapers by:JoydeepMallick](https://github.com/JoydeepMallick/Wallpapers)
   - [Gruvbox Wallpapers](https://gruvbox-wallpapers.pages.dev/)
   - [Wallhaven](https://wallhaven.cc/)
   - [WallpaperFlare](https://www.wallpaperflare.com/)
