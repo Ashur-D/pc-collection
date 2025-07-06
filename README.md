@@ -191,7 +191,8 @@ Customize your steam app
 #### Wallpaper Tools
 
   - [ImageGoNord](https://github.com/Schroedinger-Hat/ImageGoNord-Web) 
-  - [GoWall](https://github.com/Achno/gowall) / [tint](https://github.com/ashish0kumar/tint) 
+  - [GoWall](https://github.com/Achno/gowall)
+  - [tint](https://github.com/ashish0kumar/tint) 
 
     
 #### Wallpapers from repo's I found
