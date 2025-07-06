@@ -36,12 +36,12 @@ anything I use will have an indication - ❤️
 
 ## Programs
 
-- ❤️ [WinUtil](https://github.com/ChrisTitusTech/winutil) run the command: `irm https://christitus.com/win | iex`
+- ❤️ [WinUtil](https://github.com/ChrisTitusTech/winutil) 
 - ❤️ [Download Winhance](https://github.com/memstechtips/Winhance)
 - ❤️ [Download Wintoys from the microsoft store](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US)
 - ❤️ [Download BleachBit](https://www.bleachbit.org/) ( Used for removing files)
-- ❤️ [Download DDU](https://www.wagnardsoft.com/display-driver-uninstaller-DDU-) and [Download NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) (used for removing and installing GPU drivers)
-- ❤️ [Download MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) and [Download Process Lasso](https://bitsum.com/) ( Used for managing your GPU,CPU and RAM)
+- ❤️ [Download DDU](https://www.wagnardsoft.com/display-driver-uninstaller-DDU-) and [Download NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
+- ❤️ [Download MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) and [Download Process Lasso](https://bitsum.com/)
   
 
 ### other applications I havent used much
