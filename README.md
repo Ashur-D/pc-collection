@@ -187,8 +187,11 @@ Customize your steam app
   - [WallAlphaCoders](https://alphacoders.com/)
   - [FreePik](https://www.freepik.com/)
   - [PixGround](https://www.pixground.com/)
-  - [ImageGoNord](https://github.com/Schroedinger-Hat/ImageGoNord-Web) (This website just changes your wallpapers to a Nord theme style)
-  - [GoWall](https://github.com/Achno/gowall) / [tint](https://github.com/ashish0kumar/tint) (Converts an image like a wallpaper to a certain color-scheme / pallete)
+
+#### Wallpaper Tools
+
+  - [ImageGoNord](https://github.com/Schroedinger-Hat/ImageGoNord-Web) 
+  - [GoWall](https://github.com/Achno/gowall) / [tint](https://github.com/ashish0kumar/tint) 
 
     
 #### Wallpapers from repo's I found
