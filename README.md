@@ -125,17 +125,17 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 - ❤️ [ExplorerTool](https://github.com/Maplespe/explorerTool) / [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica)<br>
 		Used for custimizing your file explorer
 
-- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) / [FastFetch](https://github.com/fastfetch-cli/fastfetch) / [ZSH](https://zsh.sourceforge.io/)
-Used for custimizing your windows terminal
+- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) / [FastFetch](https://github.com/fastfetch-cli/fastfetch) / [ZSH](https://zsh.sourceforge.io/)<br>
+		Used for custimizing your windows terminal
 
 - [GlazeWM](https://github.com/glzr-io/glazewm?tab=readme-ov-file) / [komorebi](https://github.com/LGUG2Z/komorebi) / [whim](https://github.com/dalyIsaac/Whim) / [jwno](https://github.com/agent-kilo/jwno) / [mondrian](https://github.com/policastro/mondrian)<br> 
-Windows tiling managers
+		Windows tiling managers
 
 - [Zebar](https://github.com/glzr-io/zebar) / [yasb](https://github.com/amnweb/yasb) / [SeleenUI](https://github.com/eythaann/Seelen-UI)<br> 
-Creating widgets and windows status bar
+		Creating widgets and windows status bar
 
 - [TackyBorders](https://github.com/lukeyou05/tacky-borders) / [CuteBorders](https://github.com/keifufu/cute-borders)<br>
-Custom borders around certain windows
+		Custom borders around certain windows
 
 - [pywal](https://github.com/dylanaraps/pywal) / [pywal16](https://github.com/eylles/pywal16) / [HellWal](https://github.com/danihek/hellwal)<br>
 
