@@ -142,7 +142,6 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 
 - [Color Hunt](https://colorhunt.co/)<br>
 
-
 - [millennium](https://github.com/shdwmtr/millennium)<br>
 Customize your steam app
 
@@ -156,6 +155,7 @@ Customize your steam app
 
 - [WindHawk](https://github.com/ramensoftware/windhawk)
 
+- [FluentFlyout](https://github.com/unchihugo/FluentFlyout)
 ## Popular Themes
 
  - ❤️ [Catppuccin](https://github.com/catppuccin)
