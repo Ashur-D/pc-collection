@@ -152,6 +152,10 @@ Customize your steam app
 
 - [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)<br>
 
+- [DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass)
+
+- [WindHawk](https://github.com/ramensoftware/windhawk)
+
 ## Popular Themes
 
  - ❤️ [Catppuccin](https://github.com/catppuccin)
@@ -224,7 +228,7 @@ Customize your steam app
  - [Glance](https://github.com/glanceapp/glance) (self-hosted dashboard for feeds)
  - ❤️ [WinSetView](https://github.com/LesFerch/WinSetView) (Change explorer view settings)
  - [intel driver support](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html) (Great driver tool if you have an intel mobo)
- - [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher) / [Wox](https://github.com/Wox-launcher/Wox) (fast indexing launchers for apps, files, programs etc.)
+ - [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher) / [Wox](https://github.com/Wox-launcher/Wox) / [FluentSearch](https://github.com/adirh3/Fluent-Search)(fast indexing launchers for apps, files, programs etc.)
  - [Bottom](https://github.com/ClementTsang/bottom) / [Glances](https://github.com/nicolargo/glances)( Graphical process/system monitor)
  - ❤️ [TwitchAdSolutions script for Ublock](https://github.com/pixeltris/TwitchAdSolutions)
  - [schneegansde/WindowsUnattendGenerator](https://schneegans.de/windows/unattend-generator/) ( This is used to make a custom ISO file or to download the XML file)
