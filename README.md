@@ -148,6 +148,10 @@ Customize your steam app
 
 - [folder-icons](https://github.com/sameerasw/folder-icons)<br>
 
+- [Cedro Modern Dock](https://github.com/arthurdeka/cedro-modern-dock)<br>
+
+- [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)<br>
+
 ## Popular Themes
 
  - ❤️ [Catppuccin](https://github.com/catppuccin)
@@ -226,6 +230,7 @@ Customize your steam app
  - [schneegansde/WindowsUnattendGenerator](https://schneegans.de/windows/unattend-generator/) ( This is used to make a custom ISO file or to download the XML file)
  - [yazi](https://github.com/sxyazi/yazi) (file manager)
  - [Weather](https://github.com/rocksdanister/weather)
+ - ❤️[ImageGlass](https://github.com/d2phap/ImageGlass)
    
 
 ## My personal browsers
@@ -234,15 +239,11 @@ Customize your steam app
 
 
 ## Currently testing
- - [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)
  - [NETworkManager](https://github.com/BornToBeRoot/NETworkManager)
  - [Nebula-A-Minimal-Theme-for-Zen-Browser](https://github.com/JustAdumbPrsn/Nebula-A-Minimal-Theme-for-Zen-Browser)
- - [ImageGlass](https://github.com/d2phap/ImageGlass)
  - [BeatPrints](https://github.com/TrueMyst/BeatPrints)
  - [wezterm](https://github.com/wezterm/wezterm)
- - [SDIO](https://www.snappy-driver-installer.org/)
  - [MSI center](https://www.msi.com/Landing/MSI-Center) ( only used this to turn off zero frozr with the cooling master so that my gpu fans can always run )
- - [Cedro Modern Dock](https://github.com/arthurdeka/cedro-modern-dock)
 
 ## Other sources
 - [PC-Tuning](https://github.com/valleyofdoom/PC-Tuning)
