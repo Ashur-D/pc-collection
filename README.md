@@ -243,12 +243,14 @@ Customize your steam app
  ❤️ [Floorp](https://floorp.app/en-US) |  [LibreWolf](https://librewolf.net/) |  [Zen](https://zen-browser.app/) |  [Brave](https://brave.com/)
 
 
-## Currently testing
+## Currently Looking through
  - [NETworkManager](https://github.com/BornToBeRoot/NETworkManager)
  - [Nebula-A-Minimal-Theme-for-Zen-Browser](https://github.com/JustAdumbPrsn/Nebula-A-Minimal-Theme-for-Zen-Browser)
  - [BeatPrints](https://github.com/TrueMyst/BeatPrints)
  - [wezterm](https://github.com/wezterm/wezterm)
  - [MSI center](https://www.msi.com/Landing/MSI-Center) ( only used this to turn off zero frozr with the cooling master so that my gpu fans can always run )
+ - [Starship](https://github.com/starship/starship)
+ - [ShareX](https://github.com/ShareX/ShareX)
 
 ## Other sources
 - [PC-Tuning](https://github.com/valleyofdoom/PC-Tuning)
