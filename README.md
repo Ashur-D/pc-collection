@@ -188,6 +188,7 @@ Customize your steam app
   - [WallAlphaCoders](https://alphacoders.com/)
   - [FreePik](https://www.freepik.com/)
   - [PixGround](https://www.pixground.com/)
+  - [walls-catppuccin-mocha](https://github.com/orangci/walls-catppuccin-mocha)
 
 #### Wallpaper Tools
 
