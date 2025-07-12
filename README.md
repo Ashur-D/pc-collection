@@ -218,23 +218,24 @@ Customize your steam app
  - [Powertoys](https://github.com/microsoft/PowerToys)
  - ❤️ [Geek Uninstaller](https://geekuninstaller.com/)
  - ❤️ [WizTree](https://diskanalyzer.com/) | [Everything](https://www.voidtools.com/)
- - [HWmoniter](https://www.cpuid.com/softwares/hwmonitor.html) (moniters all your temps/voltages and others from your cpu to your ssd)
- - [GPU-Z](https://www.techpowerup.com/gpuz/) | [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) (all your cpu and gpu info)
+ - [HWmoniter](https://www.cpuid.com/softwares/hwmonitor.html) - moniters all your temps/voltages and others from your cpu to your ssd
+ - [GPU-Z](https://www.techpowerup.com/gpuz/) | [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - all your cpu and gpu info
  - [Sysinternals Utilities](https://learn.microsoft.com/en-us/sysinternals/downloads/)
- - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) (Check your status and info on your SSD/HDD or any storage type)
+ - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - Check your status and info on your SSD/HDD or any storage type
  - [DNS Benchmark](https://www.grc.com/dns/benchmark.htm)
  - [Powershell 7](https://github.com/PowerShell/PowerShell)
- - ❤️ [Twinkle-Tray](https://github.com/xanderfrangos/twinkle-tray/releases/tag/v1.16.6) / [ControlMyMoniter](https://controlmymonitor.en.softonic.com/) (Change moniter brightness quickly as well as other features)
+ - ❤️ [Twinkle-Tray](https://github.com/xanderfrangos/twinkle-tray/releases/tag/v1.16.6) / [ControlMyMoniter](https://controlmymonitor.en.softonic.com/) - Change moniter brightness quickly as well as other features
  - [Glance](https://github.com/glanceapp/glance) (self-hosted dashboard for feeds)
- - ❤️ [WinSetView](https://github.com/LesFerch/WinSetView) (Change explorer view settings)
- - [intel driver support](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html) (Great driver tool if you have an intel mobo)
- - [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher) / [Wox](https://github.com/Wox-launcher/Wox) / [FluentSearch](https://github.com/adirh3/Fluent-Search)(fast indexing launchers for apps, files, programs etc.)
- - [Bottom](https://github.com/ClementTsang/bottom) / [Glances](https://github.com/nicolargo/glances)( Graphical process/system monitor)
+ - ❤️ [WinSetView](https://github.com/LesFerch/WinSetView) - Change explorer view settings
+ - [intel driver support](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html) - Great driver tool if you have an intel mobo
+ - [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher) / [Wox](https://github.com/Wox-launcher/Wox) / [FluentSearch](https://github.com/adirh3/Fluent-Search) - fast indexing launchers for apps, files, programs etc
+ - [Bottom](https://github.com/ClementTsang/bottom) / [Glances](https://github.com/nicolargo/glances) - Graphical process/system monitor
  - ❤️ [TwitchAdSolutions script for Ublock](https://github.com/pixeltris/TwitchAdSolutions)
- - [schneegansde/WindowsUnattendGenerator](https://schneegans.de/windows/unattend-generator/) ( This is used to make a custom ISO file or to download the XML file)
+ - [schneegansde/WindowsUnattendGenerator](https://schneegans.de/windows/unattend-generator/) - This is used to make a custom ISO file or to download the XML file
  - [yazi](https://github.com/sxyazi/yazi) (file manager)
  - [Weather](https://github.com/rocksdanister/weather)
  - ❤️[ImageGlass](https://github.com/d2phap/ImageGlass)
+ - ❤️[Winstall](https://github.com/omaha-consulting/winstall) -  webapp using winget to install apps, even up to 5 at a time 
    
 
 ## My personal browsers
