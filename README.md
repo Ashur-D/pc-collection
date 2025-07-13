@@ -253,6 +253,7 @@ Customize your steam app
  - [MSI center](https://www.msi.com/Landing/MSI-Center) ( only used this to turn off zero frozr with the cooling master so that my gpu fans can always run )
  - [Starship](https://github.com/starship/starship)
  - [ShareX](https://github.com/ShareX/ShareX)
+ - [Developers-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
 ## Other sources
 - [PC-Tuning](https://github.com/valleyofdoom/PC-Tuning)
