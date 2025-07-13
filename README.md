@@ -236,7 +236,8 @@ Customize your steam app
  - [yazi](https://github.com/sxyazi/yazi) (file manager)
  - [Weather](https://github.com/rocksdanister/weather)
  - ❤️[ImageGlass](https://github.com/d2phap/ImageGlass)
- - ❤️[Winstall](https://github.com/omaha-consulting/winstall) -  webapp using winget to install apps, even up to 5 at a time 
+ - ❤️[Winstall](https://github.com/omaha-consulting/winstall) -  webapp using winget to install apps, even up to 5 at a time
+ - ❤️[Premid](https://premid.app/) - allows discord rich presence on the web
    
 
 ## My personal browsers
