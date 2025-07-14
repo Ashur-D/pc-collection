@@ -137,7 +137,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 - [TackyBorders](https://github.com/lukeyou05/tacky-borders) / [CuteBorders](https://github.com/keifufu/cute-borders)<br>
 		Custom borders around certain windows
 
-- [pywal](https://github.com/dylanaraps/pywal) / [pywal16](https://github.com/eylles/pywal16) / [HellWal](https://github.com/danihek/hellwal)<br>
+- [pywal](https://github.com/dylanaraps/pywal) / [pywal16](https://github.com/eylles/pywal16) / [HellWal](https://github.com/danihek/hellwal) / [Matugen](https://github.com/InioX/matugen) <br>
 
 
 - [Color Hunt](https://colorhunt.co/)<br>
@@ -238,6 +238,7 @@ Customize your steam app
  - ❤️[ImageGlass](https://github.com/d2phap/ImageGlass)
  - ❤️[Winstall](https://github.com/omaha-consulting/winstall) -  webapp using winget to install apps, even up to 5 at a time
  - ❤️[Premid](https://premid.app/) - allows discord rich presence on the web
+ - [Tauon](https://github.com/Taiko2k/Tauon) - Music player
    
 
 ## My personal browsers
@@ -248,7 +249,7 @@ Customize your steam app
 ## Currently Looking through
  - [NETworkManager](https://github.com/BornToBeRoot/NETworkManager)
  - [Nebula-A-Minimal-Theme-for-Zen-Browser](https://github.com/JustAdumbPrsn/Nebula-A-Minimal-Theme-for-Zen-Browser)
- - [BeatPrints](https://github.com/TrueMyst/BeatPrints)
+ - [BeatPrints](https://github.com/TrueMyst/BeatPrints) / [Poster generator](https://github.com/AnveshakR/poster-generator)
  - [wezterm](https://github.com/wezterm/wezterm)
  - [MSI center](https://www.msi.com/Landing/MSI-Center) ( only used this to turn off zero frozr with the cooling master so that my gpu fans can always run )
  - [Starship](https://github.com/starship/starship)
