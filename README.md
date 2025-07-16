@@ -55,9 +55,6 @@ anything I use will have an indication - ❤️
 <details>
  <summary>Open network tweaks</summary>
 
- 
-> [!NOTE]
-> These may not work on all systems as they vary depending on many factors like the system, router, etc.
 
 ### The first thing to do is reset your network with the following commands or download and run the bat file:
 
@@ -250,7 +247,7 @@ Customize your steam app
  ❤️ [Floorp](https://floorp.app/en-US) |  [LibreWolf](https://librewolf.net/) |  [Zen](https://zen-browser.app/) |  [Brave](https://brave.com/)
 
 
-## Currently Looking through
+### Currently Looking through
  - [NETworkManager](https://github.com/BornToBeRoot/NETworkManager)
  - [Nebula-A-Minimal-Theme-for-Zen-Browser](https://github.com/JustAdumbPrsn/Nebula-A-Minimal-Theme-for-Zen-Browser)
  - [BeatPrints](https://github.com/TrueMyst/BeatPrints) / [Poster generator](https://github.com/AnveshakR/poster-generator)
@@ -260,7 +257,7 @@ Customize your steam app
  - [ShareX](https://github.com/ShareX/ShareX)
  - [Developers-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
-## Other sources
+### Other sources
 - [PC-Tuning](https://github.com/valleyofdoom/PC-Tuning)
 - [PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub)
 - [GamingPCSetup](https://github.com/djdallmann/GamingPCSetup)
