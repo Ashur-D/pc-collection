@@ -124,8 +124,8 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 - [VinStarTheme](https://www.vinstartheme.com/)<br> 
 		Im pretty sure this site steals other peoples themes as I asked Niivu, his content was stolen and put on there, use with caution as it may have older versions
   
-- ❤️ [ExplorerTool](https://github.com/Maplespe/explorerTool) / [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica)<br>
-		Used for custimizing your file explorer
+- ❤️ [ExplorerTool](https://github.com/Maplespe/explorerTool) / [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) / [DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass)<br>
+		Used for custimizing your file explorer and system apps
 
 - [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) / [FastFetch](https://github.com/fastfetch-cli/fastfetch) / [ZSH](https://zsh.sourceforge.io/)<br>
 		Used for custimizing your windows terminal
@@ -152,8 +152,6 @@ Customize your steam app
 - [Cedro Modern Dock](https://github.com/arthurdeka/cedro-modern-dock)<br>
 
 - [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)<br>
-
-- [DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass)
 
 - [WindHawk](https://github.com/ramensoftware/windhawk)
 
