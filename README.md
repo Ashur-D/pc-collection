@@ -257,6 +257,7 @@ Customize your steam app
  - [Starship](https://github.com/starship/starship)
  - [ShareX](https://github.com/ShareX/ShareX)
  - [Developers-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+ - [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
 ### Other sources
 - [PC-Tuning](https://github.com/valleyofdoom/PC-Tuning)
