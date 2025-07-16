@@ -52,6 +52,9 @@ anything I use will have an indication - ❤️
 
 ## Network tweaks
 
+<details>
+ <summary>Open network tweaks</summary>
+	
 > [!NOTE]
 > These may not work on all systems as they vary depending on many factors like the system, router, etc.
 
@@ -101,7 +104,7 @@ netsh int tcp set supplemental Template=Compat CongestionProvider=CTCP
 netsh int tcp set supplemental template=Datacenter congestionprovider=CTCP
 netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 ```
-
+</details>
 
 # 🖌️Customization
 
