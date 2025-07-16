@@ -53,8 +53,9 @@ anything I use will have an indication - ❤️
 ## Network tweaks
 
 <details>
- <summary>Open network tweaks</summary>
+ <summary>Open network tweaks</summary><br>
 
+> ⚠️ **Note:** These may not work on all systems as they vary depending on many factors like the system, router, etc.
 
 ### The first thing to do is reset your network with the following commands or download and run the bat file:
 
