@@ -54,7 +54,8 @@ anything I use will have an indication - ❤️
 
 <details>
  <summary>Open network tweaks</summary>
-	
+
+ 
 > [!NOTE]
 > These may not work on all systems as they vary depending on many factors like the system, router, etc.
 
