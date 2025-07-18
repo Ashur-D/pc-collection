@@ -208,6 +208,7 @@ Customize your steam app
  - [Collection 3](https://github.com/dharmx/walls)
  - [collection 4](https://github.com/h1Gio/Wallpapers)
  - [Collection 5](https://github.com/lordofhunger/wallpapers)
+ - [Collection 6](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
 
 # 💿 miscellaneous apps/tweaks
 
