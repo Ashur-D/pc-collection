@@ -1,7 +1,7 @@
 # Personal Windows 11 Guide
 
 > [!IMPORTANT]
-> This guide will be updated whenever I make significant changes to settings. I am not liable for any damage that may occur to your system; these steps worked for me without issue, but results may vary depending on your system. Additionally, any configuration files for a program will be located in the file tree. I also want to add, I have tried many optimizations and over the years I came to the conclusion that over-doing it will break your system, its better to keep it simple.
+> I am not liable for any damage that may occur to your system; these steps worked for me without issue, but results may vary depending on your system. Additionally, any configuration files for a program will be located in the file tree. I also want to add, I have tried many optimizations and over the years I came to the conclusion that over-doing it will break your system, its better to keep it simple.
 
 anything I use will have an indication - ❤️
   
@@ -36,12 +36,14 @@ anything I use will have an indication - ❤️
 
 ## Programs
 
-- ❤️ [WinUtil](https://github.com/ChrisTitusTech/winutil) 
-- ❤️ [Download Winhance](https://github.com/memstechtips/Winhance)
-- ❤️ [Download Wintoys from the microsoft store](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US)
-- ❤️ [Download BleachBit](https://www.bleachbit.org/) ( Used for removing files)
-- ❤️ [Download DDU](https://www.wagnardsoft.com/display-driver-uninstaller-DDU-) and [Download NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
-- ❤️ [Download MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) and [Download Process Lasso](https://bitsum.com/)
+- ❤️ [WinUtil](https://github.com/ChrisTitusTech/winutil) | Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates.
+- ❤️ [Download Winhance](https://github.com/memstechtips/Winhance) | Application designed to optimize and customize your Windows experience. 
+- ❤️ [Download Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US) | Optimize, clean, repair, and tweak Windows to your preference, having all the settings you need at your fingertips.
+- [Microsoft PC Manager](https://apps.microsoft.com/detail/9pm860492szd?hl=en-US&gl=US) | Microsoft PC Manager is a utility app for your PC that effortlessly enhances PC performance with just one click.
+- [Download BleachBit](https://www.bleachbit.org/) | Beyond simply deleting files, BleachBit includes advanced features such as shredding files to prevent recovery, wiping free disk space to hide traces of files deleted by other applications,
+- ❤️ [Download DDU](https://www.wagnardsoft.com/display-driver-uninstaller-DDU-) / [Download NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
+- ❤️ [Download MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) / [Download Process Lasso](https://bitsum.com/)
+- ❤️ [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts) | Microsoft Activation Scripts
   
 
 ### other applications I havent used much
@@ -250,7 +252,6 @@ Customize your steam app
 
 ### Currently Looking through
  - [NETworkManager](https://github.com/BornToBeRoot/NETworkManager)
- - [Nebula-A-Minimal-Theme-for-Zen-Browser](https://github.com/JustAdumbPrsn/Nebula-A-Minimal-Theme-for-Zen-Browser)
  - [BeatPrints](https://github.com/TrueMyst/BeatPrints) / [Poster generator](https://github.com/AnveshakR/poster-generator)
  - [wezterm](https://github.com/wezterm/wezterm)
  - [MSI center](https://www.msi.com/Landing/MSI-Center) ( only used this to turn off zero frozr with the cooling master so that my gpu fans can always run )
