@@ -37,7 +37,6 @@ anything I use will have an indication - ❤️
 ## Programs
 
 - ❤️ [WinUtil](https://github.com/ChrisTitusTech/winutil) | Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates.
-- ❤️ [Download Winhance](https://github.com/memstechtips/Winhance) | Application designed to optimize and customize your Windows experience. 
 - ❤️ [Download Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US) | Optimize, clean, repair, and tweak Windows to your preference, having all the settings you need at your fingertips.
 - [Microsoft PC Manager](https://apps.microsoft.com/detail/9pm860492szd?hl=en-US&gl=US) | Microsoft PC Manager is a utility app for your PC that effortlessly enhances PC performance with just one click.
 - [Download BleachBit](https://www.bleachbit.org/) | Beyond simply deleting files, BleachBit includes advanced features such as shredding files to prevent recovery, wiping free disk space to hide traces of files deleted by other applications,
@@ -46,8 +45,9 @@ anything I use will have an indication - ❤️
 - ❤️ [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts) | Microsoft Activation Scripts
   
 
-### other applications I havent used much
+### other optimization scripts 
 
+- [Download Winhance](https://github.com/memstechtips/Winhance)
 - [HellzergOptimizer](https://github.com/hellzerg/optimizer)
 - [CrapFixer](https://github.com/builtbybel/CrapFixer)
 - [ruru-opt](https://github.com/ruru-o/ruru-opt)
