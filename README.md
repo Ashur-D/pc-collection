@@ -36,13 +36,13 @@ anything I use will have an indication - ❤️
 
 ## Programs
 
-- ❤️ [WinUtil](https://github.com/ChrisTitusTech/winutil) | Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates.
-- ❤️ [Download Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US) | Optimize, clean, repair, and tweak Windows to your preference, having all the settings you need at your fingertips.
-- [Microsoft PC Manager](https://apps.microsoft.com/detail/9pm860492szd?hl=en-US&gl=US) | Microsoft PC Manager is a utility app for your PC that effortlessly enhances PC performance with just one click.
-- [Download BleachBit](https://www.bleachbit.org/) | Beyond simply deleting files, BleachBit includes advanced features such as shredding files to prevent recovery, wiping free disk space to hide traces of files deleted by other applications,
+- ❤️ [WinUtil](https://github.com/ChrisTitusTech/winutil) 
+- ❤️ [Download Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US) 
+- [Microsoft PC Manager](https://apps.microsoft.com/detail/9pm860492szd?hl=en-US&gl=US) 
+- [Download BleachBit](https://www.bleachbit.org/) 
 - ❤️ [Download DDU](https://www.wagnardsoft.com/display-driver-uninstaller-DDU-) / [Download NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
 - ❤️ [Download MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) / [Download Process Lasso](https://bitsum.com/)
-- ❤️ [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts) | Microsoft Activation Scripts
+- ❤️ [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts)
   
 
 ### other optimization scripts 
