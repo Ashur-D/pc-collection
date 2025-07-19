@@ -240,9 +240,10 @@ Customize your steam app
  - [yazi](https://github.com/sxyazi/yazi) (file manager)
  - [Weather](https://github.com/rocksdanister/weather)
  - ❤️[ImageGlass](https://github.com/d2phap/ImageGlass)
- - ❤️[Winstall](https://github.com/omaha-consulting/winstall) -  webapp using winget to install apps, even up to 5 at a time
+ - ❤️[Winstall](https://github.com/omaha-consulting/winstall) -  webapp using winget to install apps, can also install in groups.
  - ❤️[Premid](https://premid.app/) - allows discord rich presence on the web
  - [Tauon](https://github.com/Taiko2k/Tauon) - Music player
+ - [ShareX](https://github.com/ShareX/ShareX)
    
 
 ## My personal browsers
@@ -253,12 +254,7 @@ Customize your steam app
 ### Currently Looking through
  - [NETworkManager](https://github.com/BornToBeRoot/NETworkManager)
  - [BeatPrints](https://github.com/TrueMyst/BeatPrints) / [Poster generator](https://github.com/AnveshakR/poster-generator)
- - [wezterm](https://github.com/wezterm/wezterm)
  - [MSI center](https://www.msi.com/Landing/MSI-Center) ( only used this to turn off zero frozr with the cooling master so that my gpu fans can always run )
- - [Starship](https://github.com/starship/starship)
- - [ShareX](https://github.com/ShareX/ShareX)
- - [Developers-Roadmap](https://github.com/kamranahmedse/developer-roadmap)
- - [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts)
 
 ### Other sources
 - [PC-Tuning](https://github.com/valleyofdoom/PC-Tuning)
