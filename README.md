@@ -176,7 +176,6 @@ Customize your steam app
   - ❤️ [Wallpaper Engine website](https://www.wallpaperengine.space/)
   - ❤️ [Quick wallpapers](wallpapers)
   - [Wallsync](https://github.com/leroiduflow/WallSync)
-  - [Wallpapers by:JoydeepMallick](https://github.com/JoydeepMallick/Wallpapers)
   - [Gruvbox Wallpapers](https://gruvbox-wallpapers.pages.dev/)
   - [Wallhaven](https://wallhaven.cc/)
   - [WallpaperFlare](https://www.wallpaperflare.com/)
@@ -187,7 +186,6 @@ Customize your steam app
   - [WallAlphaCoders](https://alphacoders.com/)
   - [FreePik](https://www.freepik.com/)
   - [PixGround](https://www.pixground.com/)
-  - [walls-catppuccin-mocha](https://github.com/orangci/walls-catppuccin-mocha)
 
 #### Wallpaper Tools
 
@@ -199,6 +197,7 @@ Customize your steam app
 #### Wallpapers from repo's I found
 
  - [Gurjaka's Nord-Wallpapers](https://github.com/Gurjaka/Nord-Wallpapers)
+ - [walls-catppuccin-mocha](https://github.com/orangci/walls-catppuccin-mocha)
  - [Awesome Wallpapers](https://alexandrosliaskos.github.io/Awesome_Wallpapers/)
  - [nordic wallpapers](https://github.com/linuxdotexe/nordic-wallpapers)
  - [gruvbox wallpapers](https://github.com/AngelJumbo/gruvbox-wallpapers)
@@ -209,6 +208,7 @@ Customize your steam app
  - [Collection 5](https://github.com/lordofhunger/wallpapers)
  - [Collection 6](https://github.com/DenverCoder1/minimalistic-wallpaper-collection)
  - [collection 7](https://github.com/D3Ext/aesthetic-wallpapers)
+ - [collection 8]((https://github.com/JoydeepMallick/Wallpapers))
 
 # 💿 miscellaneous apps/tweaks
 
