@@ -213,9 +213,7 @@ Customize your steam app
  - [collection 7](https://github.com/D3Ext/aesthetic-wallpapers)
  - [collection 8](https://github.com/JoydeepMallick/Wallpapers)
 
-# 💿 miscellaneous apps/tweaks
-
-## Tools
+# 💿 miscellaneous apps
 
 ### 🧰 System Utilities & Monitoring
  - [HWmoniter](https://www.cpuid.com/softwares/hwmonitor.html) - moniters all your temps/voltages and others from your cpu to your ssd
