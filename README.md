@@ -49,6 +49,7 @@ anything I use will have an indication - ❤️
 
 ### other optimization scripts 
 
+- [schneegansde/WindowsUnattendGenerator](https://schneegans.de/windows/unattend-generator/) - This is used to make a custom ISO file or to download the XML file
 - [Download Winhance](https://github.com/memstechtips/Winhance)
 - [HellzergOptimizer](https://github.com/hellzerg/optimizer)
 - [CrapFixer](https://github.com/builtbybel/CrapFixer)
@@ -154,6 +155,8 @@ Customize your steam app
 
 - [FluentFlyout](https://github.com/unchihugo/FluentFlyout)
 
+- ❤️ [WinSetView](https://github.com/LesFerch/WinSetView) - Change explorer view settings
+
 
 ## Popular Themes
 
@@ -227,12 +230,10 @@ Customize your steam app
  - [DNS Benchmark](https://www.grc.com/dns/benchmark.htm)
  - ❤️ [Twinkle-Tray](https://github.com/xanderfrangos/twinkle-tray/releases/tag/v1.16.6) / [ControlMyMoniter](https://controlmymonitor.en.softonic.com/) - Change moniter brightness quickly as well as other features
  - [Glance](https://github.com/glanceapp/glance) (self-hosted dashboard for feeds)
- - ❤️ [WinSetView](https://github.com/LesFerch/WinSetView) - Change explorer view settings
  - [intel driver support](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html) - Great driver tool if you have an intel mobo
  - [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher) / [Wox](https://github.com/Wox-launcher/Wox) / [FluentSearch](https://github.com/adirh3/Fluent-Search) - fast indexing launchers for apps, files, programs etc
  - [Bottom](https://github.com/ClementTsang/bottom) / [Glances](https://github.com/nicolargo/glances) - Graphical process/system monitor
  - ❤️ [TwitchAdSolutions script for Ublock](https://github.com/pixeltris/TwitchAdSolutions)
- - [schneegansde/WindowsUnattendGenerator](https://schneegans.de/windows/unattend-generator/) - This is used to make a custom ISO file or to download the XML file
  - [yazi](https://github.com/sxyazi/yazi) (file manager)
  - [Weather](https://github.com/rocksdanister/weather)
  - ❤️[ImageGlass](https://github.com/d2phap/ImageGlass)
