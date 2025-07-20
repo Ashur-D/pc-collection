@@ -244,7 +244,7 @@ Customize your steam app
  - [ShareX](https://github.com/ShareX/ShareX)
    
 
-## My personal browsers
+### My personal browsers
 
  ❤️ [Floorp](https://floorp.app/en-US) |  [LibreWolf](https://librewolf.net/) |  [Zen](https://zen-browser.app/) |  [Brave](https://brave.com/)
 
