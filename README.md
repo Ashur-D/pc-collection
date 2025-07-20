@@ -234,8 +234,9 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
  - [BeatPrints](https://github.com/TrueMyst/BeatPrints) / [Poster generator](https://github.com/AnveshakR/poster-generator)
  - [FanControl](https://github.com/Rem0o/FanControl.Releases)
  - [Powertoys](https://github.com/microsoft/PowerToys)
- - ❤️ [Twinkle-Tray](https://github.com/xanderfrangos/twinkle-tray/releases/tag/v1.16.6) / [ControlMyMoniter](https://controlmymonitor.en.softonic.com/) - Change moniter brightness quickly as well as other features
+ - ❤️ [Twinkle-Tray](https://github.com/xanderfrangos/twinkle-tray) / [Monitorian](https://github.com/emoacht/Monitorian)
  - [Weather](https://github.com/rocksdanister/weather)
+ - [Nirsoft](https://www.nirsoft.net/)
 
 ### Other sources
 - [PC-Tuning](https://github.com/valleyofdoom/PC-Tuning)
