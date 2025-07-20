@@ -226,7 +226,6 @@ Customize your steam app
  - [Sysinternals Utilities](https://learn.microsoft.com/en-us/sysinternals/downloads/)
  - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - Check your status and info on your SSD/HDD or any storage type
  - [DNS Benchmark](https://www.grc.com/dns/benchmark.htm)
- - [Powershell 7](https://github.com/PowerShell/PowerShell)
  - ❤️ [Twinkle-Tray](https://github.com/xanderfrangos/twinkle-tray/releases/tag/v1.16.6) / [ControlMyMoniter](https://controlmymonitor.en.softonic.com/) - Change moniter brightness quickly as well as other features
  - [Glance](https://github.com/glanceapp/glance) (self-hosted dashboard for feeds)
  - ❤️ [WinSetView](https://github.com/LesFerch/WinSetView) - Change explorer view settings
