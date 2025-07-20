@@ -157,6 +157,10 @@ Customize your steam app
 - [WindHawk](https://github.com/ramensoftware/windhawk)
 
 - [FluentFlyout](https://github.com/unchihugo/FluentFlyout)
+
+- [Winaero](https://winaero.com/)
+
+
 ## Popular Themes
 
  - ❤️ [Catppuccin](https://github.com/catppuccin)
