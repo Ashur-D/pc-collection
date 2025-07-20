@@ -15,7 +15,7 @@ anything I use will have an indication - ❤️
   - [Themes](#popular-themes)
   - [Wallpapers](#Wallpapers)
   - [Popular Themes](#popular-themes)
-- [💿 miscellaneous apps/tweaks](#-miscellaneous-appstweaks)
+- [💿 miscellaneous apps](#-miscellaneous-apps)
   - [My Personal Browsers](#my-personal-browsers)
   - [Other sources](#other-sources)
 
