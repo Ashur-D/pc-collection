@@ -237,7 +237,7 @@ Customize your steam app
 - [yazi](https://github.com/sxyazi/yazi)
 - [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher) / [Wox](https://github.com/Wox-launcher/Wox) / [FluentSearch](https://github.com/adirh3/Fluent-Search)
 
-### 🌐 Web / Network Tools
+### 🌐 Web Tools
 - [Glance](https://github.com/glanceapp/glance) (self-hosted dashboard for feeds)
 - ❤️[TwitchAdSolutions script for Ublock](https://github.com/pixeltris/TwitchAdSolutions)
 - ❤️[Premid](https://premid.app/) - allows discord rich presence on the web
