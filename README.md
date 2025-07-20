@@ -113,7 +113,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 
 ## Programs
 
-- ❤️ [StartAllBack](https://www.startallback.com/)<br>
+- ❤️ [StartAllBack](https://www.startallback.com/) / [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) / [WindHawk](https://github.com/ramensoftware/windhawk) / [Winaero](https://winaero.com/) <br>
 		Used for changing the windows startmenu, file explorer, tray icons, etc. It has a free 90 day trial
   
 - ❤️ [Nilesoft](https://github.com/moudey/Shell) / [Breeze-Shell](https://github.com/std-microblock/breeze-shell)<br>
@@ -152,13 +152,7 @@ Customize your steam app
 
 - [Cedro Modern Dock](https://github.com/arthurdeka/cedro-modern-dock)<br>
 
-- [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)<br>
-
-- [WindHawk](https://github.com/ramensoftware/windhawk)
-
 - [FluentFlyout](https://github.com/unchihugo/FluentFlyout)
-
-- [Winaero](https://winaero.com/)
 
 
 ## Popular Themes
