@@ -12,6 +12,7 @@ anything I use will have an indication - ❤️
   - [Network Tweaks](#network-tweaks)
 - [🖌️ Customization](#%EF%B8%8Fcustomization)
   - [Programs](#programs-1)
+  - [Themes](#popular-themes)
   - [Wallpapers](#Wallpapers)
   - [Popular Themes](#popular-themes)
 - [💿 miscellaneous apps/tweaks](#-miscellaneous-appstweaks)
