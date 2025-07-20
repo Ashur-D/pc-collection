@@ -208,7 +208,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 ### 🔍 File, App & Search Utilities
 - ❤️ [WizTree](https://diskanalyzer.com/) | Fast disk space analyzer 
 - [Everything](https://www.voidtools.com/) | Locate files and folders by name instantly
-- [yazi](https://github.com/sxyazi/yazi) | Terminal-based file manager
+- [yazi](https://github.com/sxyazi/yazi) / [superfile](https://github.com/yorukot/superfile?tab=readme-ov-file)* | Terminal-based file managers
 - [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher) / [Wox](https://github.com/Wox-launcher/Wox) / [FluentSearch](https://github.com/adirh3/Fluent-Search) | App launchers and search utilities
 
 ### 🌐 Web Tools
