@@ -216,13 +216,15 @@ Customize your steam app
 # 💿 miscellaneous apps
 
 ### 🧰 System Utilities & Monitoring
- - [HWmoniter](https://www.cpuid.com/softwares/hwmonitor.html) - moniters all your temps/voltages and others from your cpu to your ssd
- - [Sysinternals Utilities](https://learn.microsoft.com/en-us/sysinternals/downloads/)
- - [GPU-Z](https://www.techpowerup.com/gpuz/) | [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - all your cpu and gpu info
- - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - Check your status and info on your SSD/HDD or any storage type
- - [DNS Benchmark](https://www.grc.com/dns/benchmark.htm)
- - [Bottom](https://github.com/ClementTsang/bottom) / [Glances](https://github.com/nicolargo/glances) - Graphical process/system monitor
- - [intel driver support](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html) - Great driver tool if you have an intel mobo
+ - [HWmoniter](https://www.cpuid.com/softwares/hwmonitor.html) | Monitors temps/voltages across components
+ - [Sysinternals Utilities](https://learn.microsoft.com/en-us/sysinternals/downloads/) | Advanced system utilities from Microsoft
+ - [GPU-Z](https://www.techpowerup.com/gpuz/) | [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) | Detailed CPU and GPU information
+ - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) | SSD/HDD health and status monitoring
+ - [DNS Benchmark](https://www.grc.com/dns/benchmark.htm) | Test and compare DNS servers
+ - [Bottom](https://github.com/ClementTsang/bottom) / [Glances](https://github.com/nicolargo/glances) | Process/system monitor
+ - [intel driver support](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html) | Intel hardware driver tool
+ - [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) | Advanced network configuration and diagnostics
+ - [MSI center](https://www.msi.com/Landing/MSI-Center) | Used to control hardware-specific features like GPU fan behavior
 
 ### 📦 Software Installation & Management
 - [UniGetUI/WingetUI](https://github.com/marticliment/UniGetUI)
@@ -256,9 +258,7 @@ Customize your steam app
 
 
 ### Currently Looking through
- - [NETworkManager](https://github.com/BornToBeRoot/NETworkManager)
  - [BeatPrints](https://github.com/TrueMyst/BeatPrints) / [Poster generator](https://github.com/AnveshakR/poster-generator)
- - [MSI center](https://www.msi.com/Landing/MSI-Center) ( only used this to turn off zero frozr with the cooling master so that my gpu fans can always run )
  - [FanControl](https://github.com/Rem0o/FanControl.Releases)
  - [Powertoys](https://github.com/microsoft/PowerToys)
  - ❤️ [Twinkle-Tray](https://github.com/xanderfrangos/twinkle-tray/releases/tag/v1.16.6) / [ControlMyMoniter](https://controlmymonitor.en.softonic.com/) - Change moniter brightness quickly as well as other features
