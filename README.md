@@ -226,27 +226,27 @@ Customize your steam app
  - [MSI center](https://www.msi.com/Landing/MSI-Center) | Used to control hardware-specific features like GPU fan behavior
 
 ### 📦 Software Installation & Management
-- [UniGetUI/WingetUI](https://github.com/marticliment/UniGetUI)
-- ❤️[Winstall](https://github.com/omaha-consulting/winstall) -  webapp using winget to install apps, can also install in groups.
-- ❤️ [Geek Uninstaller](https://geekuninstaller.com/)
+- [UniGetUI/WingetUI](https://github.com/marticliment/UniGetUI) | GUI frontend for Windows package manager
+- ❤️[Winstall](https://github.com/omaha-consulting/winstall) | Webapp for creating winget install scripts 
+- ❤️ [Geek Uninstaller](https://geekuninstaller.com/) | Efficient, Fast, and Portable uninstaller
 
 
 ### 🔍 File, App & Search Utilities
-- ❤️ [WizTree](https://diskanalyzer.com/)
-- [Everything](https://www.voidtools.com/)
-- [yazi](https://github.com/sxyazi/yazi)
-- [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher) / [Wox](https://github.com/Wox-launcher/Wox) / [FluentSearch](https://github.com/adirh3/Fluent-Search)
+- ❤️ [WizTree](https://diskanalyzer.com/) | Fast disk space analyzer 
+- [Everything](https://www.voidtools.com/) | Locate files and folders by name instantly
+- [yazi](https://github.com/sxyazi/yazi) | Terminal-based file manager
+- [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher) / [Wox](https://github.com/Wox-launcher/Wox) / [FluentSearch](https://github.com/adirh3/Fluent-Search) | App launchers and search utilities
 
 ### 🌐 Web Tools
-- [Glance](https://github.com/glanceapp/glance) (self-hosted dashboard for feeds)
-- ❤️[TwitchAdSolutions script for Ublock](https://github.com/pixeltris/TwitchAdSolutions)
-- ❤️[Premid](https://premid.app/) - allows discord rich presence on the web
+- [Glance](https://github.com/glanceapp/glance) | Self-hosted dashboard for various feeds
+- ❤️[TwitchAdSolutions script for Ublock](https://github.com/pixeltris/TwitchAdSolutions) | Removes Twitch ads with a script for Ublock
+- ❤️[Premid](https://premid.app/) | Adds Discord Rich Presence for websites
 
 ### 🎥 Media Tools
-- [Loseless Cut](https://github.com/mifi/lossless-cut) / [Rise-Media-Player](https://github.com/Rise-Software/Rise-Media-Player)
-- [ImageGlass](https://github.com/d2phap/ImageGlass)
-- [Tauon](https://github.com/Taiko2k/Tauon)
-- [ShareX](https://github.com/ShareX/ShareX)
+- [Loseless Cut](https://github.com/mifi/lossless-cut) / [Rise-Media-Player](https://github.com/Rise-Software/Rise-Media-Player) | Video cutting and media player
+- [ImageGlass](https://github.com/d2phap/ImageGlass) | Lightweight image viewer
+- [Tauon](https://github.com/Taiko2k/Tauon) | Lightweight music player
+- [ShareX](https://github.com/ShareX/ShareX) | Advanced screenshot and screen recording tool
 
 
    
