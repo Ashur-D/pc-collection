@@ -217,30 +217,39 @@ Customize your steam app
 
 ## Tools
 
- - [UniGetUI/WingetUI](https://github.com/marticliment/UniGetUI)
- - [FanControl](https://github.com/Rem0o/FanControl.Releases)
- - [Loseless Cut](https://github.com/mifi/lossless-cut) / [Rise-Media-Player](https://github.com/Rise-Software/Rise-Media-Player)
- - [Powertoys](https://github.com/microsoft/PowerToys)
- - ❤️ [Geek Uninstaller](https://geekuninstaller.com/)
- - ❤️ [WizTree](https://diskanalyzer.com/) | [Everything](https://www.voidtools.com/)
+### 🧰 System Utilities & Monitoring
  - [HWmoniter](https://www.cpuid.com/softwares/hwmonitor.html) - moniters all your temps/voltages and others from your cpu to your ssd
- - [GPU-Z](https://www.techpowerup.com/gpuz/) | [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - all your cpu and gpu info
  - [Sysinternals Utilities](https://learn.microsoft.com/en-us/sysinternals/downloads/)
+ - [GPU-Z](https://www.techpowerup.com/gpuz/) | [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - all your cpu and gpu info
  - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) - Check your status and info on your SSD/HDD or any storage type
  - [DNS Benchmark](https://www.grc.com/dns/benchmark.htm)
- - ❤️ [Twinkle-Tray](https://github.com/xanderfrangos/twinkle-tray/releases/tag/v1.16.6) / [ControlMyMoniter](https://controlmymonitor.en.softonic.com/) - Change moniter brightness quickly as well as other features
- - [Glance](https://github.com/glanceapp/glance) (self-hosted dashboard for feeds)
- - [intel driver support](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html) - Great driver tool if you have an intel mobo
- - [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher) / [Wox](https://github.com/Wox-launcher/Wox) / [FluentSearch](https://github.com/adirh3/Fluent-Search) - fast indexing launchers for apps, files, programs etc
  - [Bottom](https://github.com/ClementTsang/bottom) / [Glances](https://github.com/nicolargo/glances) - Graphical process/system monitor
- - ❤️ [TwitchAdSolutions script for Ublock](https://github.com/pixeltris/TwitchAdSolutions)
- - [yazi](https://github.com/sxyazi/yazi) (file manager)
- - [Weather](https://github.com/rocksdanister/weather)
- - ❤️[ImageGlass](https://github.com/d2phap/ImageGlass)
- - ❤️[Winstall](https://github.com/omaha-consulting/winstall) -  webapp using winget to install apps, can also install in groups.
- - ❤️[Premid](https://premid.app/) - allows discord rich presence on the web
- - [Tauon](https://github.com/Taiko2k/Tauon) - Music player
- - [ShareX](https://github.com/ShareX/ShareX)
+ - [intel driver support](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html) - Great driver tool if you have an intel mobo
+
+### 📦 Software Installation & Management
+- [UniGetUI/WingetUI](https://github.com/marticliment/UniGetUI)
+- ❤️[Winstall](https://github.com/omaha-consulting/winstall) -  webapp using winget to install apps, can also install in groups.
+- ❤️ [Geek Uninstaller](https://geekuninstaller.com/)
+
+
+### 🔍 File, App & Search Utilities
+- ❤️ [WizTree](https://diskanalyzer.com/)
+- [Everything](https://www.voidtools.com/)
+- [yazi](https://github.com/sxyazi/yazi)
+- [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher) / [Wox](https://github.com/Wox-launcher/Wox) / [FluentSearch](https://github.com/adirh3/Fluent-Search)
+
+### 🌐 Web / Network Tools
+- [Glance](https://github.com/glanceapp/glance) (self-hosted dashboard for feeds)
+- ❤️[TwitchAdSolutions script for Ublock](https://github.com/pixeltris/TwitchAdSolutions)
+- ❤️[Premid](https://premid.app/) - allows discord rich presence on the web
+
+### 🎥 Media Tools
+- [Loseless Cut](https://github.com/mifi/lossless-cut) / [Rise-Media-Player](https://github.com/Rise-Software/Rise-Media-Player)
+- [ImageGlass](https://github.com/d2phap/ImageGlass)
+- [Tauon](https://github.com/Taiko2k/Tauon)
+- [ShareX](https://github.com/ShareX/ShareX)
+
+
    
 
 ### My personal browsers
@@ -252,6 +261,10 @@ Customize your steam app
  - [NETworkManager](https://github.com/BornToBeRoot/NETworkManager)
  - [BeatPrints](https://github.com/TrueMyst/BeatPrints) / [Poster generator](https://github.com/AnveshakR/poster-generator)
  - [MSI center](https://www.msi.com/Landing/MSI-Center) ( only used this to turn off zero frozr with the cooling master so that my gpu fans can always run )
+ - [FanControl](https://github.com/Rem0o/FanControl.Releases)
+ - [Powertoys](https://github.com/microsoft/PowerToys)
+ - ❤️ [Twinkle-Tray](https://github.com/xanderfrangos/twinkle-tray/releases/tag/v1.16.6) / [ControlMyMoniter](https://controlmymonitor.en.softonic.com/) - Change moniter brightness quickly as well as other features
+ - [Weather](https://github.com/rocksdanister/weather)
 
 ### Other sources
 - [PC-Tuning](https://github.com/valleyofdoom/PC-Tuning)
