@@ -21,8 +21,8 @@ anything I use will have an indication - ❤️
 
 # 🛠️ System tools 
 ## 🔧 Optimization Apps & Scripts
-- ❤️[WinUtil](https://github.com/ChrisTitusTech/winutil) | [Winhance](https://github.com/memstechtips/Winhance) | [HellzergOptimizer](https://github.com/hellzerg/optimizer) | [CrapFixer](https://github.com/builtbybel/CrapFixer) | [ruru-opt](https://github.com/ruru-o/ruru-opt)
-- ❤️[Download Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US) | [Microsoft PC Manager](https://apps.microsoft.com/detail/9pm860492szd?hl=en-US&gl=US) 
+- ❤️[WinUtil](https://github.com/ChrisTitusTech/winutil) / [Winhance](https://github.com/memstechtips/Winhance) / [HellzergOptimizer](https://github.com/hellzerg/optimizer) / [CrapFixer](https://github.com/builtbybel/CrapFixer) / [ruru-opt](https://github.com/ruru-o/ruru-opt)
+- ❤️[Download Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US) / [Microsoft PC Manager](https://apps.microsoft.com/detail/9pm860492szd?hl=en-US&gl=US) 
 - [Download BleachBit](https://www.bleachbit.org/) 
 - ❤️[Download DDU](https://www.wagnardsoft.com/display-driver-uninstaller-DDU-) / [Download NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
 - ❤️[Download MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) / [Download Process Lasso](https://bitsum.com/)
@@ -57,7 +57,7 @@ anything I use will have an indication - ❤️
 - [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher) / [Wox](https://github.com/Wox-launcher/Wox) / [FluentSearch](https://github.com/adirh3/Fluent-Search) | App launchers and search utilities
 
 ## 🌐 Web Tools & Browsers
-- ❤️ [Floorp](https://floorp.app/en-US) |  [LibreWolf](https://librewolf.net/) |  [Zen](https://zen-browser.app/) |  [Brave](https://brave.com/) | Privacy focused browers based on firefox and chrome
+- ❤️ [Floorp](https://floorp.app/en-US) / [LibreWolf](https://librewolf.net/) / [Zen](https://zen-browser.app/) / [Brave](https://brave.com/) | Privacy focused browers based on firefox and chrome
 - [Glance](https://github.com/glanceapp/glance) | Self-hosted dashboard for various feeds
 - ❤️[TwitchAdSolutions script for Ublock](https://github.com/pixeltris/TwitchAdSolutions) | Removes Twitch ads with a script for Ublock
 - [Premid](https://premid.app/) | Adds Discord Rich Presence for websites
@@ -85,24 +85,24 @@ anything I use will have an indication - ❤️
 # 🖌️Customization
 
 ##  ⚒️ Customization Tools
-- ❤️[StartAllBack](https://www.startallback.com/) | [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) | [WindHawk](https://github.com/ramensoftware/windhawk) | [Winaero](https://winaero.com/) | [Winpaletter](https://github.com/Abdelrhman-AK/WinPaletter)
-- ❤️[Nilesoft](https://github.com/moudey/Shell) | [Breeze-Shell](https://github.com/std-microblock/breeze-shell)
-- ❤️[deviantartNiivu](https://www.deviantart.com/niivu/art/Installing-Windows-Themes-UPDATED-708835586) | [VinStarTheme](https://www.vinstartheme.com/)	
+- ❤️[StartAllBack](https://www.startallback.com/) / [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) / [WindHawk](https://github.com/ramensoftware/windhawk) / [Winaero](https://winaero.com/) / [Winpaletter](https://github.com/Abdelrhman-AK/WinPaletter)
+- ❤️[Nilesoft](https://github.com/moudey/Shell) / [Breeze-Shell](https://github.com/std-microblock/breeze-shell)
+- ❤️[deviantartNiivu](https://www.deviantart.com/niivu/art/Installing-Windows-Themes-UPDATED-708835586) / [VinStarTheme](https://www.vinstartheme.com/)	
 - ❤️[7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) 
-- ❤️[ExplorerTool](https://github.com/Maplespe/explorerTool) | [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) / [DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass)
-- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) | [FastFetch](https://github.com/fastfetch-cli/fastfetch)
-- [GlazeWM](https://github.com/glzr-io/glazewm?tab=readme-ov-file) | [komorebi](https://github.com/LGUG2Z/komorebi) | [whim](https://github.com/dalyIsaac/Whim) | [jwno](https://github.com/agent-kilo/jwno) | [mondrian](https://github.com/policastro/mondrian)
-- [Zebar](https://github.com/glzr-io/zebar) | [yasb](https://github.com/amnweb/yasb) | [SeleenUI](https://github.com/eythaann/Seelen-UI)
-- [TackyBorders](https://github.com/lukeyou05/tacky-borders) | [CuteBorders](https://github.com/keifufu/cute-borders)
-- [pywal](https://github.com/dylanaraps/pywal) | [pywal16](https://github.com/eylles/pywal16) | [HellWal](https://github.com/danihek/hellwal) | [Matugen](https://github.com/InioX/matugen)
+- ❤️[ExplorerTool](https://github.com/Maplespe/explorerTool) / [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) / [DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass)
+- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) / [FastFetch](https://github.com/fastfetch-cli/fastfetch)
+- [GlazeWM](https://github.com/glzr-io/glazewm?tab=readme-ov-file) / [komorebi](https://github.com/LGUG2Z/komorebi) / [whim](https://github.com/dalyIsaac/Whim) / [jwno](https://github.com/agent-kilo/jwno) / [mondrian](https://github.com/policastro/mondrian)
+- [Zebar](https://github.com/glzr-io/zebar) / [yasb](https://github.com/amnweb/yasb) / [SeleenUI](https://github.com/eythaann/Seelen-UI)
+- [TackyBorders](https://github.com/lukeyou05/tacky-borders) / [CuteBorders](https://github.com/keifufu/cute-borders)
+- [pywal](https://github.com/dylanaraps/pywal) / [pywal16](https://github.com/eylles/pywal16) / [HellWal](https://github.com/danihek/hellwal) / [Matugen](https://github.com/InioX/matugen)
 - [Color Hunt](https://colorhunt.co/)
 - [millennium](https://github.com/shdwmtr/millennium)
 - [folder-icons](https://github.com/sameerasw/folder-icons)
 - [Cedro Modern Dock](https://github.com/arthurdeka/cedro-modern-dock)
 - [FluentFlyout](https://github.com/unchihugo/FluentFlyout)
 - ❤️[WinSetView](https://github.com/LesFerch/WinSetView)
-- [BeatPrints](https://github.com/TrueMyst/BeatPrints) | [Poster generator](https://github.com/AnveshakR/poster-generator)
-- [ImageGoNord](https://github.com/Schroedinger-Hat/ImageGoNord-Web) | [GoWall](https://github.com/Achno/gowall) | [tint](https://github.com/ashish0kumar/tint)
+- [BeatPrints](https://github.com/TrueMyst/BeatPrints) / [Poster generator](https://github.com/AnveshakR/poster-generator)
+- [ImageGoNord](https://github.com/Schroedinger-Hat/ImageGoNord-Web) / [GoWall](https://github.com/Achno/gowall) / [tint](https://github.com/ashish0kumar/tint)
 
 
 ## 🎨 Popular Themes
