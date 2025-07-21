@@ -1,8 +1,8 @@
 # Personal Windows 11 Collection
 
 > [!IMPORTANT]
-⚠️ This is a collection of tools, scripts, and tweaks designed to improve and customize Windows. Always understand what each item does before using it. <br>
-❌ I am not liable for any damage that may occur to your system — use at your own risk.<br>
+⚠️ This is a collection of tools, scripts, and tweaks designed to improve and customize Windows. Always understand what each item does <br>
+❌ I am not liable for any damage that may occur to your system; use at your own risk.<br>
 💾 Create a system restore point or full backup before applying any major changes, especially scripts or registry edits. <br>
 🔧 Some tools or settings may disable or alter default Windows behavior; review their effects carefully. <br>
 🔄 Windows updates or feature upgrades may undo or conflict with certain tweaks or tool settings; recheck after major updates. <br>
