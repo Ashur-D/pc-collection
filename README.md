@@ -9,11 +9,11 @@ anything I use will have an indication - ❤️
 - [🛠️ system tools](#system-tools)
    - [🔧 Optimization Apps & Scripts](#-optimization-apps--scripts)
    - [🧰 System Utilities & Monitoring](#-system-utilities--monitoring)
-   - [📦 Software Installation & Management](#Software-Installation-&--Management)
+   - [📦 Software Installation & Management](#-Software-Installation-&--Management)
    - [🔍 File, App & Search Utilities](#-file-app--search-utilities)
-   - [🌐 Web Tools & Browsers](#Web-Tools-&--Browsers)
-   - [🎥 Media Tools](#Media-Tools)
-   - [📚 More helpful libraries](#More-helpful-libraries)
+   - [🌐 Web Tools & Browsers](#-Web-Tools-&--Browsers)
+   - [🎥 Media Tools](#-Media-Tools)
+   - [📚 More helpful libraries](#-more-helpful-libraries)
 - [🖌️Customization](#Customization)
 
 # 🛠️ system tools 
