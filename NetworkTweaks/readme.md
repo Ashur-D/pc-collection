@@ -9,7 +9,7 @@ netsh winhttp reset proxy
 ipconfig /flushdns
 ```
 ### or
-- [Download network-reset.bat](Configs/network-reset.bat)
+- [Download network-reset.bat](https://github.com/Ashur-D/Windows11-Collection-Guide/blob/test/NetworkTweaks/network-reset.bat)
 
 ### next 
 Run this command to see your current network congestion and take not incase you may want revert back: 
