@@ -221,6 +221,8 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 - ❤️[Premid](https://premid.app/) | Adds Discord Rich Presence for websites
 
 ### 🎥 Media Tools
+- [DavinciResolve](https://www.blackmagicdesign.com/ca/products/davinciresolve)
+- [Obs](https://obsproject.com/)
 - [Loseless Cut](https://github.com/mifi/lossless-cut) / [Rise-Media-Player](https://github.com/Rise-Software/Rise-Media-Player) | Video cutting and media player
 - [ImageGlass](https://github.com/d2phap/ImageGlass) | Lightweight image viewer
 - [Tauon](https://github.com/Taiko2k/Tauon) | Lightweight music player
