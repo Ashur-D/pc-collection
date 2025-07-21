@@ -226,7 +226,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 - [Tauon](https://github.com/Taiko2k/Tauon) | Lightweight music player
 - [ShareX](https://github.com/ShareX/ShareX) | Advanced screenshot and screen recording tool
 
-### Misc tools
+### 🔧Misc tools
  - [BeatPrints](https://github.com/TrueMyst/BeatPrints) / [Poster generator](https://github.com/AnveshakR/poster-generator)
  - [FanControl](https://github.com/Rem0o/FanControl.Releases)
  - [Powertoys](https://github.com/microsoft/PowerToys)
