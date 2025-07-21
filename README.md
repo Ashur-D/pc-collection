@@ -1,9 +1,14 @@
 # Personal Windows 11 Collection
 
 > [!IMPORTANT]
-> I am not liable for any damage that may occur to your system; these steps worked for me without issue, but results may vary depending on your system. Additionally, any configuration files for a program will be located in the file tree. Lastly this collection may not have everything as its curated towards me.
-
-anything I use will have an indication - ❤️
+⚠️ This is a collection of tools, scripts, and tweaks designed to improve and customize Windows. Always understand what each item does before using it. <br>
+❌ I am not liable for any damage that may occur to your system — use at your own risk.<br>
+💾 Create a system restore point or full backup before applying any major changes, especially scripts or registry edits. <br>
+🔧 Some tools or settings may disable or alter default Windows behavior; review their effects carefully. <br>
+🔄 Windows updates or feature upgrades may undo or conflict with certain tweaks or tool settings; recheck after major updates. <br>
+❗ Avoid running scripts or registry changes from untrusted sources without verifying their purpose and safety. <br>
+📁 Any configuration files for included programs are organized and located in the file tree. <br>
+❤️ anything I use will have an indication 
 
 # 🌐 Quick Navigation
 - [🛠️ System tools](#-System-tools)
