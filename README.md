@@ -236,7 +236,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 
  ❤️ [Floorp](https://floorp.app/en-US) |  [LibreWolf](https://librewolf.net/) |  [Zen](https://zen-browser.app/) |  [Brave](https://brave.com/)
  
-###  Huge librares of collections 
+###  More helpful libraries
 - ❤️[FMHY](https://fmhy.net/beginners-guide)
 - ❤️[Nirsoft](https://www.nirsoft.net/)
 - [PC-Tuning](https://github.com/valleyofdoom/PC-Tuning)
