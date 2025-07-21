@@ -154,6 +154,3 @@
  - [Collection 5](https://github.com/lordofhunger/wallpapers) | [Collection 6](https://github.com/DenverCoder1/minimalistic-wallpaper-collection) | [collection 7](https://github.com/D3Ext/aesthetic-wallpapers) | [collection 8](https://github.com/JoydeepMallick/Wallpapers)
 
  <a href="#top">Back to top</a>
-
-<a class="top-link hide" href="#top">↑</a>
-<a name="top"></a>
