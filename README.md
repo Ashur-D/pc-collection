@@ -11,8 +11,8 @@ anything I use will have an indication - ❤️
    - [🧰 System Utilities & Monitoring](#-system-utilities--monitoring)
    - [📦 Software Installation & Management](#-software-installation--management)
    - [🔍 File, App & Search Utilities](#-file-app--search-utilities)
-   - [🌐 Web Tools & Browsers](#-Web-Tools-&--Browsers)
-   - [🎥 Media Tools](#-Media-Tools)
+   - [🌐 Web Tools & Browsers](#-web-tools--browsers)
+   - [🎥 Media Tools](#-media-tools)
    - [📚 More helpful libraries](#-more-helpful-libraries)
 - [🖌️Customization](#-Customization)
 
