@@ -9,7 +9,7 @@ anything I use will have an indication - ❤️
 - [🛠️ system tools](#-System-tools)
    - [🔧 Optimization Apps & Scripts](#-optimization-apps--scripts)
    - [🧰 System Utilities & Monitoring](#-system-utilities--monitoring)
-   - [📦 Software Installation & Management](#-Software-Installation-&--Management)
+   - [📦 Software Installation & Management](#-software-installation--management)
    - [🔍 File, App & Search Utilities](#-file-app--search-utilities)
    - [🌐 Web Tools & Browsers](#-Web-Tools-&--Browsers)
    - [🎥 Media Tools](#-Media-Tools)
