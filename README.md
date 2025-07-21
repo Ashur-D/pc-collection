@@ -8,14 +8,12 @@ anything I use will have an indication - ❤️
 # 🌐 Quick Navigation
 - [🛠️ system tools](#system-tools)
    - [🔧 Optimization Apps & Scripts](#-optimization-apps--scripts)
-   - [🧰 System Utilities & Monitoring](#System-Utilities-&-Monitoring)
-   - [📦 Software Installation & Management](#Software-Installation-&-Management)
-   - [🔍 File, App & Search Utilities](#🔍-File,-App-&-Search-Utilities)
-   - [](#)
-   - [](#)
-   - [](#)
-   - [](#)
-   - [](#)
+   - [🧰 System Utilities & Monitoring](#-system-utilities--monitoring)
+   - [📦 Software Installation & Management](#Software-Installation-&--Management)
+   - [🔍 File, App & Search Utilities](#-file-app--search-utilities)
+   - [🌐 Web Tools & Browsers](#Web-Tools-&--Browsers)
+   - [🎥 Media Tools](#Media-Tools)
+   - [📚 More helpful libraries](#More-helpful-libraries)
 - [🖌️Customization](#Customization)
 
 # 🛠️ system tools 
@@ -55,7 +53,7 @@ anything I use will have an indication - ❤️
 - [yazi](https://github.com/sxyazi/yazi) / [superfile](https://github.com/yorukot/superfile?tab=readme-ov-file) | Terminal-based file managers
 - [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher) / [Wox](https://github.com/Wox-launcher/Wox) / [FluentSearch](https://github.com/adirh3/Fluent-Search) | App launchers and search utilities
 
-## 🌐 Web Tools and Browsers
+## 🌐 Web Tools & Browsers
 - ❤️ [Floorp](https://floorp.app/en-US) |  [LibreWolf](https://librewolf.net/) |  [Zen](https://zen-browser.app/) |  [Brave](https://brave.com/) | Privacy focused browers based on firefox and chrome
 - [Glance](https://github.com/glanceapp/glance) | Self-hosted dashboard for various feeds
 - ❤️[TwitchAdSolutions script for Ublock](https://github.com/pixeltris/TwitchAdSolutions) | Removes Twitch ads with a script for Ublock
