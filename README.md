@@ -194,7 +194,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
  - [GPU-Z](https://www.techpowerup.com/gpuz/) | [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) | Detailed CPU and GPU information
  - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) | SSD/HDD health and status monitoring
  - [DNS Benchmark](https://www.grc.com/dns/benchmark.htm) | Test and compare DNS servers
- - [Bottom](https://github.com/ClementTsang/bottom) / [Glances](https://github.com/nicolargo/glances) | Process/system monitor
+ - [Bottom](https://github.com/ClementTsang/bottom) / [Glances](https://github.com/nicolargo/glances) / [neohtop](https://github.com/Abdenasser/neohtop)* | Process/system monitor
  - [intel driver support](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html) | Intel hardware driver tool
  - [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) | Advanced network configuration and diagnostics
  - [MSI center](https://www.msi.com/Landing/MSI-Center) | Used to control hardware-specific features like GPU fan behavior
