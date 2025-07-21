@@ -231,6 +231,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
  - [Powertoys](https://github.com/microsoft/PowerToys)
  - ❤️[Twinkle-Tray](https://github.com/xanderfrangos/twinkle-tray) / [Monitorian](https://github.com/emoacht/Monitorian)
  - [Weather](https://github.com/rocksdanister/weather)
+ - [Vesktop](https://github.com/Vencord/Vesktop) / [Vencord](https://github.com/Vendicated/Vencord) / [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord)
 
 ### My personal browsers
 
