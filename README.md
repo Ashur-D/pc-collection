@@ -21,11 +21,11 @@ anything I use will have an indication - ❤️
 
 # 🛠️ System tools 
 ## 🔧 Optimization Apps & Scripts
-- ❤️[WinUtil](https://github.com/ChrisTitusTech/winutil) / [Winhance](https://github.com/memstechtips/Winhance) / [HellzergOptimizer](https://github.com/hellzerg/optimizer) / [CrapFixer](https://github.com/builtbybel/CrapFixer) / [ruru-opt](https://github.com/ruru-o/ruru-opt)
-- ❤️[Download Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US) / [Microsoft PC Manager](https://apps.microsoft.com/detail/9pm860492szd?hl=en-US&gl=US) 
-- [Download BleachBit](https://www.bleachbit.org/) 
-- ❤️[Download DDU](https://www.wagnardsoft.com/display-driver-uninstaller-DDU-) / [Download NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
-- ❤️[Download MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) / [Download Process Lasso](https://bitsum.com/)
+- ❤️[WinUtil](https://github.com/ChrisTitusTech/winutil) / [Winhance](https://github.com/memstechtips/Winhance) / [Sophia-Script](https://github.com/farag2/Sophia-Script-for-Windows?tab=readme-ov-file#how-to-download) / [HellzergOptimizer](https://github.com/hellzerg/optimizer) / [CrapFixer](https://github.com/builtbybel/CrapFixer) / [ruru-opt](https://github.com/ruru-o/ruru-opt) 
+- ❤️[Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US) / [Microsoft PC Manager](https://apps.microsoft.com/detail/9pm860492szd?hl=en-US&gl=US)  
+- ❤️[DDU](https://www.wagnardsoft.com/display-driver-uninstaller-DDU-) / [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
+- ❤️[MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
+- ❤️[Process Lasso](https://bitsum.com/)
 - ❤️[MAS](https://github.com/massgravel/Microsoft-Activation-Scripts)
 - [WindowsUnattendGenerator](https://schneegans.de/windows/unattend-generator/)
 - [FanControl](https://github.com/Rem0o/FanControl.Releases)
@@ -48,6 +48,7 @@ anything I use will have an indication - ❤️
 - [UniGetUI/WingetUI](https://github.com/marticliment/UniGetUI) | GUI frontend for Windows package manager
 - ❤️[Winstall](https://github.com/omaha-consulting/winstall) | Webapp for creating winget install scripts 
 - ❤️[Geek Uninstaller](https://geekuninstaller.com/) | Efficient, Fast, and Portable uninstaller
+- ❤️[BleachBit](https://www.bleachbit.org/)
 
 
 ## 🔍 File, App & Search Utilities
@@ -99,7 +100,7 @@ anything I use will have an indication - ❤️
 - [millennium](https://github.com/shdwmtr/millennium)
 - [folder-icons](https://github.com/sameerasw/folder-icons)
 - [Cedro Modern Dock](https://github.com/arthurdeka/cedro-modern-dock)
-- [FluentFlyout](https://github.com/unchihugo/FluentFlyout)
+- [FluentFlyout](https://github.com/unchihugo/FluentFlyout) / [ModernFlyout](https://github.com/ModernFlyouts-Community/ModernFlyouts)
 - ❤️[WinSetView](https://github.com/LesFerch/WinSetView)
 - [BeatPrints](https://github.com/TrueMyst/BeatPrints) / [Poster generator](https://github.com/AnveshakR/poster-generator)
 - [ImageGoNord](https://github.com/Schroedinger-Hat/ImageGoNord-Web) / [GoWall](https://github.com/Achno/gowall) / [tint](https://github.com/ashish0kumar/tint)
