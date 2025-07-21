@@ -20,7 +20,7 @@ anything with a * is newly added<br>
   - [My Personal Browsers](#my-personal-browsers)
   - [Other sources](#other-sources)
 
-# 📸 Screenshots
+# 📸 Screenshots 
 
 ![Screenshot 2025-03-02 144930](https://github.com/user-attachments/assets/955cf1f2-a59f-4e91-99a3-64bb2d696e90)
 
@@ -114,7 +114,7 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 
 ## Programs
 
-- ❤️[StartAllBack](https://www.startallback.com/) / [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) / [WindHawk](https://github.com/ramensoftware/windhawk) / [Winaero](https://winaero.com/) 
+- ❤️[StartAllBack](https://www.startallback.com/) / [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) / [WindHawk](https://github.com/ramensoftware/windhawk) / [Winaero](https://winaero.com/) / [Winpaletter](https://github.com/Abdelrhman-AK/WinPaletter)
 - ❤️[Nilesoft](https://github.com/moudey/Shell) / [Breeze-Shell](https://github.com/std-microblock/breeze-shell)
 - ❤️[deviantartNiivu](https://www.deviantart.com/niivu/art/Installing-Windows-Themes-UPDATED-708835586) / [VinStarTheme](https://www.vinstartheme.com/)	
 - ❤️[7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) 
