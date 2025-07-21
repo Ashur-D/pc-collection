@@ -15,6 +15,12 @@ anything I use will have an indication - ❤️
    - [🎥 Media Tools](#-media-tools)
    - [📚 More helpful libraries](#-more-helpful-libraries)
 - [🖌️Customization](#-Customization)
+   - [⚒️ ️Customization Tools]()
+   - [🎨 Popular Themes](#-popular-themes)
+   - [🖼️ Wallpapers](#%EF%B8%8F-wallpapers)
+      - [wallpaper websites]()
+      - [Wallpaper Tools]()
+      - [Wallpapers from repo's]()
 
 # 🛠️ System tools 
 ## 🔧 Optimization Apps & Scripts
@@ -81,7 +87,7 @@ anything I use will have an indication - ❤️
 
 # 🖌️Customization
 
-##  ⚒️ programs
+##  ⚒️ Customization Tools
 - ❤️[StartAllBack](https://www.startallback.com/) / [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) / [WindHawk](https://github.com/ramensoftware/windhawk) / [Winaero](https://winaero.com/) / [Winpaletter](https://github.com/Abdelrhman-AK/WinPaletter)
 - ❤️[Nilesoft](https://github.com/moudey/Shell) / [Breeze-Shell](https://github.com/std-microblock/breeze-shell)
 - ❤️[deviantartNiivu](https://www.deviantart.com/niivu/art/Installing-Windows-Themes-UPDATED-708835586) / [VinStarTheme](https://www.vinstartheme.com/)	
