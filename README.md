@@ -25,7 +25,7 @@
    - [🖼️ Wallpapers](#%EF%B8%8F-wallpapers)
 
 # 🛠️ System tools 
-## 🔧 Optimization Apps & Scripts
+## 🔧 Optimization Apps & Scripts <a class="top-link hide" href="#top">↑</a> <a name="top"></a>
 - ❤️[WinUtil](https://github.com/ChrisTitusTech/winutil) / [Winhance](https://github.com/memstechtips/Winhance) / [Sophia-Script](https://github.com/farag2/Sophia-Script-for-Windows?tab=readme-ov-file#how-to-download) / [HellzergOptimizer](https://github.com/hellzerg/optimizer) / [CrapFixer](https://github.com/builtbybel/CrapFixer) / [ruru-opt](https://github.com/ruru-o/ruru-opt) 
 - ❤️[Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US) / [Microsoft PC Manager](https://apps.microsoft.com/detail/9pm860492szd?hl=en-US&gl=US)  
 - ❤️[DDU](https://www.wagnardsoft.com/display-driver-uninstaller-DDU-) / [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
@@ -36,7 +36,7 @@
 - [FanControl](https://github.com/Rem0o/FanControl.Releases)
 - [Powertoys](https://github.com/microsoft/PowerToys)
  
-## 🧰 System Utilities & Monitoring
+## 🧰 System Utilities & Monitoring <a class="top-link hide" href="#top">↑</a> <a name="top"></a>
  - [HWmoniter](https://www.cpuid.com/softwares/hwmonitor.html) | Monitors temps/voltages across components
  - [Sysinternals Utilities](https://learn.microsoft.com/en-us/sysinternals/downloads/) | Advanced system utilities from Microsoft
  - [GPU-Z](https://www.techpowerup.com/gpuz/) | [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) | Detailed CPU and GPU information
@@ -49,14 +49,14 @@
  - ❤️[Twinkle-Tray](https://github.com/xanderfrangos/twinkle-tray) / [Monitorian](https://github.com/emoacht/Monitorian)
  - [Weather](https://github.com/rocksdanister/weather)
 
-## 📦 Software Installation & Management
+## 📦 Software Installation & Management <a class="top-link hide" href="#top">↑</a> <a name="top"></a>
 - [UniGetUI/WingetUI](https://github.com/marticliment/UniGetUI) | GUI frontend for Windows package manager
 - ❤️[Winstall](https://github.com/omaha-consulting/winstall) | Webapp for creating winget install scripts 
 - ❤️[Geek Uninstaller](https://geekuninstaller.com/) | Efficient, Fast, and Portable uninstaller
 - ❤️[BleachBit](https://www.bleachbit.org/)
 
 
-## 🔍 File, App & Search Utilities
+## 🔍 File, App & Search Utilities <a class="top-link hide" href="#top">↑</a> <a name="top"></a>
 - ❤️[WizTree](https://diskanalyzer.com/) | Fast disk space analyzer 
 - [Everything](https://www.voidtools.com/) | Locate files and folders by name instantly
 - [yazi](https://github.com/sxyazi/yazi) / [superfile](https://github.com/yorukot/superfile?tab=readme-ov-file) | Terminal-based file managers
