@@ -6,9 +6,6 @@
 anything I use will have an indication - ❤️<br>
 anything with a * is newly added<br>
 
-
-## Huge librares of collections | [FMHY](https://fmhy.net/beginners-guide) / [Nirsoft](https://www.nirsoft.net/)
-
 ## 🌐 Quick Navigation
 - [📸 Screenshots](#-screenshots)
 - [🛠️ Optimizations](#%EF%B8%8Foptimizations)
