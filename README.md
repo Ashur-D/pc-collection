@@ -7,7 +7,7 @@ anything I use will have an indication - ❤️<br>
 anything with a * is newly added<br>
 
 
-## holy grail of collections | [FMHY](https://fmhy.net/beginners-guide)
+## Huge librares of collections | [FMHY](https://fmhy.net/beginners-guide) / [Nirsoft](https://www.nirsoft.net/)
 
 ## 🌐 Quick Navigation
 - [📸 Screenshots](#-screenshots)
@@ -240,7 +240,6 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
  - [Powertoys](https://github.com/microsoft/PowerToys)
  - ❤️ [Twinkle-Tray](https://github.com/xanderfrangos/twinkle-tray) / [Monitorian](https://github.com/emoacht/Monitorian)
  - [Weather](https://github.com/rocksdanister/weather)
- - [Nirsoft](https://www.nirsoft.net/)
 
 ### Other sources
 - [PC-Tuning](https://github.com/valleyofdoom/PC-Tuning)
