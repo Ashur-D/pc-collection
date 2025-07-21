@@ -11,7 +11,7 @@
 ❤️ anything I use will have an indication 
 
 # 🌐 Quick Navigation
-- [🛠️ System tools](#-System-tools)
+- [🛠️ System tools](#%EF%B8%8F-system-tools)
    - [🔧 Optimization Apps & Scripts](#-optimization-apps--scripts)
    - [🧰 System Utilities & Monitoring](#-system-utilities--monitoring)
    - [📦 Software Installation & Management](#-software-installation--management)
