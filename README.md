@@ -41,13 +41,13 @@ anything with a * is newly added<br>
 
 ## Programs
 
-- ❤️ [WinUtil](https://github.com/ChrisTitusTech/winutil) 
-- ❤️ [Download Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US) 
+- ❤️[WinUtil](https://github.com/ChrisTitusTech/winutil) 
+- ❤️[Download Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US) 
 - [Microsoft PC Manager](https://apps.microsoft.com/detail/9pm860492szd?hl=en-US&gl=US) 
 - [Download BleachBit](https://www.bleachbit.org/) 
-- ❤️ [Download DDU](https://www.wagnardsoft.com/display-driver-uninstaller-DDU-) / [Download NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
-- ❤️ [Download MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) / [Download Process Lasso](https://bitsum.com/)
-- ❤️ [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts)
+- ❤️[Download DDU](https://www.wagnardsoft.com/display-driver-uninstaller-DDU-) / [Download NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
+- ❤️[Download MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) / [Download Process Lasso](https://bitsum.com/)
+- ❤️[MAS](https://github.com/massgravel/Microsoft-Activation-Scripts)
   
 
 ### other optimization scripts 
@@ -117,11 +117,11 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 
 ## Programs
 
-- ❤️ [StartAllBack](https://www.startallback.com/) / [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) / [WindHawk](https://github.com/ramensoftware/windhawk) / [Winaero](https://winaero.com/) 
-- ❤️ [Nilesoft](https://github.com/moudey/Shell) / [Breeze-Shell](https://github.com/std-microblock/breeze-shell)
-- ❤️ [deviantartNiivu](https://www.deviantart.com/niivu/art/Installing-Windows-Themes-UPDATED-708835586) / [VinStarTheme](https://www.vinstartheme.com/)	
-- ❤️ [7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) 
-- ❤️ [ExplorerTool](https://github.com/Maplespe/explorerTool) / [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) / [DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass)
+- ❤️[StartAllBack](https://www.startallback.com/) / [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) / [WindHawk](https://github.com/ramensoftware/windhawk) / [Winaero](https://winaero.com/) 
+- ❤️[Nilesoft](https://github.com/moudey/Shell) / [Breeze-Shell](https://github.com/std-microblock/breeze-shell)
+- ❤️[deviantartNiivu](https://www.deviantart.com/niivu/art/Installing-Windows-Themes-UPDATED-708835586) / [VinStarTheme](https://www.vinstartheme.com/)	
+- ❤️[7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) 
+- ❤️[ExplorerTool](https://github.com/Maplespe/explorerTool) / [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) / [DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass)
 - [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) / [FastFetch](https://github.com/fastfetch-cli/fastfetch)
 - [GlazeWM](https://github.com/glzr-io/glazewm?tab=readme-ov-file) / [komorebi](https://github.com/LGUG2Z/komorebi) / [whim](https://github.com/dalyIsaac/Whim) / [jwno](https://github.com/agent-kilo/jwno) / [mondrian](https://github.com/policastro/mondrian)
 - [Zebar](https://github.com/glzr-io/zebar) / [yasb](https://github.com/amnweb/yasb) / [SeleenUI](https://github.com/eythaann/Seelen-UI)
@@ -132,12 +132,12 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 - [folder-icons](https://github.com/sameerasw/folder-icons)
 - [Cedro Modern Dock](https://github.com/arthurdeka/cedro-modern-dock)
 - [FluentFlyout](https://github.com/unchihugo/FluentFlyout)
-- ❤️ [WinSetView](https://github.com/LesFerch/WinSetView)
+- ❤️[WinSetView](https://github.com/LesFerch/WinSetView)
 
 
 ## Popular Themes
 
- - ❤️ [Catppuccin](https://github.com/catppuccin)
+ - ❤️[Catppuccin](https://github.com/catppuccin)
  - [Rosé Pine](https://github.com/rose-pine)
  - [Nord](https://github.com/nordtheme)
  - [Dracula](https://github.com/dracula)
@@ -152,9 +152,9 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 
  #### Here are some links to websites with wallpapers, including mine on wallpaper engine.
 
-  - ❤️ [My Wallpaper Engine](https://steamcommunity.com/profiles/76561198824218763/myworkshopfiles/?appid=431960&sort=score&browsefilter=myfavorites&view=imagewall)
-  - ❤️ [Wallpaper Engine website](https://www.wallpaperengine.space/)
-  - ❤️ [Quick wallpapers](wallpapers)
+  - ❤️[My Wallpaper Engine](https://steamcommunity.com/profiles/76561198824218763/myworkshopfiles/?appid=431960&sort=score&browsefilter=myfavorites&view=imagewall)
+  - ❤️[Wallpaper Engine website](https://www.wallpaperengine.space/)
+  - ❤️[Quick wallpapers](wallpapers)
   - [Wallsync](https://github.com/leroiduflow/WallSync)
   - [Gruvbox Wallpapers](https://gruvbox-wallpapers.pages.dev/)
   - [Wallhaven](https://wallhaven.cc/)
@@ -206,11 +206,11 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 ### 📦 Software Installation & Management
 - [UniGetUI/WingetUI](https://github.com/marticliment/UniGetUI) | GUI frontend for Windows package manager
 - ❤️[Winstall](https://github.com/omaha-consulting/winstall) | Webapp for creating winget install scripts 
-- ❤️ [Geek Uninstaller](https://geekuninstaller.com/) | Efficient, Fast, and Portable uninstaller
+- ❤️[Geek Uninstaller](https://geekuninstaller.com/) | Efficient, Fast, and Portable uninstaller
 
 
 ### 🔍 File, App & Search Utilities
-- ❤️ [WizTree](https://diskanalyzer.com/) | Fast disk space analyzer 
+- ❤️[WizTree](https://diskanalyzer.com/) | Fast disk space analyzer 
 - [Everything](https://www.voidtools.com/) | Locate files and folders by name instantly
 - [yazi](https://github.com/sxyazi/yazi) / [superfile](https://github.com/yorukot/superfile?tab=readme-ov-file)* | Terminal-based file managers
 - [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher) / [Wox](https://github.com/Wox-launcher/Wox) / [FluentSearch](https://github.com/adirh3/Fluent-Search) | App launchers and search utilities
@@ -226,22 +226,20 @@ netsh int tcp set supplemental template=Datacentercustom congestionprovider=CTCP
 - [Tauon](https://github.com/Taiko2k/Tauon) | Lightweight music player
 - [ShareX](https://github.com/ShareX/ShareX) | Advanced screenshot and screen recording tool
 
-
-   
+### Misc tools
+ - [BeatPrints](https://github.com/TrueMyst/BeatPrints) / [Poster generator](https://github.com/AnveshakR/poster-generator)
+ - [FanControl](https://github.com/Rem0o/FanControl.Releases)
+ - [Powertoys](https://github.com/microsoft/PowerToys)
+ - ❤️[Twinkle-Tray](https://github.com/xanderfrangos/twinkle-tray) / [Monitorian](https://github.com/emoacht/Monitorian)
+ - [Weather](https://github.com/rocksdanister/weather)
 
 ### My personal browsers
 
  ❤️ [Floorp](https://floorp.app/en-US) |  [LibreWolf](https://librewolf.net/) |  [Zen](https://zen-browser.app/) |  [Brave](https://brave.com/)
-
-
-### Currently Looking through
- - [BeatPrints](https://github.com/TrueMyst/BeatPrints) / [Poster generator](https://github.com/AnveshakR/poster-generator)
- - [FanControl](https://github.com/Rem0o/FanControl.Releases)
- - [Powertoys](https://github.com/microsoft/PowerToys)
- - ❤️ [Twinkle-Tray](https://github.com/xanderfrangos/twinkle-tray) / [Monitorian](https://github.com/emoacht/Monitorian)
- - [Weather](https://github.com/rocksdanister/weather)
-
-### Other sources
+ 
+###  Huge librares of collections 
+- ❤️[FMHY](https://fmhy.net/beginners-guide)
+- ❤️[Nirsoft](https://www.nirsoft.net/)
 - [PC-Tuning](https://github.com/valleyofdoom/PC-Tuning)
 - [PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub)
 - [GamingPCSetup](https://github.com/djdallmann/GamingPCSetup)
