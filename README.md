@@ -4,7 +4,8 @@
 > I am not liable for any damage that may occur to your system; these steps worked for me without issue, but results may vary depending on your system. Additionally, any configuration files for a program will be located in the file tree. I also want to add, I have tried many optimizations and over the years I came to the conclusion that over-doing it will break your system, its better to keep it simple.
 
 anything I use will have an indication - ❤️
-  
+anything with a * is newly added
+
 ## 🌐 Quick Navigation
 - [📸 Screenshots](#-screenshots)
 - [🛠️ Optimizations](#%EF%B8%8Foptimizations)
