@@ -6,7 +6,7 @@
 anything I use will have an indication - ❤️
 
 # 🌐 Quick Navigation
-- [🛠️ system tools](#system-tools)
+- [🛠️ system tools](#-System-tools)
    - [🔧 Optimization Apps & Scripts](#-optimization-apps--scripts)
    - [🧰 System Utilities & Monitoring](#-system-utilities--monitoring)
    - [📦 Software Installation & Management](#-Software-Installation-&--Management)
@@ -14,9 +14,9 @@ anything I use will have an indication - ❤️
    - [🌐 Web Tools & Browsers](#-Web-Tools-&--Browsers)
    - [🎥 Media Tools](#-Media-Tools)
    - [📚 More helpful libraries](#-more-helpful-libraries)
-- [🖌️Customization](#Customization)
+- [🖌️Customization](#-Customization)
 
-# 🛠️ system tools 
+# 🛠️ System tools 
 ## 🔧 Optimization Apps & Scripts
 - ❤️[WinUtil](https://github.com/ChrisTitusTech/winutil) | [Winhance](https://github.com/memstechtips/Winhance) | [HellzergOptimizer](https://github.com/hellzerg/optimizer) | [CrapFixer](https://github.com/builtbybel/CrapFixer) | [ruru-opt](https://github.com/ruru-o/ruru-opt)
 - ❤️[Download Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US) | [Microsoft PC Manager](https://apps.microsoft.com/detail/9pm860492szd?hl=en-US&gl=US) 
