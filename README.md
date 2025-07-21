@@ -15,11 +15,10 @@ anything I use will have an indication - ❤️
    - [🎥 Media Tools](#-media-tools)
    - [📚 More helpful libraries](#-more-helpful-libraries)
 - [🖌️Customization](#-Customization)
-   - [⚒️ ️Customization Tools]()
+   - [⚒️ ️Customization Tools](#%EF%B8%8F-customization-tools)
    - [🎨 Popular Themes](#-popular-themes)
    - [🖼️ Wallpapers](#%EF%B8%8F-wallpapers)
       - [wallpaper websites]()
-      - [Wallpaper Tools]()
       - [Wallpapers from repo's]()
 
 # 🛠️ System tools 
@@ -105,6 +104,7 @@ anything I use will have an indication - ❤️
 - [FluentFlyout](https://github.com/unchihugo/FluentFlyout)
 - ❤️[WinSetView](https://github.com/LesFerch/WinSetView)
 - [BeatPrints](https://github.com/TrueMyst/BeatPrints) / [Poster generator](https://github.com/AnveshakR/poster-generator)
+- [ImageGoNord](https://github.com/Schroedinger-Hat/ImageGoNord-Web) | [GoWall](https://github.com/Achno/gowall) | [tint](https://github.com/ashish0kumar/tint)
 
 
 ## 🎨 Popular Themes
@@ -136,13 +136,7 @@ anything I use will have an indication - ❤️
   - [WallpapersClan](https://wallpapers-clan.com/)
   - [WallAlphaCoders](https://alphacoders.com/)
   - [FreePik](https://www.freepik.com/)
-  - [PixGround](https://www.pixground.com/)
-
-### Wallpaper Tools
-
-  - [ImageGoNord](https://github.com/Schroedinger-Hat/ImageGoNord-Web) 
-  - [GoWall](https://github.com/Achno/gowall)
-  - [tint](https://github.com/ashish0kumar/tint) 
+  - [PixGround](https://www.pixground.com/) 
 
     
 ### Wallpapers from repo's
