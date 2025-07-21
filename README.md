@@ -6,7 +6,7 @@
 anything I use will have an indication - ❤️
 
 # 🌐 Quick Navigation
-- [🛠️ system tools](#-System-tools)
+- [🛠️ System tools](#-System-tools)
    - [🔧 Optimization Apps & Scripts](#-optimization-apps--scripts)
    - [🧰 System Utilities & Monitoring](#-system-utilities--monitoring)
    - [📦 Software Installation & Management](#-software-installation--management)
