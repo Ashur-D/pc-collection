@@ -5,6 +5,7 @@
 
 anything I use will have an indication - ❤️<br>
 anything with a * is newly added
+holy grail of collections [FMHY](https://fmhy.net/beginners-guide)
 
 ## 🌐 Quick Navigation
 - [📸 Screenshots](#-screenshots)
