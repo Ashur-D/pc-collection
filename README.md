@@ -7,7 +7,7 @@ anything I use will have an indication - ❤️
 
 # 🌐 Quick Navigation
 - [🛠️ system tools](#system-tools)
-   - [🔧 Optimization Apps & Scripts](#https://github.com/Ashur-D/Windows11-Collection-Guide/tree/test?tab=readme-ov-file#-optimization-apps--scripts)
+   - [🔧 Optimization Apps & Scripts](#-optimization-apps--scripts)
    - [🧰 System Utilities & Monitoring](#System-Utilities-&-Monitoring)
    - [📦 Software Installation & Management](#Software-Installation-&-Management)
    - [🔍 File, App & Search Utilities](#🔍-File,-App-&-Search-Utilities)
