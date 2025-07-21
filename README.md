@@ -18,8 +18,6 @@ anything I use will have an indication - ❤️
    - [⚒️ ️Customization Tools](#%EF%B8%8F-customization-tools)
    - [🎨 Popular Themes](#-popular-themes)
    - [🖼️ Wallpapers](#%EF%B8%8F-wallpapers)
-      - [wallpaper websites](#wallpaper-websites)
-      - [Wallpapers from repo's](#wallpapers-from-repos)
 
 # 🛠️ System tools 
 ## 🔧 Optimization Apps & Scripts
