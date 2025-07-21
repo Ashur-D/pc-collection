@@ -11,7 +11,7 @@
 ❤️ anything I use will have an indication 
 
 # 🌐 Quick Navigation
-- [🛠️ System tools](#%EF%B8%8F-system-tools)
+- [🛠️ System tools](#%EF%B8%8F-system-tools) 
    - [🔧 Optimization Apps & Scripts](#-optimization-apps--scripts)
    - [🧰 System Utilities & Monitoring](#-system-utilities--monitoring)
    - [📦 Software Installation & Management](#-software-installation--management)
@@ -25,7 +25,8 @@
    - [🖼️ Wallpapers](#%EF%B8%8F-wallpapers)
 
 # 🛠️ System tools 
-## 🔧 Optimization Apps & Scripts <a class="top-link hide" href="#top">↑</a> <a name="top"></a>
+## 🔧 Optimization Apps & Scripts  | <a class="top-link hide" href="#top">↑</a>
+<a name="top"></a>
 - ❤️[WinUtil](https://github.com/ChrisTitusTech/winutil) / [Winhance](https://github.com/memstechtips/Winhance) / [Sophia-Script](https://github.com/farag2/Sophia-Script-for-Windows?tab=readme-ov-file#how-to-download) / [HellzergOptimizer](https://github.com/hellzerg/optimizer) / [CrapFixer](https://github.com/builtbybel/CrapFixer) / [ruru-opt](https://github.com/ruru-o/ruru-opt) 
 - ❤️[Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US) / [Microsoft PC Manager](https://apps.microsoft.com/detail/9pm860492szd?hl=en-US&gl=US)  
 - ❤️[DDU](https://www.wagnardsoft.com/display-driver-uninstaller-DDU-) / [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
@@ -36,7 +37,7 @@
 - [FanControl](https://github.com/Rem0o/FanControl.Releases)
 - [Powertoys](https://github.com/microsoft/PowerToys)
  
-## 🧰 System Utilities & Monitoring <a class="top-link hide" href="#top">↑</a> <a name="top"></a>
+## 🧰 System Utilities & Monitoring
  - [HWmoniter](https://www.cpuid.com/softwares/hwmonitor.html) | Monitors temps/voltages across components
  - [Sysinternals Utilities](https://learn.microsoft.com/en-us/sysinternals/downloads/) | Advanced system utilities from Microsoft
  - [GPU-Z](https://www.techpowerup.com/gpuz/) | [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) | Detailed CPU and GPU information
@@ -56,7 +57,7 @@
 - ❤️[BleachBit](https://www.bleachbit.org/)
 
 
-## 🔍 File, App & Search Utilities <a class="top-link hide" href="#top">↑</a> <a name="top"></a>
+## 🔍 File, App & Search Utilities
 - ❤️[WizTree](https://diskanalyzer.com/) | Fast disk space analyzer 
 - [Everything](https://www.voidtools.com/) | Locate files and folders by name instantly
 - [yazi](https://github.com/sxyazi/yazi) / [superfile](https://github.com/yorukot/superfile?tab=readme-ov-file) | Terminal-based file managers
