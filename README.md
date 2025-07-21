@@ -85,23 +85,23 @@ anything I use will have an indication - ❤️
 # 🖌️Customization
 
 ##  ⚒️ Customization Tools
-- ❤️[StartAllBack](https://www.startallback.com/) / [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) / [WindHawk](https://github.com/ramensoftware/windhawk) / [Winaero](https://winaero.com/) / [Winpaletter](https://github.com/Abdelrhman-AK/WinPaletter)
-- ❤️[Nilesoft](https://github.com/moudey/Shell) / [Breeze-Shell](https://github.com/std-microblock/breeze-shell)
-- ❤️[deviantartNiivu](https://www.deviantart.com/niivu/art/Installing-Windows-Themes-UPDATED-708835586) / [VinStarTheme](https://www.vinstartheme.com/)	
+- ❤️[StartAllBack](https://www.startallback.com/) | [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) | [WindHawk](https://github.com/ramensoftware/windhawk) | [Winaero](https://winaero.com/) | [Winpaletter](https://github.com/Abdelrhman-AK/WinPaletter)
+- ❤️[Nilesoft](https://github.com/moudey/Shell) | [Breeze-Shell](https://github.com/std-microblock/breeze-shell)
+- ❤️[deviantartNiivu](https://www.deviantart.com/niivu/art/Installing-Windows-Themes-UPDATED-708835586) | [VinStarTheme](https://www.vinstartheme.com/)	
 - ❤️[7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) 
-- ❤️[ExplorerTool](https://github.com/Maplespe/explorerTool) / [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) / [DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass)
-- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) / [FastFetch](https://github.com/fastfetch-cli/fastfetch)
-- [GlazeWM](https://github.com/glzr-io/glazewm?tab=readme-ov-file) / [komorebi](https://github.com/LGUG2Z/komorebi) / [whim](https://github.com/dalyIsaac/Whim) / [jwno](https://github.com/agent-kilo/jwno) / [mondrian](https://github.com/policastro/mondrian)
-- [Zebar](https://github.com/glzr-io/zebar) / [yasb](https://github.com/amnweb/yasb) / [SeleenUI](https://github.com/eythaann/Seelen-UI)
-- [TackyBorders](https://github.com/lukeyou05/tacky-borders) / [CuteBorders](https://github.com/keifufu/cute-borders)
-- [pywal](https://github.com/dylanaraps/pywal) / [pywal16](https://github.com/eylles/pywal16) / [HellWal](https://github.com/danihek/hellwal) / [Matugen](https://github.com/InioX/matugen)
+- ❤️[ExplorerTool](https://github.com/Maplespe/explorerTool) | [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) / [DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass)
+- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) | [FastFetch](https://github.com/fastfetch-cli/fastfetch)
+- [GlazeWM](https://github.com/glzr-io/glazewm?tab=readme-ov-file) | [komorebi](https://github.com/LGUG2Z/komorebi) | [whim](https://github.com/dalyIsaac/Whim) | [jwno](https://github.com/agent-kilo/jwno) | [mondrian](https://github.com/policastro/mondrian)
+- [Zebar](https://github.com/glzr-io/zebar) | [yasb](https://github.com/amnweb/yasb) | [SeleenUI](https://github.com/eythaann/Seelen-UI)
+- [TackyBorders](https://github.com/lukeyou05/tacky-borders) | [CuteBorders](https://github.com/keifufu/cute-borders)
+- [pywal](https://github.com/dylanaraps/pywal) | [pywal16](https://github.com/eylles/pywal16) | [HellWal](https://github.com/danihek/hellwal) | [Matugen](https://github.com/InioX/matugen)
 - [Color Hunt](https://colorhunt.co/)
 - [millennium](https://github.com/shdwmtr/millennium)
 - [folder-icons](https://github.com/sameerasw/folder-icons)
 - [Cedro Modern Dock](https://github.com/arthurdeka/cedro-modern-dock)
 - [FluentFlyout](https://github.com/unchihugo/FluentFlyout)
 - ❤️[WinSetView](https://github.com/LesFerch/WinSetView)
-- [BeatPrints](https://github.com/TrueMyst/BeatPrints) / [Poster generator](https://github.com/AnveshakR/poster-generator)
+- [BeatPrints](https://github.com/TrueMyst/BeatPrints) | [Poster generator](https://github.com/AnveshakR/poster-generator)
 - [ImageGoNord](https://github.com/Schroedinger-Hat/ImageGoNord-Web) | [GoWall](https://github.com/Achno/gowall) | [tint](https://github.com/ashish0kumar/tint)
 
 
