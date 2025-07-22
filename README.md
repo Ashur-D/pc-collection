@@ -9,7 +9,7 @@
 ❗ Avoid running scripts or registry changes from untrusted sources without verifying their purpose and safety. <br>
 📁 Any configuration files for included programs are organized and located in the file tree. <br>
 ❤️ anything I use will have an indication <br>
-🛜Network tweaks over here: [link](https://github.com/Ashur-D/Windows11-Collection-Guide/tree/test/NetworkTweaks)
+🛜Network tweaks can be found here: [link](https://github.com/Ashur-D/Windows11-Collection-Guide/tree/test/NetworkTweaks)
 
 # 🌐 Quick Navigation
 - [🛠️ System tools](#%EF%B8%8F-system-tools) 
