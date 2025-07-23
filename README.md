@@ -50,7 +50,7 @@
  - ❤️[Twinkle-Tray](https://github.com/xanderfrangos/twinkle-tray) / [Monitorian](https://github.com/emoacht/Monitorian)
  - [Weather](https://github.com/rocksdanister/weather)
 
-## 📦 Software Installation & Management <a class="top-link hide" href="#top">↑</a> <a name="top"></a>
+## 📦 Software Installation & Management
 - [UniGetUI/WingetUI](https://github.com/marticliment/UniGetUI) | GUI frontend for Windows package manager
 - ❤️[Winstall](https://github.com/omaha-consulting/winstall) | Webapp for creating winget install scripts 
 - ❤️[Geek Uninstaller](https://geekuninstaller.com/) | Efficient, Fast, and Portable uninstaller
