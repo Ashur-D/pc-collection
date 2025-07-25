@@ -30,12 +30,13 @@
 - ❤️[WinUtil](https://github.com/ChrisTitusTech/winutil) / [Winhance](https://github.com/memstechtips/Winhance) / [Sophia-Script](https://github.com/farag2/Sophia-Script-for-Windows?tab=readme-ov-file#how-to-download) / [HellzergOptimizer](https://github.com/hellzerg/optimizer) / [CrapFixer](https://github.com/builtbybel/CrapFixer) / [ruru-opt](https://github.com/ruru-o/ruru-opt) 
 - ❤️[Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US) / [Microsoft PC Manager](https://apps.microsoft.com/detail/9pm860492szd?hl=en-US&gl=US)  
 - ❤️[DDU](https://www.wagnardsoft.com/display-driver-uninstaller-DDU-) / [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
-- ❤️[MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
-- ❤️[Process Lasso](https://bitsum.com/)
-- ❤️[MAS](https://github.com/massgravel/Microsoft-Activation-Scripts)
-- [WindowsUnattendGenerator](https://schneegans.de/windows/unattend-generator/)
-- [FanControl](https://github.com/Rem0o/FanControl.Releases)
-- [Powertoys](https://github.com/microsoft/PowerToys)
+- ❤️[MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) | Free graphics card overclocking and monitoring utility
+- ❤️[Process Lasso](https://bitsum.com/) | Real-Time CPU Optimization and Automation
+- ❤️[MAS](https://github.com/massgravel/Microsoft-Activation-Scripts) | Open-source Windows and Office activator for free, as well as troubleshooting.
+- [WindowsUnattendGenerator](https://schneegans.de/windows/unattend-generator/) |  Create answer files to perform unattended installations of windows 11
+- [FanControl](https://github.com/Rem0o/FanControl.Releases) | Highly customizable fan controlling software for Windows. 
+- [Powertoys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity 
+- [Vcredist](https://github.com/abbodi1406/vcredist) | AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes 
  
 ## 🧰 System Utilities & Monitoring
  - [HWmoniter](https://www.cpuid.com/softwares/hwmonitor.html) | Monitors temps/voltages across components
@@ -80,7 +81,7 @@
 - ❤️[Soundcloud-rpc](https://github.com/AlirezaKJ/BetterSoundCloud) / [Bettersoundcloud](https://github.com/AlirezaKJ/BetterSoundCloud)
 - ❤️[Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) / [Vesktop](https://github.com/Vencord/Vesktop) / [Vencord](https://github.com/Vendicated/Vencord) / [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) / [Webcord](https://github.com/SpacingBat3/WebCord)
  
-## 📚 More helpful libraries
+## 📚 More helpful sources
 - ❤️[FMHY](https://fmhy.net/beginners-guide)
 - ❤️[Nirsoft](https://www.nirsoft.net/)
 - [AwesomeWindows11](https://github.com/awesome-windows11/windows11?tab=readme-ov-file)
@@ -88,7 +89,8 @@
 - [PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub)
 - [GamingPCSetup](https://github.com/djdallmann/GamingPCSetup)
 - [free-lunch](https://github.com/auctors/free-lunch)
-- [winning-at-windows](https://github.com/twonth/winning-at-windows)
+- [winning at windows](https://github.com/twonth/winning-at-windows)
+- [Windows 11 guides](https://github.com/mikeroyal/Windows-11-Guide)
 
 
 # 🖌️Customization
