@@ -12,7 +12,7 @@
 🛜Network tweaks can be found here: [link](https://github.com/Ashur-D/Windows11-Collection-Guide/tree/test/NetworkTweaks)
 
 # 🌐 Quick Navigation
-- [🛠️ System tools](#%EF%B8%8F-system-tools) 
+- [🛠️ System tools](#%EF%B8%8F-system-tools)
    - [🔧 Optimization Apps & Scripts](#-optimization-apps--scripts)
    - [🧰 System Utilities & Monitoring](#-system-utilities--monitoring)
    - [📦 Software Installation & Management](#-software-installation--management)
