@@ -70,6 +70,7 @@
 - [Glance](https://github.com/glanceapp/glance) | Self-hosted dashboard for various feeds
 - ❤️[TwitchAdSolutions script for Ublock](https://github.com/pixeltris/TwitchAdSolutions) | Removes Twitch ads with a script for Ublock
 - [Premid](https://premid.app/) | Adds Discord Rich Presence for websites
+- [Pastebin](https://pastebin.com/) / [PrivateBin](https://github.com/PrivateBin/PrivateBin) / [MicroBin](https://github.com/szabodanika/microbin) / [WasteBin](https://github.com/matze/wastebin) | 
 
 ## 🎥 Media Tools
 - [DavinciResolve](https://www.blackmagicdesign.com/ca/products/davinciresolve) | Professional-grade video editor with advanced color grading, VFX, and audio tools
