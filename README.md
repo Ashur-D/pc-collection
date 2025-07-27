@@ -20,7 +20,7 @@
    - [🌐 Web Tools & Browsers](#-web-tools--browsers)
    - [🎥 Media Tools](#-media-tools)
    - [📚 More helpful libraries](#-more-helpful-libraries)
-- [🖌️Customization](#-Customization)
+- [🖌️Customization](#%EF%B8%8Fcustomization)
    - [⚒️ ️Customization Tools](#%EF%B8%8F-customization-tools)
    - [🎨 Popular Themes](#-popular-themes)
    - [🖼️ Wallpapers](#%EF%B8%8F-wallpapers)
