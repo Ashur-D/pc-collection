@@ -27,7 +27,7 @@
 
 # 🛠️ System tools 
 ## 🔧 Optimization Apps & Scripts
-- ❤️[WinUtil](https://github.com/ChrisTitusTech/winutil) / [Winhance](https://github.com/memstechtips/Winhance) / [Win11Debloat](https://github.com/Raphire/Win11Debloat) / [Sophia-Script](https://github.com/farag2/Sophia-Script-for-Windows?tab=readme-ov-file#how-to-download) / [HellzergOptimizer](https://github.com/hellzerg/optimizer) / [CrapFixer](https://github.com/builtbybel/CrapFixer) / [ruru-opt](https://github.com/ruru-o/ruru-opt) 
+- ❤️[WinUtil](https://github.com/ChrisTitusTech/winutil) / [Winhance](https://github.com/memstechtips/Winhance) / [Win11Debloat](https://github.com/Raphire/Win11Debloat) / [Sophia-Script](https://github.com/farag2/Sophia-Script-for-Windows?tab=readme-ov-file#how-to-download) / [HellzergOptimizer](https://github.com/hellzerg/optimizer) / [CrapFixer](https://github.com/builtbybel/CrapFixer) / [ruru-opt](https://github.com/ruru-o/ruru-opt) / [Windows11Scripts](https://github.com/shoober420/windows11-scripts)
 - ❤️[Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US) / [Microsoft PC Manager](https://apps.microsoft.com/detail/9pm860492szd?hl=en-US&gl=US)  
 - ❤️[DDU](https://www.wagnardsoft.com/display-driver-uninstaller-DDU-) / [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
 - ❤️[MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) | Free graphics card overclocking and monitoring utility
@@ -77,7 +77,7 @@
 - [Obs](https://obsproject.com/) | Free, open-source tool for screen recording and live streaming
 - [Loseless Cut](https://github.com/mifi/lossless-cut) / [Rise-Media-Player](https://github.com/Rise-Software/Rise-Media-Player) | Video cutting and media player
 - [ImageGlass](https://github.com/d2phap/ImageGlass) | Lightweight image viewer
-- [Tauon](https://github.com/Taiko2k/Tauon) | Lightweight music player
+- [Tauon](https://github.com/Taiko2k/Tauon) / [Nora](https://github.com/Sandakan/Nora) | Music players
 - [ShareX](https://github.com/ShareX/ShareX) | Advanced screenshot and screen recording tool
 - ❤️[Soundcloud-rpc](https://github.com/AlirezaKJ/BetterSoundCloud) / [Bettersoundcloud](https://github.com/AlirezaKJ/BetterSoundCloud)
 - ❤️[Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) / [Vesktop](https://github.com/Vencord/Vesktop) / [Vencord](https://github.com/Vendicated/Vencord) / [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) / [Webcord](https://github.com/SpacingBat3/WebCord)
