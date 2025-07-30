@@ -64,6 +64,8 @@
 - [Everything](https://www.voidtools.com/) | Locate files and folders by name instantly
 - [yazi](https://github.com/sxyazi/yazi) / [superfile](https://github.com/yorukot/superfile?tab=readme-ov-file) / [LF](https://github.com/gokcehan/lf) / [NNN](https://github.com/jarun/nnn?tab=readme-ov-file) / [Ranger](https://github.com/ranger/ranger) | Terminal-based file managers
 - [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher) / [Wox](https://github.com/Wox-launcher/Wox) / [FluentSearch](https://github.com/adirh3/Fluent-Search) / [Ueli](https://github.com/oliverschwendener/ueli) / [Kando](https://github.com/kando-menu/kando) | App launchers and search utilities
+- [FZF](https://github.com/junegunn/fzf)
+- [Zoxide](https://github.com/ajeetdsouza/zoxide)
 
 ## 🌐 Web Tools & Browsers
 - ❤️ [Floorp](https://floorp.app/en-US) / [LibreWolf](https://librewolf.net/) / [Zen](https://zen-browser.app/) / [Brave](https://brave.com/) | Privacy focused browers based on firefox and chrome
@@ -107,7 +109,6 @@
 - [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) / [Starship](https://github.com/starship/starship)
 - [FastFetch](https://github.com/fastfetch-cli/fastfetch)
 - [GlazeWM](https://github.com/glzr-io/glazewm?tab=readme-ov-file) / [komorebi](https://github.com/LGUG2Z/komorebi) / [whim](https://github.com/dalyIsaac/Whim) / [jwno](https://github.com/agent-kilo/jwno) / [mondrian](https://github.com/policastro/mondrian)
-- [Zoxide](https://github.com/ajeetdsouza/zoxide)
 - [Zebar](https://github.com/glzr-io/zebar) / [yasb](https://github.com/amnweb/yasb) / [SeleenUI](https://github.com/eythaann/Seelen-UI)
 - [TackyBorders](https://github.com/lukeyou05/tacky-borders) / [CuteBorders](https://github.com/keifufu/cute-borders)
 - [pywal](https://github.com/dylanaraps/pywal) / [pywal16](https://github.com/eylles/pywal16) / [HellWal](https://github.com/danihek/hellwal) / [Matugen](https://github.com/InioX/matugen)
