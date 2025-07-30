@@ -66,6 +66,7 @@
 - [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher) / [Wox](https://github.com/Wox-launcher/Wox) / [FluentSearch](https://github.com/adirh3/Fluent-Search) / [Ueli](https://github.com/oliverschwendener/ueli) / [Kando](https://github.com/kando-menu/kando) | App launchers and search utilities
 - [FZF](https://github.com/junegunn/fzf)
 - [Zoxide](https://github.com/ajeetdsouza/zoxide)
+- [eza](https://github.com/eza-community/eza)
 
 ## 🌐 Web Tools & Browsers
 - ❤️ [Floorp](https://floorp.app/en-US) / [LibreWolf](https://librewolf.net/) / [Zen](https://zen-browser.app/) / [Brave](https://brave.com/) | Privacy focused browers based on firefox and chrome
