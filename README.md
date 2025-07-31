@@ -36,7 +36,8 @@
 - [WindowsUnattendGenerator](https://schneegans.de/windows/unattend-generator/) |  Create answer files to perform unattended installations of windows 11
 - [FanControl](https://github.com/Rem0o/FanControl.Releases) | Highly customizable fan controlling software for Windows. 
 - [Powertoys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity 
-- [Vcredist](https://github.com/abbodi1406/vcredist) | AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes 
+- [Vcredist](https://github.com/abbodi1406/vcredist) | AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes
+- [WinPower](https://github.com/Axorax/winpower)
  
 ## 🧰 System Utilities & Monitoring
  - [HWmoniter](https://www.cpuid.com/softwares/hwmonitor.html) | Monitors temps/voltages across components
