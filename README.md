@@ -19,6 +19,7 @@
    - [🔍 File, App & Search Utilities](#-file-app--search-utilities)
    - [🌐 Web Tools & Browsers](#-web-tools--browsers)
    - [🎥 Media Tools](#-media-tools)
+   - [💿Misc](#-Misc)
    - [📚 More helpful libraries](#-more-helpful-libraries)
 - [🖌️Customization](#%EF%B8%8Fcustomization)
    - [⚒️ ️Customization Tools](#%EF%B8%8F-customization-tools)
@@ -51,7 +52,6 @@
  - [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) | Advanced network configuration and diagnostics
  - [MSI center](https://www.msi.com/Landing/MSI-Center) | Used to control hardware-specific features like GPU fan behavior
  - ❤️[Twinkle-Tray](https://github.com/xanderfrangos/twinkle-tray) / [Monitorian](https://github.com/emoacht/Monitorian)
- - [Weather](https://github.com/rocksdanister/weather)
 
 ## 📦 Software Installation & Management
 - [UniGetUI/WingetUI](https://github.com/marticliment/UniGetUI) | GUI frontend for Windows package manager
@@ -83,10 +83,16 @@
 - [ImageGlass](https://github.com/d2phap/ImageGlass) | Lightweight image viewer
 - [Tauon](https://github.com/Taiko2k/Tauon) / [Nora](https://github.com/Sandakan/Nora) | Music players
 - [ShareX](https://github.com/ShareX/ShareX) | Advanced screenshot and screen recording tool
-- ❤️[Soundcloud-rpc](https://github.com/AlirezaKJ/BetterSoundCloud) / [Bettersoundcloud](https://github.com/AlirezaKJ/BetterSoundCloud)
-- ❤️[Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) / [Vesktop](https://github.com/Vencord/Vesktop) / [Vencord](https://github.com/Vendicated/Vencord) / [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) / [Webcord](https://github.com/SpacingBat3/WebCord)
 - [QuickLook](https://github.com/QL-Win/QuickLook) Bring macOS “Quick Look” feature to Windows, supports tons of file types.
- 
+
+## 💿Misc
+ - [Weather](https://github.com/rocksdanister/weather)
+ - ❤️[Soundcloud-rpc](https://github.com/AlirezaKJ/BetterSoundCloud) / [Bettersoundcloud](https://github.com/AlirezaKJ/BetterSoundCloud)
+ - ❤️[Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) / [Vesktop](https://github.com/Vencord/Vesktop) / [Vencord](https://github.com/Vendicated/Vencord) / [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) / [Webcord](https://github.com/SpacingBat3/WebCord)
+
+
+
+
 ## 📚 More helpful sources
 - ❤️[FMHY](https://fmhy.net/beginners-guide)
 - ❤️[Nirsoft](https://www.nirsoft.net/)
