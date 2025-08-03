@@ -19,7 +19,7 @@
    - [🔍 File, App & Search Utilities](#-file-app--search-utilities)
    - [🌐 Web Tools & Browsers](#-web-tools--browsers)
    - [🎥 Media Tools](#-media-tools)
-   - [💿Misc](#-Misc)
+   - [💿Misc](#misc)
    - [📚 More helpful libraries](#-more-helpful-libraries)
 - [🖌️Customization](#%EF%B8%8Fcustomization)
    - [⚒️ ️Customization Tools](#%EF%B8%8F-customization-tools)
@@ -30,7 +30,7 @@
 ## 🔧 Optimization Apps & Scripts
 - ❤️[WinUtil](https://github.com/ChrisTitusTech/winutil) / [Winhance](https://github.com/memstechtips/Winhance) / [Win11Debloat](https://github.com/Raphire/Win11Debloat) / [Sophia-Script](https://github.com/farag2/Sophia-Script-for-Windows?tab=readme-ov-file#how-to-download) / [HellzergOptimizer](https://github.com/hellzerg/optimizer) / [CrapFixer](https://github.com/builtbybel/CrapFixer) / [ruru-opt](https://github.com/ruru-o/ruru-opt) / [Windows11Scripts](https://github.com/shoober420/windows11-scripts)
 - ❤️[Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US) / [Microsoft PC Manager](https://apps.microsoft.com/detail/9pm860492szd?hl=en-US&gl=US)  
-- ❤️[DDU](https://www.wagnardsoft.com/display-driver-uninstaller-DDU-) / [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
+- ❤️[NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) / [DDU](https://www.wagnardsoft.com/display-driver-uninstaller-DDU-)  | Install and uninstall GPU drivers
 - ❤️[MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) | Free graphics card overclocking and monitoring utility
 - ❤️[Process Lasso](https://bitsum.com/) | Real-Time CPU Optimization and Automation
 - ❤️[MAS](https://github.com/massgravel/Microsoft-Activation-Scripts) | Open-source Windows and Office activator for free, as well as troubleshooting.
@@ -38,7 +38,7 @@
 - [FanControl](https://github.com/Rem0o/FanControl.Releases) | Highly customizable fan controlling software for Windows. 
 - [Powertoys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity 
 - [Vcredist](https://github.com/abbodi1406/vcredist) | AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes
-- [WinPower](https://github.com/Axorax/winpower)
+- [WinPower](https://github.com/Axorax/winpower) | Improved power settings for Windows 
  
 ## 🧰 System Utilities & Monitoring
  - [HWmoniter](https://www.cpuid.com/softwares/hwmonitor.html) | Monitors temps/voltages across components
@@ -51,30 +51,30 @@
  - [intel driver support](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html) | Intel hardware driver tool
  - [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) | Advanced network configuration and diagnostics
  - [MSI center](https://www.msi.com/Landing/MSI-Center) | Used to control hardware-specific features like GPU fan behavior
- - ❤️[Twinkle-Tray](https://github.com/xanderfrangos/twinkle-tray) / [Monitorian](https://github.com/emoacht/Monitorian)
+ - ❤️[Twinkle-Tray](https://github.com/xanderfrangos/twinkle-tray) / [Monitorian](https://github.com/emoacht/Monitorian) |  manage the brightness of your monitors and other features
 
 ## 📦 Software Installation & Management
 - [UniGetUI/WingetUI](https://github.com/marticliment/UniGetUI) | GUI frontend for Windows package manager
 - ❤️[Winstall](https://github.com/omaha-consulting/winstall) | Webapp for creating winget install scripts 
 - ❤️[Geek Uninstaller](https://geekuninstaller.com/) | Efficient, Fast, and Portable uninstaller
-- ❤️[BleachBit](https://www.bleachbit.org/)
+- ❤️[BleachBit](https://www.bleachbit.org/) free cache, delete cookies, clear Internet history, shred temporary files and delete logs.
 
 
 ## 🔍 File, App & Search Utilities
-- ❤️[WizTree](https://diskanalyzer.com/) / [WizFile](https://antibody-software.com/wizfile/)| Fast disk space analyzers
+- ❤️[WizTree](https://diskanalyzer.com/) / [WizFile](https://antibody-software.com/wizfile/) | Fast disk space analyzers
 - [Everything](https://www.voidtools.com/) | Locate files and folders by name instantly
 - [yazi](https://github.com/sxyazi/yazi) / [superfile](https://github.com/yorukot/superfile?tab=readme-ov-file) / [LF](https://github.com/gokcehan/lf) / [NNN](https://github.com/jarun/nnn?tab=readme-ov-file) / [Ranger](https://github.com/ranger/ranger) | Terminal-based file managers
 - [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher) / [Wox](https://github.com/Wox-launcher/Wox) / [FluentSearch](https://github.com/adirh3/Fluent-Search) / [Ueli](https://github.com/oliverschwendener/ueli) / [Kando](https://github.com/kando-menu/kando) | App launchers and search utilities
-- [FZF](https://github.com/junegunn/fzf)
-- [Zoxide](https://github.com/ajeetdsouza/zoxide)
-- [eza](https://github.com/eza-community/eza)
+- [FZF](https://github.com/junegunn/fzf) | A command-line fuzzy finder 
+- [Zoxide](https://github.com/ajeetdsouza/zoxide) | A smarter cd command
+- [eza](https://github.com/eza-community/eza) | A modern alternative to ls 
 
 ## 🌐 Web Tools & Browsers
 - ❤️ [Floorp](https://floorp.app/en-US) / [LibreWolf](https://librewolf.net/) / [Zen](https://zen-browser.app/) / [Brave](https://brave.com/) | Privacy focused browers based on firefox and chrome
 - [Glance](https://github.com/glanceapp/glance) | Self-hosted dashboard for various feeds
 - ❤️[TwitchAdSolutions script for Ublock](https://github.com/pixeltris/TwitchAdSolutions) | Removes Twitch ads with a script for Ublock
 - [Premid](https://premid.app/) | Adds Discord Rich Presence for websites
-- [Pastebin](https://pastebin.com/) / [PrivateBin](https://github.com/PrivateBin/PrivateBin) / [MicroBin](https://github.com/szabodanika/microbin) / [WasteBin](https://github.com/matze/wastebin) | 
+- [Pastebin](https://pastebin.com/) / [PrivateBin](https://github.com/PrivateBin/PrivateBin) / [MicroBin](https://github.com/szabodanika/microbin) / [WasteBin](https://github.com/matze/wastebin) | Text storage sites where you can store plain text aswell as share.
 
 ## 🎥 Media Tools
 - [DavinciResolve](https://www.blackmagicdesign.com/ca/products/davinciresolve) | Professional-grade video editor with advanced color grading, VFX, and audio tools
