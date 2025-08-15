@@ -52,7 +52,7 @@ e# 🪟 Personal Windows 11 Collection
  - [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) | Advanced network configuration and diagnostics
  - [MSI center](https://www.msi.com/Landing/MSI-Center) | Used to control hardware-specific features like GPU fan behavior
  - ❤️[Twinkle-Tray](https://github.com/xanderfrangos/twinkle-tray) / [Monitorian](https://github.com/emoacht/Monitorian) |  manage the brightness of your monitors and other features
- - [CelesteGRUB](https://github.com/suilven641/CelesteGRUB) / [Bloodborne-GRUB](https://github.com/NeiKa0s496/Bloodborne-GRUB) / [hollow-knight-grub](https://github.com/sergoncano/hollow-knight-grub-theme) / [Persona 5 Grub](https://github.com/SiriusAhu/Persona_5_Royal_Grub_Themes) | Custom Grub themes
+ - [CelesteGRUB](https://github.com/suilven641/CelesteGRUB) / [BloodborneGRUB](https://github.com/NeiKa0s496/Bloodborne-GRUB) / [HollowKnightGRUB](https://github.com/sergoncano/hollow-knight-grub-theme) / [Persona 5 GRUB](https://github.com/SiriusAhu/Persona_5_Royal_Grub_Themes) | Custom Grub themes
 
 ## 📦 Software Installation & Management
 - [UniGetUI/WingetUI](https://github.com/marticliment/UniGetUI) | GUI frontend for Windows package manager
