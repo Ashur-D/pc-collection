@@ -1,4 +1,4 @@
-# 🪟 Personal Windows 11 Collection
+e# 🪟 Personal Windows 11 Collection
 
 > [!IMPORTANT]
 ⚠️ This is a collection of tools, scripts, and tweaks designed to improve and customize Windows. Always understand what each item does <br>
@@ -75,7 +75,8 @@
 - ❤️[TwitchAdSolutions script for Ublock](https://github.com/pixeltris/TwitchAdSolutions) | Removes Twitch ads with a script for Ublock
 - [Premid](https://premid.app/) | Adds Discord Rich Presence for websites
 - [Pastebin](https://pastebin.com/) / [PrivateBin](https://github.com/PrivateBin/PrivateBin) / [MicroBin](https://github.com/szabodanika/microbin) / [WasteBin](https://github.com/matze/wastebin) | Text storage sites where you can store plain text aswell as share.
-- [Zen Nebula](https://github.com/JustAdumbPrsn/Zen-Nebula) / [My Internet](https://github.com/sameerasw/my-internet) / [natsumi-browser](https://github.com/greeeen-dev/natsumi-browser) / [FlexFox](https://github.com/yuuqilin/FlexFox) / [ShyFox](https://github.com/Naezr/ShyFox)
+- [Firefox CSS Store](FirefoxCSS-Store.github.io) / [Zen Nebula](https://github.com/JustAdumbPrsn/Zen-Nebula) / [My Internet](https://github.com/sameerasw/my-internet) / [natsumi-browser](https://github.com/greeeen-dev/natsumi-browser) / [FlexFox](https://github.com/yuuqilin/FlexFox) / [ShyFox](https://github.com/Naezr/ShyFox) | Custom firefox CSS themes
+- [Betterfox](https://github.com/yokoffing/Betterfox) | Firefox user.js configuration for speed, privacy, and security.
 
 ## 🎥 Media Tools
 - [DavinciResolve](https://www.blackmagicdesign.com/ca/products/davinciresolve) | Professional-grade video editor with advanced color grading, VFX, and audio tools
@@ -90,8 +91,6 @@
  - [Weather](https://github.com/rocksdanister/weather)
  - ❤️[Soundcloud-rpc](https://github.com/AlirezaKJ/BetterSoundCloud) / [Bettersoundcloud](https://github.com/AlirezaKJ/BetterSoundCloud)
  - ❤️[Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) / [Vesktop](https://github.com/Vencord/Vesktop) / [Vencord](https://github.com/Vendicated/Vencord) / [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) / [Webcord](https://github.com/SpacingBat3/WebCord)
-
-
 
 
 ## 📚 More helpful sources
