@@ -1,7 +1,7 @@
-🪟 Personal Windows 11 Collection
+🖥️ Personal com Collection
 
 > [!IMPORTANT]
-⚠️ This is a collection of tools, scripts, and tweaks designed to improve and customize Windows. Always understand what each item does <br>
+⚠️ This is a collection of tools, scripts, and tweaks designed to improve and customize you system. Always understand what each item does <br>
 ❌ I am not liable for any damage that may occur to your system; use at your own risk.<br>
 💾 Create a system restore point or full backup before applying any major changes, especially scripts or registry edits. <br>
 🔧 Some tools or settings may disable or alter default Windows behavior; review their effects carefully. <br>
@@ -9,7 +9,7 @@
 ❗ Avoid running scripts or registry changes from untrusted sources without verifying their purpose and safety. <br>
 📁 Any configuration files for included programs are organized and located in the file tree. <br>
 ❤️ anything I use will have an indication <br>
-🛜Network tweaks can be found here: [link](https://github.com/Ashur-D/Windows11-Collection-Guide/tree/test/NetworkTweaks)
+🛜Network tweaks for windows can be found here: [link](https://github.com/Ashur-D/Windows11-Collection-Guide/tree/test/NetworkTweaks)
 
 # 🌐 Quick Navigation
 - [🛠️ System tools](#%EF%B8%8F-system-tools)
