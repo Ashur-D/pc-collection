@@ -72,14 +72,14 @@
 - [eza](https://github.com/eza-community/eza) | A modern alternative to ls
 
 ## 🗒️ Text Editors
-- [NeoVim](https://github.com/neovim/neovim)
-- [AstroVim](https://github.com/AstroNvim/AstroNvim)
-- [LazyVim](https://github.com/LazyVim/LazyVim)
-- [Vim](https://github.com/vim/vim)
-- [Notepads](https://github.com/0x7c13/Notepads)
-- [helix](https://github.com/helix-editor/helix)
-- [Lite-xl](https://github.com/lite-xl/lite-xl)
-- [Sublime](https://github.com/sublimehq/Packages)
+- [NeoVim](https://github.com/neovim/neovim) | Modern Vim with better extensibility, Lua support, and built-in LSP
+- [AstroVim](https://github.com/AstroNvim/AstroNvim) | Feature-rich NeoVim config with LSP, themes, and plugins preconfigured
+- [LazyVim](https://github.com/LazyVim/LazyVim) | Fast, minimal NeoVim setup using lazy-loaded plugins
+- [Vim](https://github.com/vim/vim) | Classic, efficient terminal editor with modal editing
+- [Notepads](https://github.com/0x7c13/Notepads) | Modern, lightweight Notepad replacement for Windows
+- [helix](https://github.com/helix-editor/helix) | Modal editor with tree-sitter and built-in LSP, written in Rust
+- [Lite-xl](https://github.com/lite-xl/lite-xl) | Fast, low-resource editor with Lua-based customization
+- [Sublime](https://github.com/sublimehq/Packages) | Fast, extensible GUI editor with powerful features.
 
 ## 🌐 Web Tools & Browsers
 - ❤️ [Floorp](https://floorp.app/en-US) / [LibreWolf](https://librewolf.net/) / [Zen](https://zen-browser.app/) / [Brave](https://brave.com/) | Privacy focused browers based on firefox and chrome
