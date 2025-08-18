@@ -1,4 +1,4 @@
-🖥️ Personal com Collection
+🖥️ Personal computer Collection
 
 > [!IMPORTANT]
 ⚠️ This is a collection of tools, scripts, and tweaks made to improve and customize your system. Understand what each item does <br>
