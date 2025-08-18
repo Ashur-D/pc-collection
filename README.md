@@ -70,7 +70,7 @@
 - [Zoxide](https://github.com/ajeetdsouza/zoxide) | A smarter cd command
 - [eza](https://github.com/eza-community/eza) | A modern alternative to ls
 
-- 🗒️ Text Editors
+## 🗒️ Text Editors
 - [NeoVim](https://github.com/neovim/neovim)
 - [AstroVim](https://github.com/AstroNvim/AstroNvim)
 - [LazyVim](https://github.com/LazyVim/LazyVim)
