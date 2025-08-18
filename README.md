@@ -68,7 +68,17 @@
 - [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher) / [Wox](https://github.com/Wox-launcher/Wox) / [FluentSearch](https://github.com/adirh3/Fluent-Search) / [Ueli](https://github.com/oliverschwendener/ueli) / [Kando](https://github.com/kando-menu/kando) | App launchers and search utilities
 - [FZF](https://github.com/junegunn/fzf) | A command-line fuzzy finder 
 - [Zoxide](https://github.com/ajeetdsouza/zoxide) | A smarter cd command
-- [eza](https://github.com/eza-community/eza) | A modern alternative to ls 
+- [eza](https://github.com/eza-community/eza) | A modern alternative to ls
+
+- 🗒️ Text Editors
+- [NeoVim](https://github.com/neovim/neovim)
+- [AstroVim](https://github.com/AstroNvim/AstroNvim)
+- [LazyVim](https://github.com/LazyVim/LazyVim)
+- [Vim](https://github.com/vim/vim)
+- [Notepads](https://github.com/0x7c13/Notepads)
+- [helix](https://github.com/helix-editor/helix)
+- [Lite-xl](https://github.com/lite-xl/lite-xl)
+- [Sublime](https://github.com/sublimehq/Packages)
 
 ## 🌐 Web Tools & Browsers
 - ❤️ [Floorp](https://floorp.app/en-US) / [LibreWolf](https://librewolf.net/) / [Zen](https://zen-browser.app/) / [Brave](https://brave.com/) | Privacy focused browers based on firefox and chrome
@@ -78,6 +88,8 @@
 - [Pastebin](https://pastebin.com/) / [PrivateBin](https://github.com/PrivateBin/PrivateBin) / [MicroBin](https://github.com/szabodanika/microbin) / [WasteBin](https://github.com/matze/wastebin) | Text storage sites where you can store plain text aswell as share.
 - [Firefox CSS Store](FirefoxCSS-Store.github.io) / [Zen Nebula](https://github.com/JustAdumbPrsn/Zen-Nebula) / [My Internet](https://github.com/sameerasw/my-internet) / [natsumi-browser](https://github.com/greeeen-dev/natsumi-browser) / [FlexFox](https://github.com/yuuqilin/FlexFox) / [ShyFox](https://github.com/Naezr/ShyFox) | Custom firefox CSS themes
 - [Betterfox](https://github.com/yokoffing/Betterfox) | Firefox user.js configuration for speed, privacy, and security.
+
+
 
 ## 🎥 Media Tools
 - [DavinciResolve](https://www.blackmagicdesign.com/ca/products/davinciresolve) | Professional-grade video editor with advanced color grading, VFX, and audio tools
