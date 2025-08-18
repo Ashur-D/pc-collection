@@ -1,4 +1,4 @@
-e# 🪟 Personal Windows 11 Collection
+🪟 Personal Windows 11 Collection
 
 > [!IMPORTANT]
 ⚠️ This is a collection of tools, scripts, and tweaks designed to improve and customize Windows. Always understand what each item does <br>
