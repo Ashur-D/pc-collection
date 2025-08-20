@@ -1,0 +1,14 @@
+# yazi.toml
+[mgr]
+show_hidden = true
+
+[opener]
+edit = [
+{ run = "nvim \"$@\"", block = true, for = "unix" },
+]
+image = [
+  { run = 'feh "$@"', orphan = true, desc = "wslview", for = "linux" },
+]
+video = [
+  { run = 'mpv "$@"', orphan = true, desc = "wslview", for = "linux" },
+]
