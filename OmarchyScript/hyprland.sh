@@ -8,13 +8,15 @@ if [[ ! "$answer" =~ ^[Yy]$ ]]; then
   exit 0
 fi
 
-# Paths
-TARGET_DIR="$HOME/.config/hypr"
-TARGET_CONFIG="$TARGET_DIR/hyprlandoverride.conf"
+# Define the local configuration file path.
+# IMPORTANT: You must change this path to point to your actual file.
+# For example, if your existing config is at ~/my-configs/hyprland-setup.conf, you would use:
+# LOCAL_CONFIG="$HOME/my-configs/hyprland-setup.conf"
 LOCAL_CONFIG="$HOME/Downloads/pc-collection/hyprlandoverride.conf"
+TARGET_CONFIG="$HOME/.config/hypr/hyprlandoverride.conf"
 
 # Ensure the target directory exists
-mkdir -p "$TARGET_DIR"
+mkdir -p "$(dirname "$TARGET_CONFIG")"
 
 # Check if local config exists, if not, create it
 if [[ ! -f "$LOCAL_CONFIG" ]]; then
