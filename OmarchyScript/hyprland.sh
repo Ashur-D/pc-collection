@@ -15,10 +15,11 @@ TARGET_CONFIG="$TARGET_DIR/hyprlandoverride.conf"
 # Ensure the target directory exists
 mkdir -p "$TARGET_DIR"
 
-# Check if local config exists
+# Check if local config exists, if not, create it
 if [[ ! -f "$LOCAL_CONFIG" ]]; then
   echo "❌ Local override config not found at: $LOCAL_CONFIG"
-  exit 1
+  echo "📄 Creating a new, empty file at $LOCAL_CONFIG"
+  touch "$LOCAL_CONFIG"
 fi
 
 # Append local config to user's override file
