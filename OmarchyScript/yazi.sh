@@ -7,7 +7,7 @@
 # This version is more robust at handling the shell wrapper to prevent duplicates.
 
 # Define the source and destination paths based on the user's request.
-SOURCE_DIR="$HOME/Downloads/MyScript/yazi/"
+SOURCE_DIR="$HOME/Downloads/OmarchyScript/yazi/"
 DEST_DIR="$HOME/.config/yazi"
 
 # Check if yazi is installed using the 'pacman' package manager.
