@@ -11,6 +11,7 @@ fi
 # Paths
 TARGET_DIR="$HOME/.config/hypr"
 TARGET_CONFIG="$TARGET_DIR/hyprlandoverride.conf"
+LOCAL_CONFIG="$HOME/Downloads/pc-collection/hyprlandoverride.conf"
 
 # Ensure the target directory exists
 mkdir -p "$TARGET_DIR"
@@ -20,6 +21,12 @@ if [[ ! -f "$LOCAL_CONFIG" ]]; then
   echo "❌ Local override config not found at: $LOCAL_CONFIG"
   echo "📄 Creating a new, empty file at $LOCAL_CONFIG"
   touch "$LOCAL_CONFIG"
+  
+  # Exit if we just created a blank file, as there's nothing to append
+  if [[ ! -s "$LOCAL_CONFIG" ]]; then
+    echo "📄 A new, empty file was created. Nothing to append."
+    exit 0
+  fi
 fi
 
 # Append local config to user's override file
