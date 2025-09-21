@@ -162,7 +162,7 @@
 
   - ❤️[My Wallpaper Engine](https://steamcommunity.com/profiles/76561198824218763/myworkshopfiles/?appid=431960&sort=score&browsefilter=myfavorites&view=imagewall)
   - ❤️[Wallpaper Engine website](https://www.wallpaperengine.space/)
-  - ❤️[Quick wallpapers](wallpapers)
+  - ❤️[Quick wallpapers](https://github.com/Ashur-D/wallpapers)
   - [Wallsync](https://github.com/leroiduflow/WallSync)
   - [Gruvbox Wallpapers](https://gruvbox-wallpapers.pages.dev/)
   - [Wallhaven](https://wallhaven.cc/)
