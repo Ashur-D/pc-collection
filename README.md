@@ -82,7 +82,7 @@
 - [Sublime](https://github.com/sublimehq/Packages) | Fast, extensible GUI editor with powerful features.
 
 ## 🌐 Web Tools & Browsers
-- ❤️ [Floorp](https://floorp.app/en-US) / [LibreWolf](https://librewolf.net/) / [Zen](https://zen-browser.app/) / [Helium](https://github.com/imputnet/helium-chromiumhttps://github.com/imputnet/helium-chromium) / [Brave](https://brave.com/) | Privacy focused browers based on firefox and chrome
+- ❤️ [Floorp](https://floorp.app/en-US) / [LibreWolf](https://librewolf.net/) / [Zen](https://zen-browser.app/) / [Helium](https://github.com/imputnet/helium-chromiumhttps://github.com/imputnet/helium-chromium) /  | Privacy focused browers based on firefox and chrome
 - [Glance](https://github.com/glanceapp/glance) | Self-hosted dashboard for various feeds
 - ❤️[TwitchAdSolutions script for Ublock](https://github.com/pixeltris/TwitchAdSolutions) | Removes Twitch ads with a script for Ublock
 - [Premid](https://premid.app/) | Adds Discord Rich Presence for websites
