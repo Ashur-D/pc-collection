@@ -99,7 +99,9 @@
 - [ImageGlass](https://github.com/d2phap/ImageGlass) | Lightweight image viewer
 - [Tauon](https://github.com/Taiko2k/Tauon) / [Nora](https://github.com/Sandakan/Nora) | Music players
 - [ShareX](https://github.com/ShareX/ShareX) | Advanced screenshot and screen recording tool
-- [QuickLook](https://github.com/QL-Win/QuickLook) Bring macOS “Quick Look” feature to Windows, supports tons of file types.
+- [QuickLook](https://github.com/QL-Win/QuickLook) | Bring macOS “Quick Look” feature to Windows, supports tons of file types.
+- [Handbrake](https://github.com/HandBrake/HandBrake) | Convert video from nearly any format. Free and Open Source, Multi-Platform (Windows, Mac and Linux)
+ 
 
 ## 💿Misc
  - [Weather](https://github.com/rocksdanister/weather)
