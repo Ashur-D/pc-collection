@@ -50,6 +50,7 @@
  - [DNS Benchmark](https://www.grc.com/dns/benchmark.htm) | Test and compare DNS servers
  - [Bottom](https://github.com/ClementTsang/bottom) / [Glances](https://github.com/nicolargo/glances) / [neohtop](https://github.com/Abdenasser/neohtop) | Process/system monitor
  - [intel driver support](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html) | Intel hardware driver tool
+ - [Snappy Driver installer Origin](https://www.snappy-driver-installer.org/) | Portable Driver Installation and Update Tool
  - [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) | Advanced network configuration and diagnostics
  - [MSI center](https://www.msi.com/Landing/MSI-Center) | Used to control hardware-specific features like GPU fan behavior
  - ❤️[Twinkle-Tray](https://github.com/xanderfrangos/twinkle-tray) / [Monitorian](https://github.com/emoacht/Monitorian) |  manage the brightness of your monitors and other features
