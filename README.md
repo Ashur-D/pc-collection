@@ -72,7 +72,7 @@
 - [Zoxide](https://github.com/ajeetdsouza/zoxide) | A smarter cd command
 - [eza](https://github.com/eza-community/eza) | A modern alternative to ls
 
-## 🗒️ Text Editors
+## 🗒️ Text Editors / IDE
 - [NeoVim](https://github.com/neovim/neovim) | Modern Vim with better extensibility, Lua support, and built-in LSP
 - [AstroVim](https://github.com/AstroNvim/AstroNvim) | Feature-rich NeoVim config with LSP, themes, and plugins preconfigured
 - [LazyVim](https://github.com/LazyVim/LazyVim) | Fast, minimal NeoVim setup using lazy-loaded plugins
@@ -81,6 +81,12 @@
 - [helix](https://github.com/helix-editor/helix) | Modal editor with tree-sitter and built-in LSP, written in Rust
 - [Lite-xl](https://github.com/lite-xl/lite-xl) | Fast, low-resource editor with Lua-based customization
 - [Sublime](https://github.com/sublimehq/Packages) | Fast, extensible GUI editor with powerful features.
+
+  ---
+- [VSCodium](https://vscodium.com/) | Community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code
+- [Zed](https://zed.dev/) | Next-generation code editor for high-performance collaboration with humans and AI.
+- [Cursor](https://cursor.com/) | Make you extraordinarily productive, Cursor is the best way to code with AI.
+  
 
 ## 🌐 Web Tools & Browsers
 - ❤️ [Floorp](https://floorp.app/en-US) / [LibreWolf](https://librewolf.net/) / [Zen](https://zen-browser.app/) / [Helium](https://github.com/imputnet/helium-chromiumhttps://github.com/imputnet/helium-chromium)  | Privacy focused browers based on firefox and chrome
