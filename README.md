@@ -16,7 +16,7 @@
    - [🔧 Optimization Apps & Scripts](#-optimization-apps--scripts)
    - [🧰 System Utilities & Monitoring](#-system-utilities--monitoring)
    - [📦 Software Installation & Management](#-software-installation--management)
-   - [🗒️ Text Editors](#%EF%B8%8F-text-editors)
+   - [🗒️ Text Editors / IDE](#%EF%B8%8F-text-editors)
    - [🔍 File, App & Search Utilities](#-file-app--search-utilities)
    - [🌐 Web Tools & Browsers](#-web-tools--browsers)
    - [🎥 Media Tools](#-media-tools)
