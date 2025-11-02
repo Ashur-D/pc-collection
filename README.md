@@ -76,7 +76,6 @@
 - [NeoVim](https://github.com/neovim/neovim) | Modern Vim with better extensibility, Lua support, and built-in LSP
 - [AstroVim](https://github.com/AstroNvim/AstroNvim) | Feature-rich NeoVim config with LSP, themes, and plugins preconfigured
 - [LazyVim](https://github.com/LazyVim/LazyVim) | Fast, minimal NeoVim setup using lazy-loaded plugins
-- [Vim](https://github.com/vim/vim) | Classic, efficient terminal editor with modal editing
 - [Notepads](https://github.com/0x7c13/Notepads) | Modern, lightweight Notepad replacement for Windows
 - [helix](https://github.com/helix-editor/helix) | Modal editor with tree-sitter and built-in LSP, written in Rust
 - [Lite-xl](https://github.com/lite-xl/lite-xl) / [Pragtical](https://pragtical.dev/) | Fast, low-resource editor with Lua-based customization and pragtical is a lite-xl fork.
