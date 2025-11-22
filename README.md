@@ -71,6 +71,7 @@
 - [FZF](https://github.com/junegunn/fzf) | A command-line fuzzy finder 
 - [Zoxide](https://github.com/ajeetdsouza/zoxide) | A smarter cd command
 - [eza](https://github.com/eza-community/eza) | A modern alternative to ls
+- [File Pilot](https://filepilot.tech/) | Next-gen file explorer for windows 11
 
 ## 🗒️ Text Editors / IDE
 - [NeoVim](https://github.com/neovim/neovim) | Modern Vim with better extensibility, Lua support, and built-in LSP
