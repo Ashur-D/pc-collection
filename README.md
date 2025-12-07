@@ -39,7 +39,8 @@
 - [FanControl](https://github.com/Rem0o/FanControl.Releases) | Highly customizable fan controlling software for Windows. 
 - [Powertoys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity 
 - [Vcredist](https://github.com/abbodi1406/vcredist) | AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes
-- [WinPower](https://github.com/Axorax/winpower) | Improved power settings for Windows 
+- [WinPower](https://github.com/Axorax/winpower) | Improved power settings for Windows
+- [MultiOS-USB](https://github.com/Mexit/MultiOS-USB) 
  
 ## 🧰 System Utilities & Monitoring
  - [HWmoniter](https://www.cpuid.com/softwares/hwmonitor.html) | Monitors temps/voltages across components
