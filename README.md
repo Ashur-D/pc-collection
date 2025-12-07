@@ -39,8 +39,7 @@
 - [FanControl](https://github.com/Rem0o/FanControl.Releases) | Highly customizable fan controlling software for Windows. 
 - [Powertoys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity 
 - [Vcredist](https://github.com/abbodi1406/vcredist) | AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes
-- [WinPower](https://github.com/Axorax/winpower) | Improved power settings for Windows
-- [MultiOS-USB](https://github.com/Mexit/MultiOS-USB) 
+- [WinPower](https://github.com/Axorax/winpower) | Improved power settings for Windows 
  
 ## 🧰 System Utilities & Monitoring
  - [HWmoniter](https://www.cpuid.com/softwares/hwmonitor.html) | Monitors temps/voltages across components
@@ -56,6 +55,7 @@
  - [MSI center](https://www.msi.com/Landing/MSI-Center) | Used to control hardware-specific features like GPU fan behavior
  - ❤️[Twinkle-Tray](https://github.com/xanderfrangos/twinkle-tray) / [Monitorian](https://github.com/emoacht/Monitorian) |  manage the brightness of your monitors and other features
  - [Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) / [CelesteGRUB](https://github.com/suilven641/CelesteGRUB) / [BloodborneGRUB](https://github.com/NeiKa0s496/Bloodborne-GRUB) / [HollowKnightGRUB](https://github.com/sergoncano/hollow-knight-grub-theme) / [Persona 5 GRUB](https://github.com/SiriusAhu/Persona_5_Royal_Grub_Themes) | Custom Grub themes
+ - [MultiOS-USB](https://github.com/Mexit/MultiOS-USB) / [Ventoy](https://www.ventoy.net/en/index.html) / [Rufus](https://rufus.ie/en/) / [balenaEtcher](https://etcher.balena.io/) |  Turn USB drives into bootable installers for operating systems.
 
 ## 📦 Software Installation & Management
 - [UniGetUI/WingetUI](https://github.com/marticliment/UniGetUI) | GUI frontend for Windows package manager
