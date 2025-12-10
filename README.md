@@ -114,7 +114,7 @@
 
 ## 💿Misc
  - [Weather](https://github.com/rocksdanister/weather)
- - ❤️[Soundcloud-rpc](https://github.com/AlirezaKJ/BetterSoundCloud) / [Bettersoundcloud](https://github.com/AlirezaKJ/BetterSoundCloud)
+ - ❤️[Soundcloud-rpc](https://github.com/richardhbtz/soundcloud-rpc) / [Bettersoundcloud](https://github.com/AlirezaKJ/BetterSoundCloud)
  - ❤️[Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) / [Vesktop](https://github.com/Vencord/Vesktop) / [Vencord](https://github.com/Vendicated/Vencord) / [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) / [Webcord](https://github.com/SpacingBat3/WebCord)
 
 
