@@ -84,9 +84,8 @@
 - [Sublime](https://github.com/sublimehq/Packages) | Fast, extensible GUI editor with powerful features.
 
   ---
-- [VSCodium](https://vscodium.com/) | Community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code
 - [Zed](https://zed.dev/) | Next-generation code editor for high-performance collaboration with humans and AI.
-- [Cursor](https://cursor.com/) | Make you extraordinarily productive, Cursor is the best way to code with AI.
+
   
 
 ## 🌐 Web Tools & Browsers
