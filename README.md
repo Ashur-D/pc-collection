@@ -29,7 +29,7 @@
 
 # 🛠️ System tools 
 ## 🔧 Optimization Apps & Scripts
-- ❤️[WinUtil](https://github.com/ChrisTitusTech/winutil) / [Winhance](https://github.com/memstechtips/Winhance) / [Win11Debloat](https://github.com/Raphire/Win11Debloat) / [Sophia-Script](https://github.com/farag2/Sophia-Script-for-Windows?tab=readme-ov-file#how-to-download) / [HellzergOptimizer](https://github.com/hellzerg/optimizer) / [CrapFixer](https://github.com/builtbybel/CrapFixer) / [ruru-opt](https://github.com/ruru-o/ruru-opt) / [Windows11Scripts](https://github.com/shoober420/windows11-scripts)
+- ❤️[WinUtil](https://github.com/ChrisTitusTech/winutil) / ❤️ [Winhance](https://github.com/memstechtips/Winhance) / [Win11Debloat](https://github.com/Raphire/Win11Debloat) / [Sophia-Script](https://github.com/farag2/Sophia-Script-for-Windows?tab=readme-ov-file#how-to-download) / [HellzergOptimizer](https://github.com/hellzerg/optimizer) / [CrapFixer](https://github.com/builtbybel/CrapFixer) / [ruru-opt](https://github.com/ruru-o/ruru-opt) / [Windows11Scripts](https://github.com/shoober420/windows11-scripts)
 - ❤️[Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US) / [Microsoft PC Manager](https://apps.microsoft.com/detail/9pm860492szd?hl=en-US&gl=US)  
 - ❤️[NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) / [DDU](https://www.wagnardsoft.com/display-driver-uninstaller-DDU-)  | Install and uninstall GPU drivers
 - ❤️[MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) | Free graphics card overclocking and monitoring utility
@@ -89,9 +89,9 @@
   
 
 ## 🌐 Web Tools & Browsers
-- ❤️ [Floorp](https://floorp.app/en-US) / [LibreWolf](https://librewolf.net/) / [Zen](https://zen-browser.app/) / [Helium](https://github.com/imputnet/helium-chromiumhttps://github.com/imputnet/helium-chromium)  | Privacy focused browers based on firefox and chrome
+- [Floorp](https://floorp.app/en-US) / [LibreWolf](https://librewolf.net/) / ❤️[Zen](https://zen-browser.app/) / [Helium](https://github.com/imputnet/helium-chromiumhttps://github.com/imputnet/helium-chromium)  | Privacy focused browers based on firefox and chrome
 - [Glance](https://github.com/glanceapp/glance) | Self-hosted dashboard for various feeds
-- ❤️[TwitchAdSolutions script for Ublock](https://github.com/pixeltris/TwitchAdSolutions) | Removes Twitch ads with a script for Ublock
+- [TwitchAdSolutions script for Ublock](https://github.com/pixeltris/TwitchAdSolutions) | Removes Twitch ads with a script for Ublock
 - [Premid](https://premid.app/) | Adds Discord Rich Presence for websites
 - [Pastebin](https://pastebin.com/) / [PrivateBin](https://github.com/PrivateBin/PrivateBin) / [MicroBin](https://github.com/szabodanika/microbin) / [WasteBin](https://github.com/matze/wastebin) / [chiyogami](https://github.com/rhee876527/chiyogami) / [SnowBin](https://github.com/taskyland/snowbin) | Text storage sites where you can store plain text aswell as share.
 - [Firefox CSS Store](FirefoxCSS-Store.github.io) / [Zen Nebula](https://github.com/JustAdumbPrsn/Zen-Nebula) / [My Internet](https://github.com/sameerasw/my-internet) / [natsumi-browser](https://github.com/greeeen-dev/natsumi-browser) / [FlexFox](https://github.com/yuuqilin/FlexFox) | Custom firefox CSS themes
