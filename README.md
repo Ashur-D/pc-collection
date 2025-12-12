@@ -134,11 +134,11 @@
 # 🖌️Customization
 
 ##  ⚒️ Customization Tools
-- ❤️[StartAllBack](https://www.startallback.com/) / [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) / [WindHawk](https://github.com/ramensoftware/windhawk) / [Winaero](https://winaero.com/) / [Winpaletter](https://github.com/Abdelrhman-AK/WinPaletter)
-- ❤️[Nilesoft](https://github.com/moudey/Shell) / [Breeze-Shell](https://github.com/std-microblock/breeze-shell)
-- ❤️[deviantartNiivu](https://www.deviantart.com/niivu/art/Installing-Windows-Themes-UPDATED-708835586) / [VinStarTheme](https://www.vinstartheme.com/)	
-- ❤️[7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) 
-- ❤️[ExplorerTool](https://github.com/Maplespe/explorerTool) / [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) / [DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass)
+- [StartAllBack](https://www.startallback.com/) / [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) / [WindHawk](https://github.com/ramensoftware/windhawk) / [Winaero](https://winaero.com/) / [Winpaletter](https://github.com/Abdelrhman-AK/WinPaletter)
+- [Nilesoft](https://github.com/moudey/Shell) / [Breeze-Shell](https://github.com/std-microblock/breeze-shell)
+- [deviantartNiivu](https://www.deviantart.com/niivu/art/Installing-Windows-Themes-UPDATED-708835586) / [VinStarTheme](https://www.vinstartheme.com/)	
+- [7TSP GUI](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) 
+- [ExplorerTool](https://github.com/Maplespe/explorerTool) / [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) / [DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass)
 - [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) / [Starship](https://github.com/starship/starship)
 - [FastFetch](https://github.com/fastfetch-cli/fastfetch)
 - [GlazeWM](https://github.com/glzr-io/glazewm?tab=readme-ov-file) / [komorebi](https://github.com/LGUG2Z/komorebi) / [whim](https://github.com/dalyIsaac/Whim) / [jwno](https://github.com/agent-kilo/jwno) / [mondrian](https://github.com/policastro/mondrian)
@@ -150,13 +150,13 @@
 - [folder-icons](https://github.com/sameerasw/folder-icons)
 - [Cedro Modern Dock](https://github.com/arthurdeka/cedro-modern-dock)
 - [FluentFlyout](https://github.com/unchihugo/FluentFlyout) / [ModernFlyout](https://github.com/ModernFlyouts-Community/ModernFlyouts)
-- ❤️[WinSetView](https://github.com/LesFerch/WinSetView)
+- [WinSetView](https://github.com/LesFerch/WinSetView)
 - [BeatPrints](https://github.com/TrueMyst/BeatPrints) / [Poster generator](https://github.com/AnveshakR/poster-generator)
 - [ImageGoNord](https://github.com/Schroedinger-Hat/ImageGoNord-Web) / [GoWall](https://github.com/Achno/gowall) / [tint](https://github.com/ashish0kumar/tint) / [palettum](https://github.com/arrowpc/palettum) / [farbenfroh](https://github.com/nekowinston/farbenfroh.io) / [lutgen](https://github.com/ozwaldorf/lutgen-rs) / [Color-manager](https://github.com/NicklasVraa/Color-manager) / [WallpaperThemeConverter](https://github.com/NotNeelPatel/WallpaperThemeConverter) / [ChangeColorScheme](https://github.com/SebaBlamey/ChangeColorScheme) / [Wallrice](https://github.com/groovykiwi/wallrice) / [ImageGoNord-Web](https://github.com/Schroedinger-Hat/ImageGoNord-web)
 
 
 ## 🎨 Popular Themes
- - ❤️[Catppuccin](https://github.com/catppuccin)
+ - [Catppuccin](https://github.com/catppuccin)
  - [Rosé Pine](https://github.com/rose-pine)
  - [Nord](https://github.com/nordtheme)
  - [Dracula](https://github.com/dracula)
