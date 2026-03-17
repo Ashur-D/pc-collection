@@ -148,7 +148,7 @@
 - [Color Hunt](https://colorhunt.co/)
 - [millennium](https://github.com/shdwmtr/millennium)
 - [Cedro Modern Dock](https://github.com/arthurdeka/cedro-modern-dock)
-- [FluentFlyout](https://github.com/unchihugo/FluentFlyout) / [ModernFlyout](https://github.com/ModernFlyouts-Community/ModernFlyouts)
+- [FluentFlyout](https://github.com/unchihugo/FluentFlyout)
 - [WinSetView](https://github.com/LesFerch/WinSetView)
 - [BeatPrints](https://github.com/TrueMyst/BeatPrints) / [Poster generator](https://github.com/AnveshakR/poster-generator)
 - [ImageGoNord](https://github.com/Schroedinger-Hat/ImageGoNord-Web) / [GoWall](https://github.com/Achno/gowall) / [tint](https://github.com/ashish0kumar/tint) / [palettum](https://github.com/arrowpc/palettum) / [farbenfroh](https://github.com/nekowinston/farbenfroh.io) / [lutgen](https://github.com/ozwaldorf/lutgen-rs) / [Color-manager](https://github.com/NicklasVraa/Color-manager) / [WallpaperThemeConverter](https://github.com/NotNeelPatel/WallpaperThemeConverter) / [ChangeColorScheme](https://github.com/SebaBlamey/ChangeColorScheme) / [Wallrice](https://github.com/groovykiwi/wallrice) / [ImageGoNord-Web](https://github.com/Schroedinger-Hat/ImageGoNord-web)
