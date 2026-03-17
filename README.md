@@ -82,9 +82,7 @@
 - [helix](https://github.com/helix-editor/helix) | Modal editor with tree-sitter and built-in LSP, written in Rust
 - [Lite-xl](https://github.com/lite-xl/lite-xl) / [Pragtical](https://pragtical.dev/) | Fast, low-resource editor with Lua-based customization and pragtical is a lite-xl fork.
 - [Sublime](https://github.com/sublimehq/Packages) | Fast, extensible GUI editor with powerful features.
-
-  ---
-- [Zed](https://zed.dev/) | Next-generation code editor for high-performance collaboration with humans and AI.
+- ❤️[Zed](https://zed.dev/) | Next-generation code editor for high-performance collaboration with humans and AI.
 
   
 
