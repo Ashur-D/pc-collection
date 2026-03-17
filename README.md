@@ -171,11 +171,7 @@
   - ❤️[My Wallpaper Engine](https://steamcommunity.com/profiles/76561198824218763/myworkshopfiles/?appid=431960&sort=score&browsefilter=myfavorites&view=imagewall)
   - ❤️[Wallpaper Engine website](https://www.wallpaperengine.space/)
   - ❤️[Quick wallpapers](https://github.com/Ashur-D/wallpapers)
-  - [Wallsync](https://github.com/leroiduflow/WallSync)
-  - [Gruvbox Wallpapers](https://gruvbox-wallpapers.pages.dev/)
-  - [Wallhaven](https://wallhaven.cc/)
-  - [WallpaperFlare](https://www.wallpaperflare.com/)
-  - [Wallpaper Cave](https://wallpapercave.com/)
+  - [Wallsync](https://github.com/leroiduflow/WallSync) ( this repo has basically every wallpaper site/collection )
   - [UHDpaper](https://www.uhdpaper.com/)
 
     
