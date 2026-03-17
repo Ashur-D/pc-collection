@@ -147,7 +147,6 @@
 - [pywal](https://github.com/dylanaraps/pywal) / [pywal16](https://github.com/eylles/pywal16) / [HellWal](https://github.com/danihek/hellwal) / [Matugen](https://github.com/InioX/matugen)
 - [Color Hunt](https://colorhunt.co/)
 - [millennium](https://github.com/shdwmtr/millennium)
-- [folder-icons](https://github.com/sameerasw/folder-icons)
 - [Cedro Modern Dock](https://github.com/arthurdeka/cedro-modern-dock)
 - [FluentFlyout](https://github.com/unchihugo/FluentFlyout) / [ModernFlyout](https://github.com/ModernFlyouts-Community/ModernFlyouts)
 - [WinSetView](https://github.com/LesFerch/WinSetView)
