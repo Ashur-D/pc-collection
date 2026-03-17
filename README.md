@@ -179,11 +179,6 @@
   - [WallpaperFlare](https://www.wallpaperflare.com/)
   - [Wallpaper Cave](https://wallpapercave.com/)
   - [UHDpaper](https://www.uhdpaper.com/)
-  - [Unsplash](https://unsplash.com/t/wallpapers)
-  - [WallpapersClan](https://wallpapers-clan.com/)
-  - [WallAlphaCoders](https://alphacoders.com/)
-  - [FreePik](https://www.freepik.com/)
-  - [PixGround](https://www.pixground.com/) 
 
     
 ### Wallpapers from repo's
@@ -192,7 +187,6 @@
  - [walls-catppuccin-mocha](https://github.com/orangci/walls-catppuccin-mocha)
  - [Awesome Wallpapers](https://alexandrosliaskos.github.io/Awesome_Wallpapers/)
  - [nordic wallpapers](https://github.com/linuxdotexe/nordic-wallpapers)
- - [gruvbox wallpapers](https://github.com/AngelJumbo/gruvbox-wallpapers)
  - [Collection 1](https://github.com/FrenzyExists/wallpapers) | [Collection 2](https://github.com/maotseantonio/wallpapers) | [Collection 3](https://github.com/dharmx/walls) | [collection 4](https://github.com/h1Gio/Wallpapers)
  - [Collection 5](https://github.com/lordofhunger/wallpapers) | [Collection 6](https://github.com/DenverCoder1/minimalistic-wallpaper-collection) | [collection 7](https://github.com/D3Ext/aesthetic-wallpapers) | [collection 8](https://github.com/JoydeepMallick/Wallpapers) / [Collection 10](https://github.com/xZepyx/WallBank)
  - [Collection 9](https://github.com/makccr/wallpapers)
