@@ -69,9 +69,6 @@
 - [Everything](https://www.voidtools.com/) / [WizFile](https://antibody-software.com/wizfile/) | Locate files and folders by name instantly
 - [yazi](https://github.com/sxyazi/yazi) / [superfile](https://github.com/yorukot/superfile?tab=readme-ov-file) / [LF](https://github.com/gokcehan/lf) / [NNN](https://github.com/jarun/nnn?tab=readme-ov-file) / [Ranger](https://github.com/ranger/ranger) | Terminal-based file managers
 - [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher) / [Wox](https://github.com/Wox-launcher/Wox) / [FluentSearch](https://github.com/adirh3/Fluent-Search) / [Ueli](https://github.com/oliverschwendener/ueli) / [Kando](https://github.com/kando-menu/kando) | App launchers and search utilities
-- [FZF](https://github.com/junegunn/fzf) | A command-line fuzzy finder 
-- [Zoxide](https://github.com/ajeetdsouza/zoxide) | A smarter cd command
-- [eza](https://github.com/eza-community/eza) | A modern alternative to ls
 - ❤️[File Pilot](https://filepilot.tech/) | Next-gen file explorer for windows 11
 
 ## 🗒️ Text Editors / IDE
