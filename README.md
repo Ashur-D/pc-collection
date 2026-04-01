@@ -54,7 +54,6 @@
  - [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) | Advanced network configuration and diagnostics
  - [MSI center](https://www.msi.com/Landing/MSI-Center) | Used to control hardware-specific features like GPU fan behavior
  - ❤️[Twinkle-Tray](https://github.com/xanderfrangos/twinkle-tray) / [Monitorian](https://github.com/emoacht/Monitorian) |  manage the brightness of your monitors and other features
- - [Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) / [CelesteGRUB](https://github.com/suilven641/CelesteGRUB) / [BloodborneGRUB](https://github.com/NeiKa0s496/Bloodborne-GRUB) / [HollowKnightGRUB](https://github.com/sergoncano/hollow-knight-grub-theme) / [Persona 5 GRUB](https://github.com/SiriusAhu/Persona_5_Royal_Grub_Themes) | Custom Grub themes
  - [MultiOS-USB](https://github.com/Mexit/MultiOS-USB) / [Ventoy](https://www.ventoy.net/en/index.html) / [Rufus](https://rufus.ie/en/) / [balenaEtcher](https://etcher.balena.io/) |  Turn USB drives into bootable installers for operating systems.
 
 ## 📦 Software Installation & Management
@@ -148,6 +147,7 @@
 - [WinSetView](https://github.com/LesFerch/WinSetView)
 - [BeatPrints](https://github.com/TrueMyst/BeatPrints) / [Poster generator](https://github.com/AnveshakR/poster-generator)
 - [ImageGoNord](https://github.com/Schroedinger-Hat/ImageGoNord-Web) / [GoWall](https://github.com/Achno/gowall) / [tint](https://github.com/ashish0kumar/tint) / [palettum](https://github.com/arrowpc/palettum) / [farbenfroh](https://github.com/nekowinston/farbenfroh.io) / [lutgen](https://github.com/ozwaldorf/lutgen-rs) / [Color-manager](https://github.com/NicklasVraa/Color-manager) / [WallpaperThemeConverter](https://github.com/NotNeelPatel/WallpaperThemeConverter) / [ChangeColorScheme](https://github.com/SebaBlamey/ChangeColorScheme) / [Wallrice](https://github.com/groovykiwi/wallrice) / [ImageGoNord-Web](https://github.com/Schroedinger-Hat/ImageGoNord-web)
+ - [Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) / [CelesteGRUB](https://github.com/suilven641/CelesteGRUB) / [BloodborneGRUB](https://github.com/NeiKa0s496/Bloodborne-GRUB) / [HollowKnightGRUB](https://github.com/sergoncano/hollow-knight-grub-theme) / [Persona 5 GRUB](https://github.com/SiriusAhu/Persona_5_Royal_Grub_Themes) | Custom Grub themes
 
 
 ## 🎨 Popular Themes
