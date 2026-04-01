@@ -104,7 +104,7 @@
 - [QuickLook](https://github.com/QL-Win/QuickLook) | Bring macOS “Quick Look” feature to Windows, supports tons of file types.
 - [Handbrake](https://github.com/HandBrake/HandBrake) | Convert video from nearly any format. Free and Open Source, Multi-Platform (Windows, Mac and Linux)
 - [Vert](https://github.com/VERT-sh/VERT) | All image, audio, and document processing is done on your device.
-- [ilovepdf](https://www.ilovepdf.com/) / [pdf-xchange](https://www.pdf-xchange.com/product/pdf-xchange-editor) / [Terrific Tools](https://www.terrific.tools/terrific-tools-desktop) | PDF-Converting tools
+- [ilovepdf](https://www.ilovepdf.com/) / [pdf-xchange](https://www.pdf-xchange.com/product/pdf-xchange-editor) / [Terrific Tools](https://www.terrific.tools/terrific-tools-desktop) | PDF-Converting tools / [BentoPDF](https://github.com/alam00000/bentopdf)
  
 
 ## 💿Misc
