@@ -85,7 +85,6 @@
 ## 🌐 Web Tools & Browsers
 - [Floorp](https://floorp.app/en-US) / [LibreWolf](https://librewolf.net/) / ❤️[Zen](https://zen-browser.app/) / [Helium](https://github.com/imputnet/helium-chromiumhttps://github.com/imputnet/helium-chromium)  | Privacy focused browers based on firefox and chrome
 - [Glance](https://github.com/glanceapp/glance) | Self-hosted dashboard for various feeds
-- [TwitchAdSolutions script for Ublock](https://github.com/pixeltris/TwitchAdSolutions) | Removes Twitch ads with a script for Ublock
 - [Premid](https://premid.app/) | Adds Discord Rich Presence for websites
 - [Pastebin](https://pastebin.com/) / [PrivateBin](https://github.com/PrivateBin/PrivateBin) / [MicroBin](https://github.com/szabodanika/microbin) / [WasteBin](https://github.com/matze/wastebin) / [chiyogami](https://github.com/rhee876527/chiyogami) / [SnowBin](https://github.com/taskyland/snowbin) | Text storage sites where you can store plain text aswell as share.
 - [Firefox CSS Store](FirefoxCSS-Store.github.io) / [Zen Nebula](https://github.com/JustAdumbPrsn/Zen-Nebula) / [My Internet](https://github.com/sameerasw/my-internet) / [natsumi-browser](https://github.com/greeeen-dev/natsumi-browser) / [FlexFox](https://github.com/yuuqilin/FlexFox) | Custom firefox CSS themes
