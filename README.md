@@ -179,7 +179,7 @@
  - [Awesome Wallpapers](https://alexandrosliaskos.github.io/Awesome_Wallpapers/)
  - [nordic wallpapers](https://github.com/linuxdotexe/nordic-wallpapers)
  - [Collection 3](https://github.com/dharmx/walls) | [collection 4](https://github.com/h1Gio/Wallpapers)
- - [Collection 5](https://github.com/lordofhunger/wallpapers) | [Collection 6](https://github.com/DenverCoder1/minimalistic-wallpaper-collection) | [collection 7](https://github.com/D3Ext/aesthetic-wallpapers) | [collection 8](https://github.com/JoydeepMallick/Wallpapers) / [Collection 10](https://github.com/xZepyx/WallBank)
+ - [Collection 5](https://github.com/lordofhunger/wallpapers) |[collection 7](https://github.com/D3Ext/aesthetic-wallpapers) | [collection 8](https://github.com/JoydeepMallick/Wallpapers) / [Collection 10](https://github.com/xZepyx/WallBank)
  - [Collection 9](https://github.com/makccr/wallpapers)
 
 <p align="center"><a href="#top">Back to top</a>
