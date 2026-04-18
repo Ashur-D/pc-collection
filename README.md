@@ -97,11 +97,10 @@
 - [Loseless Cut](https://github.com/mifi/lossless-cut) / [Rise-Media-Player](https://github.com/Rise-Software/Rise-Media-Player) | Video cutting and media player
 - [ImageGlass](https://github.com/d2phap/ImageGlass) | Lightweight image viewer
 - [Tauon](https://github.com/Taiko2k/Tauon) / [Nora](https://github.com/Sandakan/Nora) | Music players
-- [ShareX](https://github.com/ShareX/ShareX) | Advanced screenshot and screen recording tool
 - [QuickLook](https://github.com/QL-Win/QuickLook) | Bring macOS “Quick Look” feature to Windows, supports tons of file types.
 - [Handbrake](https://github.com/HandBrake/HandBrake) | Convert video from nearly any format. Free and Open Source, Multi-Platform (Windows, Mac and Linux)
 - [Vert](https://github.com/VERT-sh/VERT) | All image, audio, and document processing is done on your device.
-- [ilovepdf](https://www.ilovepdf.com/) / [pdf-xchange](https://www.pdf-xchange.com/product/pdf-xchange-editor) / [Terrific Tools](https://www.terrific.tools/terrific-tools-desktop) | PDF-Converting tools / [BentoPDF](https://github.com/alam00000/bentopdf)
+- [ilovepdf](https://www.ilovepdf.com/) / [pdf-xchange](https://www.pdf-xchange.com/product/pdf-xchange-editor) / [Terrific Tools](https://www.terrific.tools/terrific-tools-desktop) / [BentoPDF](https://github.com/alam00000/bentopdf) PDF-Converting tools 
  
 
 ## 💿Misc
