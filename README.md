@@ -29,7 +29,7 @@
 
 # 🛠️ System tools 
 ## 🔧 Optimization Apps & Scripts
-- ❤️[WinUtil](https://github.com/ChrisTitusTech/winutil) / ❤️ [Winhance](https://github.com/memstechtips/Winhance) / [Win11Debloat](https://github.com/Raphire/Win11Debloat) / [Sophia-Script](https://github.com/farag2/Sophia-Script-for-Windows?tab=readme-ov-file#how-to-download) / [HellzergOptimizer](https://github.com/hellzerg/optimizer) / [CrapFixer](https://github.com/builtbybel/CrapFixer) / [ruru-opt](https://github.com/ruru-o/ruru-opt) / [Windows11Scripts](https://github.com/shoober420/windows11-scripts) / [win11debloat](https://github.com/Raphire/Win11Debloat)
+- ❤️[WinUtil](https://github.com/ChrisTitusTech/winutil) / ❤️ [Winhance](https://github.com/memstechtips/Winhance) / [Win11Debloat](https://github.com/Raphire/Win11Debloat) / [Sophia-Script](https://github.com/farag2/Sophia-Script-for-Windows?tab=readme-ov-file#how-to-download) / [HellzergNXT](https://github.com/hellzerg/optimizerNXT) / [CrapFixer](https://github.com/builtbybel/CrapFixer) / [win11debloat](https://github.com/Raphire/Win11Debloat) / ~~[ruru-opt](https://github.com/ruru-o/ruru-opt)~~
 - ❤️[Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US) / [Microsoft PC Manager](https://apps.microsoft.com/detail/9pm860492szd?hl=en-US&gl=US)  
 - ❤️[NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) / [DDU](https://www.wagnardsoft.com/display-driver-uninstaller-DDU-)  | Install and uninstall GPU drivers
 - ❤️[MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) | Free graphics card overclocking and monitoring utility
