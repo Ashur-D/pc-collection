@@ -57,7 +57,7 @@
 
 ## 📦 Software Installation & Management
 - [UniGetUI/WingetUI](https://github.com/marticliment/UniGetUI) | GUI frontend for Windows package manager
-- ❤️[Winstall](https://github.com/omaha-consulting/winstall) | Webapp for creating winget install scripts 
+- [Winstall](https://github.com/omaha-consulting/winstall) | Webapp for creating winget install scripts 
 - ❤️[Geek Uninstaller](https://geekuninstaller.com/) | Efficient, Fast, and Portable uninstaller
 - ❤️[BleachBit](https://www.bleachbit.org/) free cache, delete cookies, clear Internet history, shred temporary files and delete logs.
 
