@@ -114,12 +114,9 @@
 ## 📚 More helpful sources
 - ❤️[FMHY](https://fmhy.net/beginners-guide)
 - ❤️[Nirsoft](https://www.nirsoft.net/)
-- [AwesomeWindows11](https://github.com/awesome-windows11/windows11?tab=readme-ov-file)
 - [PC-Tuning](https://github.com/valleyofdoom/PC-Tuning)
 - [PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub)
 - [GamingPCSetup](https://github.com/djdallmann/GamingPCSetup)
-- [free-lunch](https://github.com/auctors/free-lunch)
-- [winning at windows](https://github.com/twonth/winning-at-windows)
 - [Windows 11 guides](https://github.com/mikeroyal/Windows-11-Guide)
 - [AwesomeWindows](https://github.com/0PandaDEV/awesome-windows)
 
