@@ -21,7 +21,7 @@
    - [🌐 Web Tools & Browsers](#-web-tools--browsers)
    - [🎥 Media Tools](#-media-tools)
    - [💿Misc](#misc)
-   - [📚 More helpful libraries](#-more-helpful-libraries)
+   - [📚 More helpful libraries](https://github.com/Ashur-D/pc-collection#-more-helpful-sources)
 - [🖌️Customization](#%EF%B8%8Fcustomization)
    - [⚒️ ️Customization Tools](#%EF%B8%8F-customization-tools)
    - [🎨 Popular Themes](#-popular-themes)
