@@ -166,6 +166,7 @@
     
 ### Wallpapers from repo's
 
+ - [bjarneo wallpapers](https://bjarneo.github.io/wallpapers/)
  - [Gurjaka's Nord-Wallpapers](https://github.com/Gurjaka/Nord-Wallpapers)
  - [walls-catppuccin-mocha](https://github.com/orangci/walls-catppuccin-mocha)
  - [Awesome Wallpapers](https://alexandrosliaskos.github.io/Awesome_Wallpapers/)
