@@ -29,7 +29,7 @@
 
 # 🛠️ System tools 
 ## 🔧 Optimization Apps & Scripts
-- ❤️[WinUtil](https://github.com/ChrisTitusTech/winutil) / ❤️ [Winhance](https://github.com/memstechtips/Winhance) / [Win11Debloat](https://github.com/Raphire/Win11Debloat) / [Sophia-Script](https://github.com/farag2/Sophia-Script-for-Windows?tab=readme-ov-file#how-to-download) / [FluentCleaner](https://github.com/builtbybel/FluentCleaner)
+- ❤️[WinUtil](https://github.com/ChrisTitusTech/winutil) / ❤️ [Winhance](https://github.com/memstechtips/Winhance) / [Win11Debloat](https://github.com/Raphire/Win11Debloat) / [Sophia-Script](https://github.com/farag2/Sophia-Script-for-Windows?tab=readme-ov-file#how-to-download)
 - ❤️[Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd?hl=en-US&gl=US) / [Microsoft PC Manager](https://apps.microsoft.com/detail/9pm860492szd?hl=en-US&gl=US)  
 - ❤️[NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) / [DDU](https://www.wagnardsoft.com/display-driver-uninstaller-DDU-)  | Install and uninstall GPU drivers
 - ❤️[MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) | Free graphics card overclocking and monitoring utility
@@ -39,7 +39,6 @@
 - [FanControl](https://github.com/Rem0o/FanControl.Releases) | Highly customizable fan controlling software for Windows. 
 - [Powertoys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity 
 - [Vcredist](https://github.com/abbodi1406/vcredist) | AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes
-- ~~[WinPower](https://github.com/Axorax/winpower) | Improved power settings for Windows~~
  
 ## 🧰 System Utilities & Monitoring
  - [HWmoniter](https://www.cpuid.com/softwares/hwmonitor.html) | Monitors temps/voltages across components
@@ -60,6 +59,7 @@
 - [Winstall](https://github.com/omaha-consulting/winstall) | Webapp for creating winget install scripts 
 - ❤️[Geek Uninstaller](https://geekuninstaller.com/) | Efficient, Fast, and Portable uninstaller
 - ❤️[BleachBit](https://www.bleachbit.org/) free cache, delete cookies, clear Internet history, shred temporary files and delete logs.
+- [FluentCleaner](https://github.com/builtbybel/FluentCleaner)
 
 
 ## 🔍 File, App & Search Utilities
