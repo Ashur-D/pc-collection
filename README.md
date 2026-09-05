@@ -61,7 +61,6 @@
 |---|---|---|
 | [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) | Monitors temps/voltages across components | ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows11&logoColor=white) |
 | [Glow](https://github.com/turkaysoftware/glow) | System analysis software | ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows11&logoColor=white) |
-| [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/downloads/) | Advanced system utilities from Microsoft | ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows11&logoColor=white) |
 | [GPU-Z](https://www.techpowerup.com/gpuz/) | Detailed GPU information | ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows11&logoColor=white) |
 | [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) | Detailed CPU information | ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows11&logoColor=white) |
 | [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) | SSD/HDD health and status monitoring | ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows11&logoColor=white) |
@@ -80,7 +79,6 @@
 | [gdu](https://github.com/dundee/gdu) | Fast interactive disk usage analyzer | ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows11&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 | [ncdu](https://dev.yorhel.nl/ncdu) | Classic ncurses disk analyzer | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 | [systemctl-tui](https://github.com/rgwood/systemctl-tui) | TUI for managing systemd services | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
-| [Stacer](https://github.com/oguzhaninan/Stacer) | Linux system optimizer & GUI monitor | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 
 ---
 
