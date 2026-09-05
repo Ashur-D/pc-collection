@@ -93,7 +93,6 @@
 | ❤️ [Geek Uninstaller](https://geekuninstaller.com/) | Efficient, fast, and portable uninstaller | ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows11&logoColor=white) |
 | ❤️ [BleachBit](https://www.bleachbit.org/) | Cache cleaner, history eraser, and temp file shredder | ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows11&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 | [FluentCleaner](https://github.com/builtbybel/FluentCleaner) | Fluent design system cleaner for Windows | ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows11&logoColor=white) |
-| [yay](https://github.com/Jguer/yay) | AUR helper for Arch Linux | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 
 ---
 
@@ -109,7 +108,6 @@
 | [lf](https://github.com/gokcehan/lf) | Terminal file manager | ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows11&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 | [nnn](https://github.com/jarun/nnn) | Minimal terminal file manager | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 | [Ranger](https://github.com/ranger/ranger) | Terminal file manager with VI key bindings | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
-| [Thunar](https://gitlab.xfce.org/xfce/thunar) | GTK graphical file manager | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 | [FlowLauncher](https://github.com/Flow-Launcher/Flow.Launcher) | App launcher and search utility | ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows11&logoColor=white) |
 | [Wox](https://github.com/Wox-launcher/Wox) | Plugin-based app launcher | ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows11&logoColor=white) |
 | [Ueli](https://github.com/oliverschwendener/ueli) | Keystroke launcher | ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows11&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
