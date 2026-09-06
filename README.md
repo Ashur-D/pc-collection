@@ -30,7 +30,7 @@
 - [Vcredist](https://github.com/abbodi1406/vcredist) | AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes
  
 ## 🧰 System Utilities & Monitoring
- - [HWmoniter](https://www.cpuid.com/softwares/hwmonitor.html) | Monitors temps/voltages across components
+ - [HWmonitor](https://www.cpuid.com/softwares/hwmonitor.html) | Monitors temps/voltages across components
  - [Glow](https://github.com/turkaysoftware/glow) | System Analysis Software 
  - [Sysinternals Utilities](https://learn.microsoft.com/en-us/sysinternals/downloads/) | Advanced system utilities from Microsoft
  - [GPU-Z](https://www.techpowerup.com/gpuz/) | [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) | Detailed CPU and GPU information
@@ -64,9 +64,8 @@
   
 
 ## 🌐 Web Tools & Browsers
--  ❤️[Zen](https://zen-browser.app/) / ❤️[Helium](https://github.com/imputnet/helium-chromiumhttps://github.com/imputnet/helium-chromium)  | Privacy focused browers based on firefox and chrome
+-  ❤️[Zen](https://zen-browser.app/) / ❤️[Helium](https://github.com/imputnet/helium-chromium)  | Privacy focused browers based on firefox and chrome
 - [Glance](https://github.com/glanceapp/glance) | Self-hosted dashboard for various feeds
-<!--- [Premid](https://premid.app/) | Adds Discord Rich Presence for websites-->
 - [Pastebin](https://pastebin.com/) / [PrivateBin](https://github.com/PrivateBin/PrivateBin) / [MicroBin](https://github.com/szabodanika/microbin) / [WasteBin](https://github.com/matze/wastebin) / [chiyogami](https://github.com/rhee876527/chiyogami) / [SnowBin](https://github.com/taskyland/snowbin) | Text storage sites where you can store plain text aswell as share.
 
 
@@ -74,7 +73,7 @@
 ## 🎥 Media Tools
 - [DavinciResolve](https://www.blackmagicdesign.com/ca/products/davinciresolve) | Professional-grade video editor with advanced color grading, VFX, and audio tools
 - [Obs](https://obsproject.com/) | Free, open-source tool for screen recording and live streaming
-- [Loseless Cut](https://github.com/mifi/lossless-cut) 
+- [LoselessCut](https://github.com/mifi/lossless-cut) 
 - [ImageGlass](https://github.com/d2phap/ImageGlass) | Lightweight image viewer
 - [Tauon](https://github.com/Taiko2k/Tauon) | Music player
 - [QuickLook](https://github.com/QL-Win/QuickLook) | Bring macOS “Quick Look” feature to Windows, supports tons of file types.
@@ -111,7 +110,7 @@
 - [Starship](https://github.com/starship/starship)
 - [FastFetch](https://github.com/fastfetch-cli/fastfetch)
 - [GlazeWM](https://github.com/glzr-io/glazewm?tab=readme-ov-file) / [komorebi](https://github.com/LGUG2Z/komorebi)
-- [Zebar](https://github.com/glzr-io/zebar) / [yasb](https://github.com/amnweb/yasb) / [SeleenUI](https://github.com/eythaann/Seelen-UI)
+- [yasb](https://github.com/amnweb/yasb) / [Seelen-UI](https://github.com/eythaann/Seelen-UI)
 - [TackyBorders](https://github.com/lukeyou05/tacky-borders)
 - [Matugen](https://github.com/InioX/matugen)
 - [Cedro Modern Dock](https://github.com/arthurdeka/cedro-modern-dock)
