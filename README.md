@@ -146,9 +146,10 @@
 ### Wallpapers from repo's
 
  - [bjarneo wallpapers](https://bjarneo.github.io/wallpapers/)
- <!--- [Gurjaka's Nord-Wallpapers](https://github.com/Gurjaka/Nord-Wallpapers)-->
  - [Awesome Wallpapers](https://alexandrosliaskos.github.io/Awesome_Wallpapers/)
- <!--- [nordic wallpapers](https://github.com/linuxdotexe/nordic-wallpapers)-->
  - [Collection 1](https://github.com/dharmx/walls) | [collection 2](https://github.com/h1Gio/Wallpapers) | [Collection 3](https://github.com/lordofhunger/wallpapers) | [collection 4](https://github.com/D3Ext/aesthetic-wallpapers) | [collection 5](https://github.com/JoydeepMallick/Wallpapers) | [Collection 6](https://github.com/xZepyx/WallBank) | [Collection 7](https://github.com/makccr/wallpapers) | [Collection 8](https://github.com/JaKooLit/Wallpaper-Bank) 
 
 <p align="center"><a href="#top">Back to top</a>
+
+ <!--- [Gurjaka's Nord-Wallpapers](https://github.com/Gurjaka/Nord-Wallpapers)-->
+ <!--- [nordic wallpapers](https://github.com/linuxdotexe/nordic-wallpapers)-->
