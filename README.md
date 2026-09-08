@@ -138,9 +138,8 @@
 
  ### wallpaper websites
 
-  - ❤️[My Wallpaper Engine](https://steamcommunity.com/profiles/76561198824218763/myworkshopfiles/?appid=431960&sort=score&browsefilter=myfavorites&view=imagewall)
+  - ❤️[My Wallpaper Engine collection](https://steamcommunity.com/profiles/76561198824218763/myworkshopfiles/?appid=431960&sort=score&browsefilter=myfavorites&view=imagewall) / [My wallpaper repo](https://github.com/Ashur-D/wallpapers)
   - ❤️[Wallpaper Engine website](https://www.wallpaperengine.space/)
-  - ❤️[Quick wallpapers](https://github.com/Ashur-D/wallpapers)
   - [Wallsync](https://github.com/leroiduflow/WallSync) ( this repo has basically every wallpaper site/collection )
 
     
