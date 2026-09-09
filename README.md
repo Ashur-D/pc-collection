@@ -82,6 +82,25 @@
 - [Vert](https://github.com/VERT-sh/VERT) / [Terrific Tools](https://www.terrific.tools/terrific-tools-desktop) | All image, audio, and document processing is done on your device.
 - [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) / [pdf-xchange](https://www.pdf-xchange.com/product/pdf-xchange-editor) / [BentoPDF](https://github.com/alam00000/bentopdf) PDF-Converting tools 
 - [MinerU](https://github.com/opendatalab/MinerU) / [Markitdown](https://github.com/microsoft/markitdown) | Convert PDF's and office files to Markdown.
+
+
+## 🌐 Network Analysis & Engineering Tools
+
+### 🔍 Analysis, Discovery & Traffic
+- [Wireshark](https://www.wireshark.org/) / [Termshark](https://github.com/gcla/termshark) | Packet analyzer (GUI & TUI).
+- [Nmap](https://nmap.org/) / [RustScan](https://github.com/RustScan/RustScan) | Network discovery and ultra-fast port scanning.
+- [Trippy](https://github.com/fujiapple852/trippy) | Visual traceroute and path analyzer.
+- [Bandwhich](https://github.com/imsnif/bandwhich) | Real-time bandwidth usage per process and IP.
+- [Gping](https://github.com/orf/gping) | Graphical ping with terminal graphs.
+- [Doggo](https://github.com/mr-karan/doggo) | Modern DNS client with DoH / DoT support.
+- [iPerf3](https://iperf.fr/) | Network throughput and latency testing.
+
+### 🧪 Labs, Automation & Infrastructure
+- [GNS3](https://www.gns3.com/) / [Containerlab](https://containerlab.dev/) | Multi-vendor network topology simulators.
+- [NetBox](https://github.com/netbox-community/netbox) | Source of Truth for IPAM and DCIM.
+- [Scapy](https://github.com/secdev/scapy) | Python packet manipulation and crafting library.
+- [Bruno](https://github.com/usebruno) / [Mitmproxy](https://mitmproxy.org/) | Offline API client and intercepting proxy for REST/RESTCONF.
+- [MobaXterm](https://mobaxterm.mobatek.net/) / [Tabby](https://github.com/Eugeny/tabby) | Enhanced terminal with Serial/COM port and SSH management.
  
 
 ## 💿Misc
