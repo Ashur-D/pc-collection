@@ -160,13 +160,8 @@
   - ❤️[My Wallpaper Engine collection](https://steamcommunity.com/profiles/76561198824218763/myworkshopfiles/?appid=431960&sort=score&browsefilter=myfavorites&view=imagewall) / [My wallpaper repo](https://github.com/Ashur-D/wallpapers)
   - ❤️[Wallpaper Engine website](https://www.wallpaperengine.space/)
   - [Wallsync](https://github.com/leroiduflow/WallSync) ( this repo has basically every wallpaper site/collection )
-
-    
-### Wallpapers from repo's
-
- - [bjarneo wallpapers](https://bjarneo.github.io/wallpapers/)
- - [Awesome Wallpapers](https://alexandrosliaskos.github.io/Awesome_Wallpapers/)
- - [Collection 1](https://github.com/dharmx/walls)
+  - [Awesome Wallpapers](https://alexandrosliaskos.github.io/Awesome_Wallpapers/)
+  - [bjarneo wallpapers](https://bjarneo.github.io/wallpapers/)
 
 <p align="center"><a href="#top">Back to top</a>
 
