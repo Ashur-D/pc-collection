@@ -166,7 +166,7 @@
 
  - [bjarneo wallpapers](https://bjarneo.github.io/wallpapers/)
  - [Awesome Wallpapers](https://alexandrosliaskos.github.io/Awesome_Wallpapers/)
- - [Collection 1](https://github.com/dharmx/walls) | [collection 2](https://github.com/h1Gio/Wallpapers) | [Collection 6](https://github.com/xZepyx/WallBank)
+ - [Collection 1](https://github.com/dharmx/walls) | [collection 2](https://github.com/h1Gio/Wallpapers) |
 
 <p align="center"><a href="#top">Back to top</a>
 
