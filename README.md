@@ -94,6 +94,7 @@
 - [Gping](https://github.com/orf/gping) | Graphical ping with terminal graphs.
 - [Doggo](https://github.com/mr-karan/doggo) | Modern DNS client with DoH / DoT support.
 - [iPerf3](https://iperf.fr/) | Network throughput and latency testing.
+- [Sniffnet](https://github.com/GyulyVGC/sniffnet) | Comfortably monitor your network traffic
 
 ### 🧪 Labs, Automation & Infrastructure
 - [GNS3](https://www.gns3.com/) / [Containerlab](https://containerlab.dev/) | Multi-vendor network topology simulators.
