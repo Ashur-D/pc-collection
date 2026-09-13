@@ -9,6 +9,7 @@
    - [🔍 File, App & Search Utilities](#-file-app--search-utilities)
    - [🌐 Web Tools & Browsers](#-web-tools--browsers)
    - [🎥 Media Tools](#-media-tools)
+   - [🌐 Networking](https://github.com/Ashur-D/pc-collection/edit/main/README.md#-network-analysis--engineering-tools)
    - [💿Misc](#misc)
    - [📚 More helpful libraries](https://github.com/Ashur-D/pc-collection#-more-helpful-sources)
 - [🖌️Customization](#%EF%B8%8Fcustomization)
