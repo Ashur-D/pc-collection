@@ -88,8 +88,8 @@
 ## 🌐 Network Analysis & Engineering Tools
 
 ### 🔍 Analysis, Discovery & Traffic
-- [Wireshark](https://www.wireshark.org/) / [Termshark](https://github.com/gcla/termshark) | Packet analyzer (GUI & TUI).
-- [Nmap](https://nmap.org/) / [RustScan](https://github.com/RustScan/RustScan) | Network discovery and ultra-fast port scanning.
+- [Wireshark](https://www.wireshark.org/) / [Termshark](https://github.com/gcla/termshark)| Packet analyzer (GUI & TUI).
+- [Nmap](https://nmap.org/) / [RustScan](https://github.com/RustScan/RustScan) / [Massscan](https://github.com/robertdavidgraham/masscan)| Network discovery and ultra-fast port scanning.
 - [Trippy](https://github.com/fujiapple852/trippy) | Visual traceroute and path analyzer.
 - [Bandwhich](https://github.com/imsnif/bandwhich) | Real-time bandwidth usage per process and IP.
 - [Gping](https://github.com/orf/gping) | Graphical ping with terminal graphs.
