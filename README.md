@@ -141,7 +141,7 @@
 - [BeatPrints](https://github.com/TrueMyst/BeatPrints)
 - [ImageGoNord](https://github.com/Schroedinger-Hat/ImageGoNord-Web) / [GoWall](https://github.com/Achno/gowall) / [palettum](https://github.com/arrowpc/palettum) / [lutgen](https://github.com/ozwaldorf/lutgen-rs)
 - [Color-manager](https://github.com/NicklasVraa/Color-manager) 
- - [Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) / [CelesteGRUB](https://github.com/suilven641/CelesteGRUB) / [BloodborneGRUB](https://github.com/NeiKa0s496/Bloodborne-GRUB) / [HollowKnightGRUB](https://github.com/sergoncano/hollow-knight-grub-theme) / [Persona 5 GRUB](https://github.com/SiriusAhu/Persona_5_Royal_Grub_Themes) | Custom Grub themes
+ - [Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) / [CelesteGRUB](https://github.com/suilven641/CelesteGRUB) / [BloodborneGRUB](https://github.com/NeiKa0s496/Bloodborne-GRUB) / [HollowKnightGRUB](https://github.com/sergoncano/hollow-knight-grub-theme) / [Persona 5 GRUB](https://github.com/SiriusAhu/Persona_5_Royal_Grub_Themes) / [YoRHa SDDM](https://github.com/NeekoKun/YoRHa-sddm-theme) | Custom Grub themes
 
 
 ## 🎨 Popular Themes
