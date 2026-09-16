@@ -83,6 +83,7 @@
 - [Vert](https://github.com/VERT-sh/VERT) / [Terrific Tools](https://www.terrific.tools/terrific-tools-desktop) | All image, audio, and document processing is done on your device.
 - [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) / [pdf-xchange](https://www.pdf-xchange.com/product/pdf-xchange-editor) / [BentoPDF](https://github.com/alam00000/bentopdf) PDF-Converting tools 
 - [MinerU](https://github.com/opendatalab/MinerU) / [Markitdown](https://github.com/microsoft/markitdown) | Convert PDF's and office files to Markdown.
+- [Docklin](https://github.com/docling-project/docling) / [Marker](https://github.com/datalab-to/marker) | Convert media for easy reading for LLM's
 
 
 ## 🌐 Network Analysis & Engineering Tools
