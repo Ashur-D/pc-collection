@@ -40,7 +40,6 @@
  - [DNS Benchmark](https://www.grc.com/dns/benchmark.htm) | Test and compare DNS servers
  - [intel driver support](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html) | Intel hardware driver tool
  - [Snappy Driver installer Origin](https://www.snappy-driver-installer.org/) | Portable Driver Installation and Update Tool
- - [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) | Advanced network configuration and diagnostics
  - [MSI center](https://www.msi.com/Landing/MSI-Center) | Used to control hardware-specific features like GPU fan behavior
  - ❤️[Twinkle-Tray](https://github.com/xanderfrangos/twinkle-tray) / [Monitorian](https://github.com/emoacht/Monitorian) |  manage the brightness of your monitors and other features
  - ❤️ [Ventoy](https://www.ventoy.net/en/index.html) / [MultiOS-USB](https://github.com/Mexit/MultiOS-USB) / [Rufus](https://rufus.ie/en/) / [balenaEtcher](https://etcher.balena.io/) |  Turn USB drives into bootable installers for operating systems.
@@ -97,6 +96,7 @@
 - [Doggo](https://github.com/mr-karan/doggo) | Modern DNS client with DoH / DoT support.
 - [iPerf3](https://iperf.fr/) | Network throughput and latency testing.
 - [Sniffnet](https://github.com/GyulyVGC/sniffnet) | Comfortably monitor your network traffic
+- [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) | Advanced network configuration and diagnostics
 
 ### 🧪 Labs, Automation & Infrastructure
 - [GNS3](https://www.gns3.com/) / [Containerlab](https://containerlab.dev/) | Multi-vendor network topology simulators.
