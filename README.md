@@ -105,6 +105,7 @@
 - [Bruno](https://github.com/usebruno) / [Mitmproxy](https://mitmproxy.org/) | Offline API client and intercepting proxy for REST/RESTCONF.
 - [MobaXterm](https://mobaxterm.mobatek.net/) / [Tabby](https://github.com/Eugeny/tabby) | Enhanced terminal with Serial/COM port and SSH management.
 - [scanopy](https://github.com/scanopy/scanopy) | Network diagrams that update themselves
+- [Switchlab](https://switchlab.dev/)
  
 
 ## 💿Misc
