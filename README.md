@@ -9,7 +9,6 @@
    - [🔍 File, App & Search Utilities](#-file-app--search-utilities)
    - [🌐 Web Tools & Browsers](#-web-tools--browsers)
    - [🎥 Media Tools](#-media-tools)
-   - [🌐 Networking](#-network-analysis--engineering-tools)
    - [💿Misc](#misc)
    - [📚 More helpful libraries](#-more-helpful-sources)
 - [🖌️Customization](#%EF%B8%8Fcustomization)
