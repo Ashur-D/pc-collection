@@ -63,23 +63,30 @@
 - ❤️[Zed](https://zed.dev/) | Next-generation code editor for high-performance collaboration with humans and AI.
 
 ## 🤖 Agentic Development Environments (ADEs) & Orchestrators
+### 🖥️ Desktop Worktree Workspaces & ADEs
 - [T3 Code](https://t3.codes/) | Open-source control plane for coding agents (Claude Code, Codex, Antigravity, OpenCode, Cursor) with worktrees and remote control
 - [Paseo](https://paseo.sh/) | Agentic development environment to orchestrate and run agents locally or remotely across desktop, mobile, and web
 - [Superset](https://superset.sh/) | Multi-agent workspace to launch, run, and review dozens of parallel agents across git worktrees
 - [Emdash](https://emdash.com/) | Open-source ADE with parallel worktrees, issue sync (Linear, Jira, GitHub), built-in browser, and MCP tools
-- [Zeron](https://zeron.sh/) | Open-source workspace to control, view, and review coding agent sessions across multiple machines
-- [bb](https://getbb.app/) | The agentic IDE that builds itself; self-extensible agent orchestrator GUI with mobile and remote support
-- [Synara](https://www.trysynara.com/) | Local-first AI coding workspace command center for parallel Claude Code, Codex, and Cursor work
-- [MonoCode](https://www.usemono.dev/) | Clean desktop GUI orchestrator for multiple coding agent runtimes
-- [Traycer](https://traycer.ai/) | Spec-driven agent orchestration workspace with shared memory and agent-to-agent communication
-- [Cloudroom](https://www.cloudroom.dev/) | Cloud ADE running agents in isolated, persistent micro-VM sandboxes
-- [Tern](https://stencil.so/tern) | Fast Rust neoterminal workspace built for agents and human-agent interaction via the Tern Surface Protocol
-- [Herdr](https://herdr.dev/) | Headless agent runtime and session multiplexer to keep CLI agents running persistently across machines
 - [Conductor](https://www.conductor.build/) | Mac-native parallel workspace running Claude Code, Codex, and Cursor in isolated worktrees
-- [Dispatcher](https://www.getdispatcher.dev/) | Desktop command center for managing 12+ agent CLIs, task specs, worktrees, and PR workflows
 - [Pane](https://runpane.com/) | Keyboard-first, open-source multi-agent manager with native git worktrees for Windows, Linux, and macOS
 - [Orca](https://www.onorca.dev/) | Agent IDE with parallel worktree environments, browser previews, and mobile companion app
+- [Synara](https://www.trysynara.com/) | Local-first AI coding workspace command center for parallel Claude Code, Codex, and Cursor work
+- [bb](https://getbb.app/) | The agentic IDE that builds itself; self-extensible agent orchestrator GUI with mobile and remote support
 - [AIDEN](https://aidenapp.org/) | Desktop ADE with spec-approval gates and parallel git worktrees for Claude Code and Codex
+- [MonoCode](https://www.usemono.dev/) | Clean desktop GUI orchestrator for multiple coding agent runtimes
+
+### 📋 Spec-Driven & Multi-Agent Planning
+- [Traycer](https://traycer.ai/) | Spec-driven agent orchestration workspace with shared memory and agent-to-agent communication
+- [Dispatcher](https://www.getdispatcher.dev/) | Desktop command center for managing 12+ agent CLIs, task specs, worktrees, and PR workflows
+
+### ⌨️ Terminal-First & Agent Runtimes
+- [Tern](https://stencil.so/tern) | Fast Rust neoterminal workspace built for agents and human-agent interaction via the Tern Surface Protocol
+- [Herdr](https://herdr.dev/) | Headless agent runtime and session multiplexer to keep CLI agents running persistently across machines
+- [Zeron](https://zeron.sh/) | Open-source workspace to control, view, and review coding agent sessions across multiple machines
+
+### ☁️ Cloud Sandboxes & Remote Environments
+- [Cloudroom](https://www.cloudroom.dev/) | Cloud ADE running agents in isolated, persistent micro-VM sandboxes
 - [OpenHands](https://www.openhands.dev/) | Open-source agent control center running autonomous coding agents across local and cloud sandboxes
 
 ## 🌐 Web Tools & Browsers
