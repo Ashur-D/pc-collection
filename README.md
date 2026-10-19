@@ -75,6 +75,7 @@
 - [bb](https://getbb.app/) | The agentic IDE that builds itself; self-extensible agent orchestrator GUI with mobile and remote support
 - [AIDEN](https://aidenapp.org/) | Desktop ADE with spec-approval gates and parallel git worktrees for Claude Code and Codex
 - [MonoCode](https://www.usemono.dev/) | Clean desktop GUI orchestrator for multiple coding agent runtimes
+- [Zeron](https://zeron.sh/) | Open-source workspace to control, view, and review coding agent sessions across multiple machines
 
 ### 📋 Spec-Driven & Multi-Agent Planning
 - [Traycer](https://traycer.ai/) | Spec-driven agent orchestration workspace with shared memory and agent-to-agent communication
@@ -83,7 +84,7 @@
 ### ⌨️ Terminal-First & Agent Runtimes
 - [Tern](https://stencil.so/tern) | Fast Rust neoterminal workspace built for agents and human-agent interaction via the Tern Surface Protocol
 - [Herdr](https://herdr.dev/) | Headless agent runtime and session multiplexer to keep CLI agents running persistently across machines
-- [Zeron](https://zeron.sh/) | Open-source workspace to control, view, and review coding agent sessions across multiple machines
+- [Craig](https://github.com/hallsamuel90/craig) | Agent-agnostic orchestrator TUI giving tasks Git worktrees and live PTY terminal panes
 
 ### ☁️ Cloud Sandboxes & Remote Environments
 - [Cloudroom](https://www.cloudroom.dev/) | Cloud ADE running agents in isolated, persistent micro-VM sandboxes
