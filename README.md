@@ -67,7 +67,7 @@
 - [Emdash](https://emdash.com/) / [Pane](https://runpane.com/) / [Orca](https://www.onorca.dev/) / [Termic](https://github.com/simion/termic) | Desktop ADEs running parallel agents in isolated git worktrees
 - [Synara](https://www.trysynara.com/) / [MonoCode](https://www.usemono.dev/) / [Traycer](https://traycer.ai/) | Local agent command centers, multi-runtime GUIs, and spec-driven planning
 - [Claude Squad](https://github.com/smtg-ai/claude-squad) / [Craig](https://github.com/hallsamuel90/craig) / [agent-deck](https://github.com/asheshgoplani/agent-deck) / [ccmanager](https://github.com/kbwo/ccmanager) / [Herdr](https://herdr.dev/) / [Tern](https://stencil.so/tern) | Terminal-first orchestrators, TUIs, and persistent runtimes for CLI agents
-- [Gas Town](https://github.com/gastownhall/gastown) / [Vibe Kanban](https://github.com/BloopAI/vibe-kanban) / [Cloudroom](https://www.cloudroom.dev/) / [OpenHands](https://www.openhands.dev/) | Web/Kanban task boards and isolated cloud sandbox runtimes
+- [Gas Town](https://github.com/gastownhall/gastown) / [Cloudroom](https://www.cloudroom.dev/) / [OpenHands](https://www.openhands.dev/) | Web workspace managers and isolated cloud sandbox runtimes
 
 ## 🌐 Web Tools & Browsers
 -  ❤️[Zen](https://zen-browser.app/) / ❤️[Helium](https://github.com/imputnet/helium-chromium)  | Privacy focused browers based on firefox and chrome
