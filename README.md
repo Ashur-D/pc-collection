@@ -63,12 +63,11 @@
 - ❤️[Zed](https://zed.dev/) | Next-generation code editor for high-performance collaboration with humans and AI.
 
 ## 🤖 Agentic Development Environments (ADEs) & Orchestrators
-- [T3 Code](https://t3.codes/) / [Paseo](https://paseo.sh/) / [Zeron](https://zeron.sh/) / [bb](https://getbb.app/) | Agent control planes to run and monitor coding agents across desktop, web, and mobile
-- [Superset](https://superset.sh/) / [Emdash](https://emdash.com/) / [Conductor](https://www.conductor.build/) / [Pane](https://runpane.com/) / [Orca](https://www.onorca.dev/) / [AIDEN](https://aidenapp.org/) | Multi-agent workspaces running parallel tasks in isolated git worktrees
-- [Synara](https://www.trysynara.com/) / [MonoCode](https://www.usemono.dev/) | Local desktop command centers for managing agent CLIs side-by-side
-- [Traycer](https://traycer.ai/) / [Dispatcher](https://www.getdispatcher.dev/) | Spec-first agent orchestrators with task planning and multi-agent coordination
-- [Tern](https://stencil.so/tern) / [Craig](https://github.com/hallsamuel90/craig) / [Herdr](https://herdr.dev/) | Terminal workspaces, TUIs, and persistent runtimes for CLI coding agents
-- [Cloudroom](https://www.cloudroom.dev/) / [OpenHands](https://www.openhands.dev/) | Run coding agents in isolated cloud micro-VM sandboxes
+- [T3 Code](https://t3.codes/) / [Paseo](https://paseo.sh/) / [Zeron](https://zeron.sh/) / [bb](https://getbb.app/) / [Happy](https://github.com/slopus/happy) | Agent control planes and remote interfaces across desktop, mobile, and web
+- [Emdash](https://emdash.com/) / [Pane](https://runpane.com/) / [Orca](https://www.onorca.dev/) / [Aperant](https://github.com/AndyMik90/Aperant) | Desktop ADEs running parallel agents in isolated git worktrees
+- [Synara](https://www.trysynara.com/) / [MonoCode](https://www.usemono.dev/) / [Traycer](https://traycer.ai/) | Local agent command centers, multi-runtime GUIs, and spec-driven planning
+- [Claude Squad](https://github.com/smtg-ai/claude-squad) / [Craig](https://github.com/hallsamuel90/craig) / [agent-deck](https://github.com/asheshgoplani/agent-deck) / [Herdr](https://herdr.dev/) / [Tern](https://stencil.so/tern) | Terminal-first orchestrators, TUIs, and persistent runtimes for CLI agents
+- [Vibe Kanban](https://github.com/BloopAI/vibe-kanban) / [Cloudroom](https://www.cloudroom.dev/) / [OpenHands](https://www.openhands.dev/) | Web/Kanban task boards and isolated cloud sandbox runtimes
 
 ## 🌐 Web Tools & Browsers
 -  ❤️[Zen](https://zen-browser.app/) / ❤️[Helium](https://github.com/imputnet/helium-chromium)  | Privacy focused browers based on firefox and chrome
