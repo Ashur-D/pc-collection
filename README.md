@@ -37,11 +37,11 @@
  - [GPU-Z](https://www.techpowerup.com/gpuz/) | [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) | Detailed CPU and GPU information
  - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) | SSD/HDD health and status monitoring
  - [DNS Benchmark](https://www.grc.com/dns/benchmark.htm) | Test and compare DNS servers
- <!--- [intel driver support](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html) | Intel hardware driver tool-->
  - [Snappy Driver installer Origin](https://www.snappy-driver-installer.org/) | Portable Driver Installation and Update Tool
- <!--- [MSI center](https://www.msi.com/Landing/MSI-Center) | Used to control hardware-specific features like GPU fan behavior-->
  - ❤️[Twinkle-Tray](https://github.com/xanderfrangos/twinkle-tray) / [Monitorian](https://github.com/emoacht/Monitorian) |  manage the brightness of your monitors and other features
  - ❤️ [Ventoy](https://www.ventoy.net/en/index.html) / [MultiOS-USB](https://github.com/Mexit/MultiOS-USB) / [Rufus](https://rufus.ie/en/) / [balenaEtcher](https://etcher.balena.io/) |  Turn USB drives into bootable installers for operating systems.
+ <!--- [intel driver support](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html) | Intel hardware driver tool-->
+ <!--- [MSI center](https://www.msi.com/Landing/MSI-Center) | Used to control hardware-specific features like GPU fan behavior-->
 
 ## 📦 Software Installation & Management
 - [UniGetUI/WingetUI](https://github.com/marticliment/UniGetUI) | GUI frontend for Windows package manager
