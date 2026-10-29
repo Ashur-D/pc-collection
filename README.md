@@ -99,18 +99,28 @@
 - [Pastebin](https://pastebin.com/) / [PrivateBin](https://github.com/PrivateBin/PrivateBin) / [MicroBin](https://github.com/szabodanika/microbin) / [WasteBin](https://github.com/matze/wastebin) / [chiyogami](https://github.com/rhee876527/chiyogami) / [SnowBin](https://github.com/taskyland/snowbin) | Text storage sites where you can store plain text aswell as share.
 
 
-## 🎥 Media Tools
-- [DavinciResolve](https://www.blackmagicdesign.com/ca/products/davinciresolve) | Professional-grade video editor with advanced color grading, VFX, and audio tools
-- [Obs](https://obsproject.com/) | Free, open-source tool for screen recording and live streaming
-- [LoselessCut](https://github.com/mifi/lossless-cut) 
-- [ImageGlass](https://github.com/d2phap/ImageGlass) | Lightweight image viewer
-- [Tauon](https://github.com/Taiko2k/Tauon) | Music player
-- [QuickLook](https://github.com/QL-Win/QuickLook) | Bring macOS “Quick Look” feature to Windows, supports tons of file types.
-- [Handbrake](https://github.com/HandBrake/HandBrake) | Convert video from nearly any format. Free and Open Source, Multi-Platform (Windows, Mac and Linux)
-- [Vert](https://github.com/VERT-sh/VERT) / [Terrific Tools](https://www.terrific.tools/terrific-tools-desktop) | All image, audio, and document processing is done on your device.
-- [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) / [pdf-xchange](https://www.pdf-xchange.com/product/pdf-xchange-editor) / [BentoPDF](https://github.com/alam00000/bentopdf) PDF-Converting tools 
-- [MinerU](https://github.com/opendatalab/MinerU) / [Markitdown](https://github.com/microsoft/markitdown) | Convert PDF's and office files to Markdown.
-- [Docklin](https://github.com/docling-project/docling) / [Marker](https://github.com/datalab-to/marker) / [LiteParse](https://github.com/run-llama/liteparse)| Convert media for easy reading for LLM's 
+## 🎥 Media & Document Tools
+
+### 🎬 Video & Audio Production
+* [DaVinci Resolve](https://www.blackmagicdesign.com/ca/products/davinciresolve) — Industry-standard non-linear editor, color grader, and audio post-production suite.
+* [OBS Studio](https://obsproject.com/) — Open-source screen recording, composition, and live streaming software.
+* [LosslessCut](https://github.com/mifi/lossless-cut) — Instant, zero-reencode cutting and trimming of video/audio files via FFmpeg.
+* [HandBrake](https://github.com/HandBrake/HandBrake) — Multi-platform batch video transcoder and compressor.
+* [Tauon Music Box](https://github.com/Taiko2k/Tauon) — Clean, modern desktop music player built for local audio collections.
+
+### 🖼️ Viewers & File Previews
+* [QuickLook](https://github.com/QL-Win/QuickLook) — Brings macOS-style Spacebar file previews to Windows Explorer.
+* [qView](https://interversehq.com/qview/) / [ImageGlass](https://github.com/d2phap/ImageGlass) — Fast, minimal image viewers with wide format support.
+
+### 📄 PDF & Document Processing
+* [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) — Robust, locally hosted web suite to edit, split, OCR, and convert PDFs.
+* [PDF-XChange Editor](https://www.pdf-xchange.com/product/pdf-xchange-editor) — Responsive desktop PDF reader with advanced markup and OCR tools.
+* [Vert](https://github.com/VERT-sh/VERT) / [Terrific Tools](https://www.terrific.tools/terrific-tools-desktop) — Zero-upload, local in-browser document and media converters.
+
+### 🧠 LLM Document Extraction & Parsers
+* [Docling](https://github.com/docling-project/docling) — Advanced layout analysis parser converting complex PDFs, scans, and tables into Markdown for LLMs.
+* [MarkItDown](https://github.com/microsoft/markitdown) — Microsoft utility for converting Office files, audio metadata, and PDFs into clean Markdown.
+* [MinerU](https://github.com/opendatalab/MinerU) — Deep-learning parser optimized for academic papers with dense equations and formulas.
 
 ## 💿Misc
  - [Soundcloud-rpc](https://github.com/richardhbtz/soundcloud-rpc) / [Bettersoundcloud](https://github.com/AlirezaKJ/BetterSoundCloud)
