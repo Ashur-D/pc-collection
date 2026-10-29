@@ -1,5 +1,4 @@
 # 🌐 Quick Navigation
-🛜Network tweaks for windows can be found here: [link](https://github.com/Ashur-D/Windows11-Collection-Guide/tree/test/NetworkTweaks)
 
 - [🛠️ System tools](#%EF%B8%8F-system-tools)
    - [🔧 Optimization Apps & Scripts](#-optimization-apps--scripts)
@@ -32,15 +31,15 @@
 
  
 ## 🧰 System Utilities & Monitoring
- - [HWmonitor](https://www.cpuid.com/softwares/hwmonitor.html) | Monitors temps/voltages across components
+ - [HWiNFO64](https://www.hwinfo.com/download/) | Monitors temps/voltages across components
  - [Glow](https://github.com/turkaysoftware/glow) | System Analysis Software 
  - [Sysinternals Utilities](https://learn.microsoft.com/en-us/sysinternals/downloads/) | Advanced system utilities from Microsoft
  - [GPU-Z](https://www.techpowerup.com/gpuz/) | [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) | Detailed CPU and GPU information
  - [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) | SSD/HDD health and status monitoring
  - [DNS Benchmark](https://www.grc.com/dns/benchmark.htm) | Test and compare DNS servers
- - [intel driver support](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html) | Intel hardware driver tool
+ <!--- [intel driver support](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html) | Intel hardware driver tool-->
  - [Snappy Driver installer Origin](https://www.snappy-driver-installer.org/) | Portable Driver Installation and Update Tool
- - [MSI center](https://www.msi.com/Landing/MSI-Center) | Used to control hardware-specific features like GPU fan behavior
+ <!--- [MSI center](https://www.msi.com/Landing/MSI-Center) | Used to control hardware-specific features like GPU fan behavior-->
  - ❤️[Twinkle-Tray](https://github.com/xanderfrangos/twinkle-tray) / [Monitorian](https://github.com/emoacht/Monitorian) |  manage the brightness of your monitors and other features
  - ❤️ [Ventoy](https://www.ventoy.net/en/index.html) / [MultiOS-USB](https://github.com/Mexit/MultiOS-USB) / [Rufus](https://rufus.ie/en/) / [balenaEtcher](https://etcher.balena.io/) |  Turn USB drives into bootable installers for operating systems.
 
@@ -63,17 +62,41 @@
 - ❤️[Zed](https://zed.dev/) | Next-generation code editor for high-performance collaboration with humans and AI.
 
 ## 🤖 Agentic Development Environments (ADEs) & Orchestrators
-- [T3 Code](https://t3.codes/) / [Paseo](https://paseo.sh/) / [Zeron](https://zeron.sh/) / [bb](https://getbb.app/) / [Happy](https://github.com/slopus/happy) | Agent control planes and remote interfaces across desktop, mobile, and web
-- [Emdash](https://emdash.com/) / [Pane](https://runpane.com/) / [Orca](https://www.onorca.dev/) / [Termic](https://github.com/simion/termic) | Desktop ADEs running parallel agents in isolated git worktrees
-- [Synara](https://www.trysynara.com/) / [MonoCode](https://www.usemono.dev/) / [Traycer](https://traycer.ai/) | Local agent command centers, multi-runtime GUIs, and spec-driven planning
-- [Claude Squad](https://github.com/smtg-ai/claude-squad) / [Craig](https://github.com/hallsamuel90/craig) / [agent-deck](https://github.com/asheshgoplani/agent-deck) / [ccmanager](https://github.com/kbwo/ccmanager) / [Herdr](https://herdr.dev/) / [Tern](https://stencil.so/tern) | Terminal-first orchestrators, TUIs, and persistent runtimes for CLI agents
-- [Gas Town](https://github.com/gastownhall/gastown) / [Cloudroom](https://www.cloudroom.dev/) / [OpenHands](https://www.openhands.dev/) | Web workspace managers and isolated cloud sandbox runtimes
+
+### 🖥️ Desktop ADEs & Worktree Workspaces
+  *Environments that run parallel coding agents inside isolated Git worktrees and native IDE canvases.*
+  * [Emdash](https://emdash.com/) — Multi-agent desktop GUI running autonomous workflows in parallel Git worktrees.
+  * [Pane](https://runpane.com/) — Native multi-agent canvas designed for rapid UI and full-stack iterations.
+  * [Orca](https://www.onorca.dev/) — Lightweight desktop ADE for running and supervising local coding agents.
+  * [Termic](https://github.com/simion/termic) — Git worktree workspace manager built specifically for parallel agent runs.
+  
+  ### 🎛️ Command Centers & Spec Planners
+  *GUIs and control planes focused on multi-runtime orchestration, task breakdown, and project tracking.*
+  * [T3 Code](https://t3.codes/) — Web-first agent control plane and code generation cockpit.
+  * [Synara](https://www.trysynara.com/) — Spec-driven agent orchestration workspace with structured task planning.
+  * [MonoCode](https://www.usemono.dev/) — Multi-runtime GUI for managing and switching between local coding models.
+  * [Traycer](https://traycer.ai/) — Interactive agent dashboard with visual execution trees and step debugging.
+  * [Paseo](https://paseo.sh/) / [Zeron](https://zeron.sh/) / [bb](https://getbb.app/) — Lightweight cross-platform agent controllers and remote dispatchers.
+  
+  ### 📟 Terminal Orchestrators & TUIs
+  *Command-line-first multiplexers and persistent runtimes for hands-on terminal developers.*
+  * [Claude Squad](https://github.com/smtg-ai/claude-squad) — Terminal workspace manager to run and monitor multiple Claude instances simultaneously.
+  * [Craig](https://github.com/hallsamuel90/craig) — Minimalist terminal orchestrator for task delegation and CLI agent supervision.
+  * [agent-deck](https://github.com/asheshgoplani/agent-deck) — TUI control deck for switching contexts and tracking agent states.
+  * [ccmanager](https://github.com/kbwo/ccmanager) — CLI session and container manager tailored for local coding bots.
+  * [Herdr](https://herdr.dev/) — Terminal multiplexer companion that keeps multi-agent processes organized.
+  * [Tern](https://stencil.so/tern) — Fast terminal-based execution environment for agent pipelines.
+  
+  ### ☁️ Sandboxes & Cloud Workspaces
+  *Isolated execution runtimes and persistent cloud containers for untrusted or long-running agent workflows.*
+  * [OpenHands](https://www.openhands.dev/) — Open-source platform for autonomous AI software engineers running inside sandboxed Docker containers.
+  * [Gas Town](https://github.com/gastownhall/gastown) — Workspace orchestration layer providing persistent multi-agent runtimes.
+  * [Cloudroom](https://www.cloudroom.dev/) — Ephemeral cloud development sandbox designed for running automated coding pipelines safely.
 
 ## 🌐 Web Tools & Browsers
 -  ❤️[Zen](https://zen-browser.app/) / ❤️[Helium](https://github.com/imputnet/helium-chromium)  | Privacy focused browers based on firefox and chrome
 - [Glance](https://github.com/glanceapp/glance) | Self-hosted dashboard for various feeds
 - [Pastebin](https://pastebin.com/) / [PrivateBin](https://github.com/PrivateBin/PrivateBin) / [MicroBin](https://github.com/szabodanika/microbin) / [WasteBin](https://github.com/matze/wastebin) / [chiyogami](https://github.com/rhee876527/chiyogami) / [SnowBin](https://github.com/taskyland/snowbin) | Text storage sites where you can store plain text aswell as share.
-
 
 
 ## 🎥 Media Tools
